@@ -198,7 +198,108 @@ def build_ae(from_dir: str | None, proxy: str | None) -> dict:
     }
 
 
-BUILDERS = {"ae": build_ae}
+# ---------------------------------------------------------------- United States
+
+US_SRC = {
+    "area": "https://en.wikipedia.org/wiki/List_of_North_American_Numbering_Plan_area_codes",
+    "plates": "https://en.wikipedia.org/wiki/Vehicle_license_plates_of_the_United_States (per-state pages: infobox slogan and serial_format)",
+}
+# USPS codes (stable public standard)
+US_STATES = {
+    "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR", "California": "CA", "Colorado": "CO", "Connecticut": "CT",
+    "Delaware": "DE", "District of Columbia": "DC", "Florida": "FL", "Georgia": "GA", "Hawaii": "HI", "Idaho": "ID", "Illinois": "IL",
+    "Indiana": "IN", "Iowa": "IA", "Kansas": "KS", "Kentucky": "KY", "Louisiana": "LA", "Maine": "ME", "Maryland": "MD",
+    "Massachusetts": "MA", "Michigan": "MI", "Minnesota": "MN", "Mississippi": "MS", "Missouri": "MO", "Montana": "MT",
+    "Nebraska": "NE", "Nevada": "NV", "New Hampshire": "NH", "New Jersey": "NJ", "New Mexico": "NM", "New York": "NY",
+    "North Carolina": "NC", "North Dakota": "ND", "Ohio": "OH", "Oklahoma": "OK", "Oregon": "OR", "Pennsylvania": "PA",
+    "Rhode Island": "RI", "South Carolina": "SC", "South Dakota": "SD", "Tennessee": "TN", "Texas": "TX", "Utah": "UT",
+    "Vermont": "VT", "Virginia": "VA", "Washington": "WA", "West Virginia": "WV", "Wisconsin": "WI", "Wyoming": "WY",
+}
+US_PLATE_TITLE = {"Georgia": "Georgia (U.S. state)", "New York": "New York", "Washington": "Washington (state)",
+                  "District of Columbia": "the District of Columbia"}
+# slogan fragments shared by many states or not printed as text: not usable as a marker
+US_SLOGAN_SKIP = re.compile(r"^(none|county name|in god we trust|.*\d{4}.*|.*\.(gov|com|org)|\s*)$", re.I)
+
+
+def _infobox_field(txt: str, field: str) -> str:
+    m = re.search(r"^\|[ \t]*" + field + r"[ \t]*=[ \t]*(.*)$", txt, re.M)
+    return m.group(1) if m else ""
+
+
+def _fmt_regex(fmt: str) -> str | None:
+    f = re.sub(r"\(.*?\)", "", fmt.replace("&nbsp;", " "))
+    f = re.sub(r"^[^:]*:\s*", "", f).strip()  # "Yucca: 123-ABC"
+    if not re.fullmatch(r"[A-Z0-9 \-·]{4,10}", f):
+        return None
+    out = ""
+    for ch in f:
+        out += r"\d" if ch.isdigit() else "[A-Z]" if ch.isalpha() else ""
+    return "^" + out + "$"
+
+
+def wiki_follow(title: str, from_dir, proxy) -> str:
+    txt = wiki(title, from_dir, proxy)
+    m = re.match(r"#REDIRECT\s*\[\[([^\]#]+)", txt, re.I)
+    return wiki(m.group(1).strip().replace(" ", "_"), from_dir, proxy) if m else txt
+
+
+def build_us(from_dir: str | None, proxy: str | None) -> dict:
+    import time
+    txt = wiki("List_of_North_American_Numbering_Plan_area_codes", from_dir, proxy)
+    # numeric list: code -> description of the numbering plan area
+    desc = {}
+    for row in re.split(r"\n\|-", txt.split("== Area codes by country")[0]):
+        cells = [c for c in re.split(r"\n\|", "\n" + row.strip()) if c.strip()]
+        if len(cells) >= 2:
+            code = _clean(cells[0]).strip("'")
+            if re.fullmatch(r"\d{3}", code):
+                desc[code] = _clean(cells[1])
+    sec = txt.split("=== United States ===")[1].split("=== Canada ===")[0]
+    area = []
+    for row in re.split(r"\n\|-", sec):
+        m = re.match(r"\s*\|\s*\[\[(?:[^|\]]*\|)?([^\]]*)\]\].*?\|\|(.*)", row.strip(), re.S)
+        if not m:
+            continue
+        state = m.group(1).strip()
+        for code in re.findall(r"\|(\d{3})\]\]", m.group(2)):
+            area.append({"prefix": code, "admin1": [state], "place": desc.get(code, "")})
+    nongeo = [{"prefix": c, "note": "toll-free, nationwide"} for c in ("800", "833", "844", "855", "866", "877", "888")]
+    nongeo += [{"prefix": "900", "note": "premium rate"}, {"prefix": "500", "note": "personal communications, non-geographic"}]
+
+    plates, admin1 = [], []
+    for state, usps in US_STATES.items():
+        admin1.append({"name": state, "name_local": "", "iso": f"US-{usps}", "capital": "", "aliases": [usps]})
+        title = "Vehicle_registration_plates_of_" + US_PLATE_TITLE.get(state, state).replace(" ", "_")
+        try:
+            pt = wiki_follow(title, from_dir, proxy)
+        except SystemExit:
+            print(f"  no plate page for {state}", file=sys.stderr)
+            continue
+        if not from_dir:
+            time.sleep(0.4)
+        raw_sl = re.split(r"<br\s*/?>", _infobox_field(pt, "slogan"), flags=re.I)
+        # drop slogans no longer issued: "(1998-2001)" style closed ranges; keep "(2011-present)"
+        raw_sl = [s for s in raw_sl if not re.search(r"\(\s*\d{4}\s*[-–]\s*\d{4}\s*\)", s)]
+        slog = [re.sub(r"\s*\(.*?\)\s*$", "", _clean(s)).strip(' "') for s in raw_sl]
+        slog = [s for s in slog if s and not s.endswith(":") and not s.startswith(("|", "{")) and not US_SLOGAN_SKIP.match(s)]
+        fmts = [re.sub(r"\(.*?\)", "", _clean(s)).replace("&nbsp;", " ").strip() for s in re.split(r"<br\s*/?>", _infobox_field(pt, "serial_format"), flags=re.I)]
+        rx = sorted({r for r in (_fmt_regex(f) for f in fmts) if r})
+        plates.append({"admin1": state, "markers": [state.upper()] + [s.upper() for s in slog], "code_kind": "format",
+                       "formats": [f for f in fmts if f], "format_regex": rx, "codes": [], "digits": 9,
+                       "note": ("slogans: " + "; ".join(slog) if slog else "") + ("; formats: " + ", ".join(f for f in fmts if f) if fmts else "")})
+    return {
+        "_meta": {"source": [US_SRC["area"], US_SRC["plates"]], "fetched": date.today().isoformat(),
+                  "count": len(area) + len(plates), "license": "derived from Wikipedia, CC BY-SA 4.0",
+                  "by_kind": {"plate": US_SRC["plates"], "area": US_SRC["area"], "admin": "USPS state codes"}},
+        "country": "United States", "iso": "US", "driving_side": "right",
+        "admin1": admin1, "admin2": [], "admin2_level": "county",
+        "admin2_note": "counties not tabled; use board.py children <state> (OSM)",
+        "plates": plates,
+        "phone": {"calling_code": "1", "trunk": "1", "scheme": "nanp", "area": area, "mobile": [], "special": nongeo},
+    }
+
+
+BUILDERS = {"ae": build_ae, "us": build_us}
 
 
 def main() -> None:

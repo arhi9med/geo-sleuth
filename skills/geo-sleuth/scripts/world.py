@@ -15,9 +15,10 @@ DATA = Path(__file__).parent.parent / "data" / "world"
 # country names / codes that select a table
 ALIASES = {
     "ae": ["ae", "are", "uae", "u.a.e", "united arab emirates", "emirates", "阿联酋", "阿拉伯联合酋长国", "оаэ", "эмираты"],
+    "us": ["us", "usa", "u.s.", "u.s.a.", "united states", "united states of america", "america", "美国", "сша"],
 }
 # international calling code -> table, for auto-detecting "+971 4 ..." without --country
-CALLING = {"971": "ae"}
+CALLING = {"971": "ae", "1": "us"}
 
 
 def table_for(country: str | None) -> str | None:
@@ -62,7 +63,14 @@ def lookup_plate(cc: str, value: str) -> dict:
     if named:
         ms = [{"country": d["country"], "admin1": r["admin1"], "admin2": "", "note": "region printed on plate; " + r["note"]} for r in named]
         return _res("plate", value, ms, d)
-    # 2) otherwise narrow by the code: letters vs number, and which codes each region issues
+    # 2a) format-based tables (US states): match the serial against each region's issued formats
+    if any(r.get("code_kind") == "format" for r in d["plates"]):
+        serial = re.sub(r"[^A-Z0-9]", "", raw)
+        ms = [r for r in d["plates"] if any(re.match(rx, serial) for rx in r.get("format_regex", []))]
+        note = "serial format shared by several regions: look for the region name, slogan or plate design" if len(ms) > 1 else \
+            ("" if ms else "serial matches no current standard format (vanity, specialty, older series, or misread)")
+        return _res("plate", value, [{"country": d["country"], "admin1": r["admin1"], "admin2": "", "note": r["note"][:160]} for r in ms], d, note)
+    # 2b) otherwise narrow by the code: letters vs number, and which codes each region issues
     toks = re.findall(r"[A-Z]+|\d+", raw)
     nums = [t for t in toks if t.isdigit()]
     lets = [t for t in toks if t.isalpha()]
@@ -89,6 +97,18 @@ def lookup_phone(cc: str, value: str) -> dict:
     d = load(cc)
     p = d["phone"]
     digits = re.sub(r"\D", "", value)
+    if p.get("scheme") == "nanp":
+        digits = digits[2:] if digits.startswith("00") else digits
+        digits = digits[1:] if len(digits) == 11 and digits.startswith("1") else digits
+        code = digits[:3]
+        for s in p.get("special", []):
+            if code == s["prefix"]:
+                return _res("area-code", value, [{"country": d["country"], "note": s["note"]}], d, "nationwide number, no area")
+        hits = [a for a in p["area"] if a["prefix"] == code]
+        if not hits:
+            return _res("area-code", value, [], d, "area code not in the US table (Canada, Caribbean, or not a NANP number)")
+        return _res("area-code", value, [{"country": d["country"], "admin1": s, "admin2": "", "note": a["place"]} for a in hits for s in a["admin1"]], d,
+                    "US numbers are portable: mobile numbers keep their area code after people move")
     for pre in ("00" + p["calling_code"], p["calling_code"]):
         if digits.startswith(pre) and len(digits) > len(pre) + 6:
             digits = p["trunk"] + digits[len(pre):]

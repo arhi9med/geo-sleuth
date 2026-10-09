@@ -11,6 +11,7 @@
 | `territories.json` | 海外领地和属地 | [en.wikipedia.org/wiki/List_of_dependent_territories](https://en.wikipedia.org/wiki/List_of_dependent_territories) | 2026-09-14 | 60 | 派生自维基百科，CC BY-SA 4.0 |
 | `cn_admin.json` | 中国省市县三级行政区代码 | [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) `dist/pca-code.json` | 2026-09-14 | 3420 | WTFPL |
 | `world/ae.json` | UAE: 7 emirates, 224 Dubai communities with official codes, plate rules per emirate, phone prefixes | en.wikipedia.org: Vehicle registration plates of the UAE; Telephone numbers in the UAE; Emirates of the UAE; List of communities in Dubai | 2026-10-08 | 231 | derived from Wikipedia, CC BY-SA 4.0 |
+| `world/us.json` | US: 50 states + DC (USPS/ISO), 371 area codes with area descriptions, plate slogans and serial formats per state | en.wikipedia.org: List of North American Numbering Plan area codes; Vehicle registration plates of <State> (infobox) | 2026-10-08 | 421 | derived from Wikipedia, CC BY-SA 4.0 |
 | `country_names.json` | 中英文国家和地区名对照及别名 | 手工整理 | 2026-09-14 | 300 | MIT（随本仓库） |
 
 说明：

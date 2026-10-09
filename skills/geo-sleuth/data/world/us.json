@@ -1,0 +1,4085 @@
+{
+ "_meta": {
+  "source": [
+   "https://en.wikipedia.org/wiki/List_of_North_American_Numbering_Plan_area_codes",
+   "https://en.wikipedia.org/wiki/Vehicle_license_plates_of_the_United_States (per-state pages: infobox slogan and serial_format)"
+  ],
+  "fetched": "2026-10-08",
+  "count": 421,
+  "license": "derived from Wikipedia, CC BY-SA 4.0",
+  "by_kind": {
+   "plate": "https://en.wikipedia.org/wiki/Vehicle_license_plates_of_the_United_States (per-state pages: infobox slogan and serial_format)",
+   "area": "https://en.wikipedia.org/wiki/List_of_North_American_Numbering_Plan_area_codes",
+   "admin": "USPS state codes"
+  }
+ },
+ "country": "United States",
+ "iso": "US",
+ "driving_side": "right",
+ "admin1": [
+  {
+   "name": "Alabama",
+   "name_local": "",
+   "iso": "US-AL",
+   "capital": "",
+   "aliases": [
+    "AL"
+   ]
+  },
+  {
+   "name": "Alaska",
+   "name_local": "",
+   "iso": "US-AK",
+   "capital": "",
+   "aliases": [
+    "AK"
+   ]
+  },
+  {
+   "name": "Arizona",
+   "name_local": "",
+   "iso": "US-AZ",
+   "capital": "",
+   "aliases": [
+    "AZ"
+   ]
+  },
+  {
+   "name": "Arkansas",
+   "name_local": "",
+   "iso": "US-AR",
+   "capital": "",
+   "aliases": [
+    "AR"
+   ]
+  },
+  {
+   "name": "California",
+   "name_local": "",
+   "iso": "US-CA",
+   "capital": "",
+   "aliases": [
+    "CA"
+   ]
+  },
+  {
+   "name": "Colorado",
+   "name_local": "",
+   "iso": "US-CO",
+   "capital": "",
+   "aliases": [
+    "CO"
+   ]
+  },
+  {
+   "name": "Connecticut",
+   "name_local": "",
+   "iso": "US-CT",
+   "capital": "",
+   "aliases": [
+    "CT"
+   ]
+  },
+  {
+   "name": "Delaware",
+   "name_local": "",
+   "iso": "US-DE",
+   "capital": "",
+   "aliases": [
+    "DE"
+   ]
+  },
+  {
+   "name": "District of Columbia",
+   "name_local": "",
+   "iso": "US-DC",
+   "capital": "",
+   "aliases": [
+    "DC"
+   ]
+  },
+  {
+   "name": "Florida",
+   "name_local": "",
+   "iso": "US-FL",
+   "capital": "",
+   "aliases": [
+    "FL"
+   ]
+  },
+  {
+   "name": "Georgia",
+   "name_local": "",
+   "iso": "US-GA",
+   "capital": "",
+   "aliases": [
+    "GA"
+   ]
+  },
+  {
+   "name": "Hawaii",
+   "name_local": "",
+   "iso": "US-HI",
+   "capital": "",
+   "aliases": [
+    "HI"
+   ]
+  },
+  {
+   "name": "Idaho",
+   "name_local": "",
+   "iso": "US-ID",
+   "capital": "",
+   "aliases": [
+    "ID"
+   ]
+  },
+  {
+   "name": "Illinois",
+   "name_local": "",
+   "iso": "US-IL",
+   "capital": "",
+   "aliases": [
+    "IL"
+   ]
+  },
+  {
+   "name": "Indiana",
+   "name_local": "",
+   "iso": "US-IN",
+   "capital": "",
+   "aliases": [
+    "IN"
+   ]
+  },
+  {
+   "name": "Iowa",
+   "name_local": "",
+   "iso": "US-IA",
+   "capital": "",
+   "aliases": [
+    "IA"
+   ]
+  },
+  {
+   "name": "Kansas",
+   "name_local": "",
+   "iso": "US-KS",
+   "capital": "",
+   "aliases": [
+    "KS"
+   ]
+  },
+  {
+   "name": "Kentucky",
+   "name_local": "",
+   "iso": "US-KY",
+   "capital": "",
+   "aliases": [
+    "KY"
+   ]
+  },
+  {
+   "name": "Louisiana",
+   "name_local": "",
+   "iso": "US-LA",
+   "capital": "",
+   "aliases": [
+    "LA"
+   ]
+  },
+  {
+   "name": "Maine",
+   "name_local": "",
+   "iso": "US-ME",
+   "capital": "",
+   "aliases": [
+    "ME"
+   ]
+  },
+  {
+   "name": "Maryland",
+   "name_local": "",
+   "iso": "US-MD",
+   "capital": "",
+   "aliases": [
+    "MD"
+   ]
+  },
+  {
+   "name": "Massachusetts",
+   "name_local": "",
+   "iso": "US-MA",
+   "capital": "",
+   "aliases": [
+    "MA"
+   ]
+  },
+  {
+   "name": "Michigan",
+   "name_local": "",
+   "iso": "US-MI",
+   "capital": "",
+   "aliases": [
+    "MI"
+   ]
+  },
+  {
+   "name": "Minnesota",
+   "name_local": "",
+   "iso": "US-MN",
+   "capital": "",
+   "aliases": [
+    "MN"
+   ]
+  },
+  {
+   "name": "Mississippi",
+   "name_local": "",
+   "iso": "US-MS",
+   "capital": "",
+   "aliases": [
+    "MS"
+   ]
+  },
+  {
+   "name": "Missouri",
+   "name_local": "",
+   "iso": "US-MO",
+   "capital": "",
+   "aliases": [
+    "MO"
+   ]
+  },
+  {
+   "name": "Montana",
+   "name_local": "",
+   "iso": "US-MT",
+   "capital": "",
+   "aliases": [
+    "MT"
+   ]
+  },
+  {
+   "name": "Nebraska",
+   "name_local": "",
+   "iso": "US-NE",
+   "capital": "",
+   "aliases": [
+    "NE"
+   ]
+  },
+  {
+   "name": "Nevada",
+   "name_local": "",
+   "iso": "US-NV",
+   "capital": "",
+   "aliases": [
+    "NV"
+   ]
+  },
+  {
+   "name": "New Hampshire",
+   "name_local": "",
+   "iso": "US-NH",
+   "capital": "",
+   "aliases": [
+    "NH"
+   ]
+  },
+  {
+   "name": "New Jersey",
+   "name_local": "",
+   "iso": "US-NJ",
+   "capital": "",
+   "aliases": [
+    "NJ"
+   ]
+  },
+  {
+   "name": "New Mexico",
+   "name_local": "",
+   "iso": "US-NM",
+   "capital": "",
+   "aliases": [
+    "NM"
+   ]
+  },
+  {
+   "name": "New York",
+   "name_local": "",
+   "iso": "US-NY",
+   "capital": "",
+   "aliases": [
+    "NY"
+   ]
+  },
+  {
+   "name": "North Carolina",
+   "name_local": "",
+   "iso": "US-NC",
+   "capital": "",
+   "aliases": [
+    "NC"
+   ]
+  },
+  {
+   "name": "North Dakota",
+   "name_local": "",
+   "iso": "US-ND",
+   "capital": "",
+   "aliases": [
+    "ND"
+   ]
+  },
+  {
+   "name": "Ohio",
+   "name_local": "",
+   "iso": "US-OH",
+   "capital": "",
+   "aliases": [
+    "OH"
+   ]
+  },
+  {
+   "name": "Oklahoma",
+   "name_local": "",
+   "iso": "US-OK",
+   "capital": "",
+   "aliases": [
+    "OK"
+   ]
+  },
+  {
+   "name": "Oregon",
+   "name_local": "",
+   "iso": "US-OR",
+   "capital": "",
+   "aliases": [
+    "OR"
+   ]
+  },
+  {
+   "name": "Pennsylvania",
+   "name_local": "",
+   "iso": "US-PA",
+   "capital": "",
+   "aliases": [
+    "PA"
+   ]
+  },
+  {
+   "name": "Rhode Island",
+   "name_local": "",
+   "iso": "US-RI",
+   "capital": "",
+   "aliases": [
+    "RI"
+   ]
+  },
+  {
+   "name": "South Carolina",
+   "name_local": "",
+   "iso": "US-SC",
+   "capital": "",
+   "aliases": [
+    "SC"
+   ]
+  },
+  {
+   "name": "South Dakota",
+   "name_local": "",
+   "iso": "US-SD",
+   "capital": "",
+   "aliases": [
+    "SD"
+   ]
+  },
+  {
+   "name": "Tennessee",
+   "name_local": "",
+   "iso": "US-TN",
+   "capital": "",
+   "aliases": [
+    "TN"
+   ]
+  },
+  {
+   "name": "Texas",
+   "name_local": "",
+   "iso": "US-TX",
+   "capital": "",
+   "aliases": [
+    "TX"
+   ]
+  },
+  {
+   "name": "Utah",
+   "name_local": "",
+   "iso": "US-UT",
+   "capital": "",
+   "aliases": [
+    "UT"
+   ]
+  },
+  {
+   "name": "Vermont",
+   "name_local": "",
+   "iso": "US-VT",
+   "capital": "",
+   "aliases": [
+    "VT"
+   ]
+  },
+  {
+   "name": "Virginia",
+   "name_local": "",
+   "iso": "US-VA",
+   "capital": "",
+   "aliases": [
+    "VA"
+   ]
+  },
+  {
+   "name": "Washington",
+   "name_local": "",
+   "iso": "US-WA",
+   "capital": "",
+   "aliases": [
+    "WA"
+   ]
+  },
+  {
+   "name": "West Virginia",
+   "name_local": "",
+   "iso": "US-WV",
+   "capital": "",
+   "aliases": [
+    "WV"
+   ]
+  },
+  {
+   "name": "Wisconsin",
+   "name_local": "",
+   "iso": "US-WI",
+   "capital": "",
+   "aliases": [
+    "WI"
+   ]
+  },
+  {
+   "name": "Wyoming",
+   "name_local": "",
+   "iso": "US-WY",
+   "capital": "",
+   "aliases": [
+    "WY"
+   ]
+  }
+ ],
+ "admin2": [],
+ "admin2_level": "county",
+ "admin2_note": "counties not tabled; use board.py children <state> (OSM)",
+ "plates": [
+  {
+   "admin1": "Alabama",
+   "markers": [
+    "ALABAMA",
+    "HEART OF DIXIE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "1A2345B",
+    "1A23BCD",
+    "1A23B4C",
+    "10A123B",
+    "10A12B3",
+    "10A1B23",
+    "10A1BC2",
+    "10A2BCD"
+   ],
+   "format_regex": [
+    "^\\d[A-Z]\\d\\d[A-Z][A-Z][A-Z]$",
+    "^\\d[A-Z]\\d\\d[A-Z]\\d[A-Z]$",
+    "^\\d[A-Z]\\d\\d\\d\\d[A-Z]$",
+    "^\\d\\d[A-Z]\\d[A-Z][A-Z][A-Z]$",
+    "^\\d\\d[A-Z]\\d[A-Z][A-Z]\\d$",
+    "^\\d\\d[A-Z]\\d[A-Z]\\d\\d$",
+    "^\\d\\d[A-Z]\\d\\d[A-Z]\\d$",
+    "^\\d\\d[A-Z]\\d\\d\\d[A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Heart of Dixie; formats: 1A2345B, 1A23BCD, 1A23B4C, 10A123B, 10A12B3, 10A1B23, 10A1BC2, 10A2BCD"
+  },
+  {
+   "admin1": "Alaska",
+   "markers": [
+    "ALASKA",
+    "THE LAST FRONTIER",
+    "ALASKA ARTISTIC LICENSE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 123"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: The Last Frontier; Alaska Artistic License; formats: ABC 123"
+  },
+  {
+   "admin1": "Arizona",
+   "markers": [
+    "ARIZONA",
+    "GRAND CANYON STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "XXX 1XX",
+    "XXX1XXX",
+    "ABC1234",
+    "123·ABC"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d[A-Z][A-Z]$",
+    "^[A-Z][A-Z][A-Z]\\d[A-Z][A-Z][A-Z]$",
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Grand Canyon State; formats: XXX 1XX, XXX1XXX, ABC1234, 123·ABC"
+  },
+  {
+   "admin1": "Arkansas",
+   "markers": [
+    "ARKANSAS",
+    "THE NATURAL STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 12D",
+    "123 ABC"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d[A-Z]$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: The Natural State; formats: ABC 12D, 123 ABC"
+  },
+  {
+   "admin1": "California",
+   "markers": [
+    "CALIFORNIA"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "1ABC123",
+    "123ABC1"
+   ],
+   "format_regex": [
+    "^\\d[A-Z][A-Z][A-Z]\\d\\d\\d$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: 1ABC123, 123ABC1"
+  },
+  {
+   "admin1": "Colorado",
+   "markers": [
+    "COLORADO"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC-D12",
+    "ABC-123",
+    "123-ABC"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z][A-Z]\\d\\d$",
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: ABC-D12, ABC-123, 123-ABC"
+  },
+  {
+   "admin1": "Connecticut",
+   "markers": [
+    "CONNECTICUT",
+    "CONSTITUTION STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "AB·12345",
+    "1AB·CD2",
+    "1ABCD2",
+    "123·ABC"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z]\\d\\d\\d\\d\\d$",
+    "^\\d[A-Z][A-Z][A-Z][A-Z]\\d$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Constitution State; formats: AB·12345, 1AB·CD2, 1ABCD2, 123·ABC"
+  },
+  {
+   "admin1": "Delaware",
+   "markers": [
+    "DELAWARE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "123456"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: 123456"
+  },
+  {
+   "admin1": "Florida",
+   "markers": [
+    "FLORIDA",
+    "SUNSHINE STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC D12",
+    "A12 3BC",
+    "12A BCD",
+    "123 4AB",
+    "AB1 2CD",
+    "A12 34B",
+    "ABC 123"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z][A-Z]\\d\\d$",
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$",
+    "^[A-Z][A-Z]\\d\\d[A-Z][A-Z]$",
+    "^[A-Z]\\d\\d\\d[A-Z][A-Z]$",
+    "^[A-Z]\\d\\d\\d\\d[A-Z]$",
+    "^\\d\\d[A-Z][A-Z][A-Z][A-Z]$",
+    "^\\d\\d\\d\\d[A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Sunshine State; formats: ABC D12, A12 3BC, 12A BCD, 123 4AB, AB1 2CD, A12 34B, ABC 123"
+  },
+  {
+   "admin1": "Georgia",
+   "markers": [
+    "GEORGIA",
+    "250 YEAR ANNIVERSARY REVOLUTIONARY WAR"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC1234",
+    "ABC1DE; AB1CDE"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: 250 Year Anniversary Revolutionary War; formats: ABC1234, ABC1DE; AB1CDE"
+  },
+  {
+   "admin1": "Hawaii",
+   "markers": [
+    "HAWAII",
+    "ALOHA STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 123"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Aloha State; formats: ABC 123"
+  },
+  {
+   "admin1": "Idaho",
+   "markers": [
+    "IDAHO",
+    "FAMOUS POTATOES"
+   ],
+   "code_kind": "format",
+   "formats": [],
+   "format_regex": [],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Famous Potatoes; formats: "
+  },
+  {
+   "admin1": "Illinois",
+   "markers": [
+    "ILLINOIS",
+    "LAND OF LINCOLN"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "AB 12345"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z]\\d\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Land of Lincoln; formats: AB 12345"
+  },
+  {
+   "admin1": "Indiana",
+   "markers": [
+    "INDIANA"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "123A",
+    "123AB",
+    "123ABC"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d[A-Z]$",
+    "^\\d\\d\\d[A-Z][A-Z]$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: 123A, 123AB, 123ABC"
+  },
+  {
+   "admin1": "Iowa",
+   "markers": [
+    "IOWA"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 123"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: ABC 123"
+  },
+  {
+   "admin1": "Kansas",
+   "markers": [
+    "KANSAS"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "1234ABC"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: 1234ABC"
+  },
+  {
+   "admin1": "Kentucky",
+   "markers": [
+    "KENTUCKY",
+    "BLUEGRASS STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "A1B234",
+    "ABC123"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$",
+    "^[A-Z]\\d[A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Bluegrass State; formats: A1B234, ABC123"
+  },
+  {
+   "admin1": "Louisiana",
+   "markers": [
+    "LOUISIANA",
+    "SPORTSMAN'S PARADISE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "123 ABC"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Sportsman's Paradise; formats: 123 ABC"
+  },
+  {
+   "admin1": "Maine",
+   "markers": [
+    "MAINE",
+    "VACATIONLAND"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "123·ABC"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Vacationland; formats: 123·ABC"
+  },
+  {
+   "admin1": "Maryland",
+   "markers": [
+    "MARYLAND"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "1AB2345"
+   ],
+   "format_regex": [
+    "^\\d[A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: 1AB2345"
+  },
+  {
+   "admin1": "Massachusetts",
+   "markers": [
+    "MASSACHUSETTS",
+    "THE SPIRIT OF AMERICA"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "Current:",
+    "1ABC 23",
+    "Former:",
+    "123 ABC",
+    "1234 AB",
+    "12A B34",
+    "123 AB4",
+    "1AB 234",
+    "1ABC 20",
+    "12A 340",
+    "123 A40"
+   ],
+   "format_regex": [
+    "^\\d[A-Z][A-Z][A-Z]\\d\\d$",
+    "^\\d[A-Z][A-Z]\\d\\d\\d$",
+    "^\\d\\d[A-Z][A-Z]\\d\\d$",
+    "^\\d\\d[A-Z]\\d\\d\\d$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$",
+    "^\\d\\d\\d[A-Z][A-Z]\\d$",
+    "^\\d\\d\\d[A-Z]\\d\\d$",
+    "^\\d\\d\\d\\d[A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: The Spirit of America; formats: Current:, 1ABC 23, Former:, 123 ABC, 1234 AB, 12A B34, 123 AB4, 1AB 234, 1ABC 20, 12A 340, 123 A40"
+  },
+  {
+   "admin1": "Michigan",
+   "markers": [
+    "MICHIGAN",
+    "PURE MICHIGAN"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 1234"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Pure Michigan; formats: ABC 1234"
+  },
+  {
+   "admin1": "Minnesota",
+   "markers": [
+    "MINNESOTA",
+    "10,000 LAKES"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 123",
+    "123 ABC"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: 10,000 Lakes; formats: ABC 123, 123 ABC"
+  },
+  {
+   "admin1": "Mississippi",
+   "markers": [
+    "MISSISSIPPI"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 123"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: ABC 123"
+  },
+  {
+   "admin1": "Missouri",
+   "markers": [
+    "MISSOURI",
+    "SHOW-ME STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "AB1 C2D"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z]\\d[A-Z]\\d[A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Show-Me State; formats: AB1 C2D"
+  },
+  {
+   "admin1": "Montana",
+   "markers": [
+    "MONTANA",
+    "TREASURE STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "1-12345A",
+    "10-1234A"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d\\d\\d\\d[A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Treasure State; formats: 1-12345A, 10-1234A"
+  },
+  {
+   "admin1": "Nebraska",
+   "markers": [
+    "NEBRASKA"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "Douglas, Lancaster and Sarpy Counties:",
+    "ABC 123",
+    "All other counties :",
+    "3-A1234",
+    "3-AB123",
+    "10-A123",
+    "10-AB12"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$",
+    "^\\d[A-Z][A-Z]\\d\\d\\d$",
+    "^\\d[A-Z]\\d\\d\\d\\d$",
+    "^\\d\\d[A-Z][A-Z]\\d\\d$",
+    "^\\d\\d[A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: Douglas, Lancaster and Sarpy Counties:, ABC 123, All other counties :, 3-A1234, 3-AB123, 10-A123, 10-AB12"
+  },
+  {
+   "admin1": "Nevada",
+   "markers": [
+    "NEVADA",
+    "HOME MEANS NEVADA"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "12A·345"
+   ],
+   "format_regex": [
+    "^\\d\\d[A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Home Means Nevada; formats: 12A·345"
+  },
+  {
+   "admin1": "New Hampshire",
+   "markers": [
+    "NEW HAMPSHIRE",
+    "LIVE FREE OR DIE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "123 4567"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Live Free or Die; formats: 123 4567"
+  },
+  {
+   "admin1": "New Jersey",
+   "markers": [
+    "NEW JERSEY",
+    "GARDEN STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "A12-BCD"
+   ],
+   "format_regex": [
+    "^[A-Z]\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Garden State; formats: A12-BCD"
+  },
+  {
+   "admin1": "New Mexico",
+   "markers": [
+    "NEW MEXICO",
+    "LAND OF ENCHANTMENT",
+    "CHILE CAPITAL OF THE WORLD"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "Yucca: 123-ABC",
+    "Turquoise: ABC-123",
+    "Chile: ABCD12"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z][A-Z]\\d\\d$",
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Land of Enchantment; Chile Capital of the World; formats: Yucca: 123-ABC, Turquoise: ABC-123, Chile: ABCD12"
+  },
+  {
+   "admin1": "New York",
+   "markers": [
+    "NEW YORK",
+    "EXCELSIOR"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC-1234"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Excelsior; formats: ABC-1234"
+  },
+  {
+   "admin1": "North Carolina",
+   "markers": [
+    "NORTH CAROLINA",
+    "FIRST IN FLIGHT",
+    "FIRST IN FREEDOM",
+    "IN GOD WE TRUST;",
+    "TO BE RATHER THAN TO SEEM"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC-1234"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: First in Flight; First in Freedom; In God We Trust;; To Be Rather Than to Seem; formats: ABC-1234"
+  },
+  {
+   "admin1": "North Dakota",
+   "markers": [
+    "NORTH DAKOTA",
+    "LEGENDARY NORTH DAKOTA",
+    "PEACE GARDEN STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "123 ABC"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Legendary North Dakota; Peace Garden State; formats: 123 ABC"
+  },
+  {
+   "admin1": "Ohio",
+   "markers": [
+    "OHIO",
+    "BIRTHPLACE OF AVIATION"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 1234"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Birthplace of Aviation; formats: ABC 1234"
+  },
+  {
+   "admin1": "Oklahoma",
+   "markers": [
+    "OKLAHOMA",
+    "IMAGINE THAT"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 123"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Imagine That; formats: ABC 123"
+  },
+  {
+   "admin1": "Oregon",
+   "markers": [
+    "OREGON"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "123 ABC"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: 123 ABC"
+  },
+  {
+   "admin1": "Pennsylvania",
+   "markers": [
+    "PENNSYLVANIA",
+    "LET FREEDOM RING"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC1234"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Let Freedom Ring; formats: ABC1234"
+  },
+  {
+   "admin1": "Rhode Island",
+   "markers": [
+    "RHODE ISLAND",
+    "OCEAN STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "AB-123",
+    "123-456",
+    "1AB234",
+    "1A234"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z]\\d\\d\\d$",
+    "^\\d[A-Z][A-Z]\\d\\d\\d$",
+    "^\\d[A-Z]\\d\\d\\d$",
+    "^\\d\\d\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Ocean State; formats: AB-123, 123-456, 1AB234, 1A234"
+  },
+  {
+   "admin1": "South Carolina",
+   "markers": [
+    "SOUTH CAROLINA",
+    "WHERE THE REVOLUTIONARY WAR WAS WON"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "123ABC"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Where the Revolutionary War Was Won; formats: 123ABC"
+  },
+  {
+   "admin1": "South Dakota",
+   "markers": [
+    "SOUTH DAKOTA",
+    "GREAT FACES. GREAT PLACES."
+   ],
+   "code_kind": "format",
+   "formats": [
+    "1A1 234",
+    "1AB 123",
+    "10A 123",
+    "10A B12",
+    "44A BC1"
+   ],
+   "format_regex": [
+    "^\\d[A-Z][A-Z]\\d\\d\\d$",
+    "^\\d[A-Z]\\d\\d\\d\\d$",
+    "^\\d\\d[A-Z][A-Z][A-Z]\\d$",
+    "^\\d\\d[A-Z][A-Z]\\d\\d$",
+    "^\\d\\d[A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Great Faces. Great Places.; formats: 1A1 234, 1AB 123, 10A 123, 10A B12, 44A BC1"
+  },
+  {
+   "admin1": "Tennessee",
+   "markers": [
+    "TENNESSEE",
+    "THE VOLUNTEER STATE",
+    "OPTIONAL: IN GOD WE TRUST"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC-1234",
+    "123-ABCD"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: The Volunteer State; Optional: In God We Trust; formats: ABC-1234, 123-ABCD"
+  },
+  {
+   "admin1": "Texas",
+   "markers": [
+    "TEXAS",
+    "THE LONE STAR STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC-1234"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: The Lone Star State; formats: ABC-1234"
+  },
+  {
+   "admin1": "Utah",
+   "markers": [
+    "UTAH",
+    "LIFE ELEVATED",
+    "GREATEST SNOW ON EARTH",
+    "IN GOD WE TRUST; UNITED WE STAND"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "Ski and arch plates:",
+    "A12 3BC",
+    "In God We Trust plate:",
+    "1ABC2"
+   ],
+   "format_regex": [
+    "^[A-Z]\\d\\d\\d[A-Z][A-Z]$",
+    "^\\d[A-Z][A-Z][A-Z]\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Life Elevated; Greatest Snow on Earth; In God We Trust; United We Stand; formats: Ski and arch plates:, A12 3BC, In God We Trust plate:, 1ABC2"
+  },
+  {
+   "admin1": "Vermont",
+   "markers": [
+    "VERMONT",
+    "GREEN MOUNTAIN STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC 123"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Green Mountain State; formats: ABC 123"
+  },
+  {
+   "admin1": "Virginia",
+   "markers": [
+    "VIRGINIA",
+    "VIRGINIA IS FOR LOVERS"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC-1234"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Virginia is for Lovers; formats: ABC-1234"
+  },
+  {
+   "admin1": "Washington",
+   "markers": [
+    "WASHINGTON",
+    "EVERGREEN STATE"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC1234"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Evergreen State; formats: ABC1234"
+  },
+  {
+   "admin1": "West Virginia",
+   "markers": [
+    "WEST VIRGINIA",
+    "WILD, WONDERFUL"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "012 345A",
+    "A12 345A"
+   ],
+   "format_regex": [
+    "^[A-Z]\\d\\d\\d\\d\\d[A-Z]$",
+    "^\\d\\d\\d\\d\\d\\d[A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: Wild, Wonderful; formats: 012 345A, A12 345A"
+  },
+  {
+   "admin1": "Wisconsin",
+   "markers": [
+    "WISCONSIN",
+    "AMERICA'S DAIRYLAND"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "ABC-1234",
+    "123-ABC"
+   ],
+   "format_regex": [
+    "^[A-Z][A-Z][A-Z]\\d\\d\\d\\d$",
+    "^\\d\\d\\d[A-Z][A-Z][A-Z]$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "slogans: America's Dairyland; formats: ABC-1234, 123-ABC"
+  },
+  {
+   "admin1": "Wyoming",
+   "markers": [
+    "WYOMING"
+   ],
+   "code_kind": "format",
+   "formats": [
+    "1-12345",
+    "1-1234A",
+    "1/0-12345"
+   ],
+   "format_regex": [
+    "^\\d\\d\\d\\d\\d[A-Z]$",
+    "^\\d\\d\\d\\d\\d\\d$"
+   ],
+   "codes": [],
+   "digits": 9,
+   "note": "; formats: 1-12345, 1-1234A, 1/0-12345"
+  }
+ ],
+ "phone": {
+  "calling_code": "1",
+  "trunk": "1",
+  "scheme": "nanp",
+  "area": [
+   {
+    "prefix": "205",
+    "admin1": [
+     "Alabama"
+    ],
+    "place": "Western and central Alabama (Birmingham, Tuscaloosa)"
+   },
+   {
+    "prefix": "251",
+    "admin1": [
+     "Alabama"
+    ],
+    "place": "Alabama (Mobile County, Baldwin County, Bay Minette, Jackson, Brewton, Citronelle, and a part of southwestern Alabama)"
+   },
+   {
+    "prefix": "256",
+    "admin1": [
+     "Alabama"
+    ],
+    "place": "Alabama (Huntsville, Decatur, Cullman, Gadsden, Madison, Florence, Sheffield, Tuscumbia, Fort Payne, Scottsboro, and most of northern Alabama)"
+   },
+   {
+    "prefix": "334",
+    "admin1": [
+     "Alabama"
+    ],
+    "place": "Alabama (Montgomery, Auburn, Dothan, Enterprise, Eufaula, Opelika, Phenix City, Selma, Tuskegee, and most of southeastern Alabama)"
+   },
+   {
+    "prefix": "483",
+    "admin1": [
+     "Alabama"
+    ],
+    "place": "Alabama (Montgomery, Auburn, Dothan, Enterprise, Eufaula, Opelika, Phenix City, Selma, Tuskegee, and most of southeastern Alabama)"
+   },
+   {
+    "prefix": "659",
+    "admin1": [
+     "Alabama"
+    ],
+    "place": "Alabama (Birmingham, Tuscaloosa, and parts of western and central Alabama)"
+   },
+   {
+    "prefix": "938",
+    "admin1": [
+     "Alabama"
+    ],
+    "place": "Alabama (Huntsville, Anniston, Cullman, Decatur, Florence, Fort Payne, Gadsden, Madison, Sheffield, Tuscumbia)"
+   },
+   {
+    "prefix": "907",
+    "admin1": [
+     "Alaska"
+    ],
+    "place": "Alaska (all, except the lone border town of Hyder which uses the BC, Canada area codes of 236, 250, 672, or 778 depending on its assigned number)"
+   },
+   {
+    "prefix": "480",
+    "admin1": [
+     "Arizona"
+    ],
+    "place": "Arizona (Phoenix metropolitan area; primarily the East Valley)"
+   },
+   {
+    "prefix": "520",
+    "admin1": [
+     "Arizona"
+    ],
+    "place": "Arizona (Tucson, Nogales, Fort Huachuca, and most of southeastern Arizona)"
+   },
+   {
+    "prefix": "602",
+    "admin1": [
+     "Arizona"
+    ],
+    "place": "Arizona (Phoenix metropolitan area; primarily the city of Phoenix)"
+   },
+   {
+    "prefix": "623",
+    "admin1": [
+     "Arizona"
+    ],
+    "place": "Arizona (Phoenix metropolitan area; primarily the West Valley)"
+   },
+   {
+    "prefix": "928",
+    "admin1": [
+     "Arizona"
+    ],
+    "place": "Arizona (except for Phoenix metropolitan area, Tucson metropolitan area, and some areas west and south of Tucson)"
+   },
+   {
+    "prefix": "327",
+    "admin1": [
+     "Arkansas"
+    ],
+    "place": "Arkansas (Texarkana, Jonesboro, Pine Bluff; southern, eastern, and northeastern Arkansas)"
+   },
+   {
+    "prefix": "479",
+    "admin1": [
+     "Arkansas"
+    ],
+    "place": "Arkansas (Fort Smith, Fayetteville, Rogers, and most of northwestern Arkansas)"
+   },
+   {
+    "prefix": "501",
+    "admin1": [
+     "Arkansas"
+    ],
+    "place": "Arkansas (Little Rock, Hot Springs, and much of central Arkansas, excluding Pine Bluff)"
+   },
+   {
+    "prefix": "870",
+    "admin1": [
+     "Arkansas"
+    ],
+    "place": "Arkansas (Texarkana, Jonesboro, Pine Bluff, and southern, eastern, and northeastern Arkansas)"
+   },
+   {
+    "prefix": "209",
+    "admin1": [
+     "California"
+    ],
+    "place": "Part of central California (Stockton, Modesto, and Merced, extending into central Yosemite National Park)"
+   },
+   {
+    "prefix": "213",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (central area of Los Angeles)"
+   },
+   {
+    "prefix": "279",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (the Sacramento Metropolitan Area)"
+   },
+   {
+    "prefix": "310",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (southwestern coastal and coastal-adjacent areas of Los Angeles County, including Beverly Hills, Brentwood, Malibu, Pacific Palisades, Redondo Beach, Santa Monica, Torrance, and Santa Catalina Island)"
+   },
+   {
+    "prefix": "323",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Downtown Los Angeles and surrounding areas)"
+   },
+   {
+    "prefix": "341",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (coastal regions of the East Bay—Oakland, Fremont, Hayward, Richmond, Berkeley, and Alameda)"
+   },
+   {
+    "prefix": "350",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Stockton, Modesto, Merced, Tracy, San Andreas, and a part of central California extending into central Yosemite National Park)"
+   },
+   {
+    "prefix": "357",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Fresno, Hanford, Madera, Tulare, Visalia, and parts of the San Joaquin Valley)"
+   },
+   {
+    "prefix": "369",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Vallejo, Crescent City, Eureka, Redwoods National Park, Santa Rosa, Ukiah, and most of northwestern California)"
+   },
+   {
+    "prefix": "408",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (San Jose, Cupertino, Los Altos, Los Altos Hills, Los Gatos, Milpitas, Mountain View, Santa Clara, Sunnyvale, and Silicon Valley)"
+   },
+   {
+    "prefix": "415",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (San Francisco, Daly City, Brisbane, and most of Marin County)"
+   },
+   {
+    "prefix": "424",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (southwestern coastal and coastal-adjacent areas of Los Angeles County; also Santa Catalina Island)"
+   },
+   {
+    "prefix": "442",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (most of the desert and mountain portions of the southeastern two-thirds of California)"
+   },
+   {
+    "prefix": "510",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (coastal regions of the East Bay: Oakland, Fremont, Hayward, Richmond, Berkeley, and Alameda)"
+   },
+   {
+    "prefix": "530",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Redding, Auburn, Chico, Davis, the California shore of Lake Tahoe, Placerville, Susanville, Truckee, Yreka, and most of northeastern California)"
+   },
+   {
+    "prefix": "559",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Fresno, Hanford, Madera, Tulare, Visalia, and parts of the San Joaquin Valley)"
+   },
+   {
+    "prefix": "562",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Downey, Long Beach, Whittier, Norwalk, La Habra, Lakewood, Pico Rivera, and most of southeastern Los Angeles County)"
+   },
+   {
+    "prefix": "619",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (San Diego and suburbs)"
+   },
+   {
+    "prefix": "626",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (San Gabriel Valley)"
+   },
+   {
+    "prefix": "628",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (San Francisco, Daly City, Brisbane, and most of Marin County)"
+   },
+   {
+    "prefix": "650",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Daly City, South San Francisco, Palo Alto, Redwood City, Menlo Park, Mountain View, San Mateo, Santa Clara)"
+   },
+   {
+    "prefix": "657",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Northern Orange County: Anaheim, Fullerton, Garden Grove, Huntington Beach, Orange, Santa Ana, and portions Newport Beach and Costa Mesa)"
+   },
+   {
+    "prefix": "661",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Northern Los Angeles County, including Lancaster, Palmdale, and Santa Clarita; and most of Kern County, including Bakersfield, Mojave, and Edwards Air Force Base)"
+   },
+   {
+    "prefix": "669",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (San Jose, Cupertino, Los Altos, Los Altos Hills, Los Gatos, Milpitas, Mountain View, Santa Clara, Sunnyvale, and Silicon Valley)"
+   },
+   {
+    "prefix": "707",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Vallejo, Crescent City, Eureka, Redwoods National Park, Santa Rosa, Ukiah, and most of northwestern California)"
+   },
+   {
+    "prefix": "714",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Northern Orange County: Anaheim, Fullerton, Garden Grove, Huntington Beach, Orange, Santa Ana, and portions of Newport Beach, Costa Mesa, and Tustin)"
+   },
+   {
+    "prefix": "738",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (nearly the entire city of Los Angeles outside of the San Fernando Valley and smaller cities and unincorporated areas of Los Angeles County immediately to the south or east)"
+   },
+   {
+    "prefix": "747",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (the San Fernando Valley portion of Los Angeles County, including Burbank, Canoga Park, Encino, Glendale, North Hollywood, Northridge, Panorama City, Reseda, San Fernando, Sylmar, Tarzana, Van Nuys, and Woodland Hills)"
+   },
+   {
+    "prefix": "760",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (most of the desert and mountain portions of the southeastern two-thirds of California)"
+   },
+   {
+    "prefix": "805",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Ventura, San Luis Obispo, and Santa Barbara Counties)"
+   },
+   {
+    "prefix": "818",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (the San Fernando Valley portion of Los Angeles County, including Burbank, Canoga Park, Encino, Glendale, North Hollywood, Northridge, Panorama City, Reseda, San Fernando, Sylmar, Tarzana, Van Nuys, and Woodland Hills)"
+   },
+   {
+    "prefix": "820",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Ventura, San Luis Obispo, and Santa Barbara Counties)"
+   },
+   {
+    "prefix": "831",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Monterey County, including Salinas and Monterey); San Benito County (including Hollister); and Santa Cruz County (including Santa Cruz and Watsonville)"
+   },
+   {
+    "prefix": "837",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Redding, Auburn, Chico, Davis, the California shore of Lake Tahoe, Placerville, Susanville, Truckee, Yreka, and most of northeastern California)"
+   },
+   {
+    "prefix": "840",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (southwestern San Bernardino County and a small portion of Los Angeles and Riverside counties, including Fontana, Pomona, Chino Hills, Claremont, Chino, Ontario, and Redlands)"
+   },
+   {
+    "prefix": "858",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (San Diego and suburbs)"
+   },
+   {
+    "prefix": "909",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (southwestern San Bernardino County and a small portion of Los Angeles and Riverside Counties, including Fontana, Pomona, Chino Hills, Claremont, Chino, Ontario, and Redlands)"
+   },
+   {
+    "prefix": "916",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (the Sacramento Metropolitan Area)"
+   },
+   {
+    "prefix": "925",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (inland regions of the East Bay: Livermore, Concord, Pleasant Hill, Walnut Creek, Martinez, Pleasanton, and Dublin, just east of the hills that ring San Francisco Bay)"
+   },
+   {
+    "prefix": "949",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (Southern Orange County: Irvine, Lake Forest, Mission Viejo, Corona del Mar, San Clemente, Laguna Beach, Dana Point, San Juan Capistrano, Rancho Santa Margarita, and parts of Newport Beach and Costa Mesa)"
+   },
+   {
+    "prefix": "951",
+    "admin1": [
+     "California"
+    ],
+    "place": "California (western Riverside County, including Riverside, Corona, Hemet, Lake Elsinore, Moreno Valley, Murrieta, Temecula, etc.)"
+   },
+   {
+    "prefix": "303",
+    "admin1": [
+     "Colorado"
+    ],
+    "place": "Colorado (Denver, Boulder, Longmont, Aurora, Golden, Limon, Littleton, Centennial; central Colorado)"
+   },
+   {
+    "prefix": "719",
+    "admin1": [
+     "Colorado"
+    ],
+    "place": "Colorado (Colorado Springs, Pueblo, Florence, Leadville, Limon, Trinidad, La Junta, and most of southeastern Colorado)"
+   },
+   {
+    "prefix": "720",
+    "admin1": [
+     "Colorado"
+    ],
+    "place": "Colorado (Denver, Boulder, Longmont, Aurora, Golden, Limon, Centennial; central Colorado)"
+   },
+   {
+    "prefix": "748",
+    "admin1": [
+     "Colorado"
+    ],
+    "place": "Western and northern parts of Colorado"
+   },
+   {
+    "prefix": "970",
+    "admin1": [
+     "Colorado"
+    ],
+    "place": "Colorado (Grand Junction, Aspen, Durango, Estes Park, Fort Collins, Frisco, Glenwood Springs, Greeley, Purgatory, Steamboat Springs, Telluride, Vail, Rocky Mountain National Park, Dinosaur National Monument, and most of north-central, south-central, and western Colorado)"
+   },
+   {
+    "prefix": "983",
+    "admin1": [
+     "Colorado"
+    ],
+    "place": "Denver, Colorado"
+   },
+   {
+    "prefix": "203",
+    "admin1": [
+     "Connecticut"
+    ],
+    "place": "South-west Connecticut (Bridgeport, Danbury, New Haven, Waterbury)"
+   },
+   {
+    "prefix": "475",
+    "admin1": [
+     "Connecticut"
+    ],
+    "place": "Connecticut (Bridgeport, Danbury, New Haven, Waterbury, and southwestern Connecticut)"
+   },
+   {
+    "prefix": "860",
+    "admin1": [
+     "Connecticut"
+    ],
+    "place": "Northern and eastern Connecticut (Hartford, Bristol, Norwich, and northern and eastern Connecticut)"
+   },
+   {
+    "prefix": "959",
+    "admin1": [
+     "Connecticut"
+    ],
+    "place": "Northern and eastern Connecticut (Hartford, Bristol, Norwich, and northern and eastern Connecticut)"
+   },
+   {
+    "prefix": "302",
+    "admin1": [
+     "Delaware"
+    ],
+    "place": "Delaware (all)"
+   },
+   {
+    "prefix": "202",
+    "admin1": [
+     "District of Columbia"
+    ],
+    "place": "Washington, D.C. (all)"
+   },
+   {
+    "prefix": "771",
+    "admin1": [
+     "District of Columbia"
+    ],
+    "place": "Washington, D.C. (all)"
+   },
+   {
+    "prefix": "239",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Southwest Florida (Lee County, Collier County, the mainland part of Monroe County, including Cape Coral, Fort Myers, Naples, and Everglades)"
+   },
+   {
+    "prefix": "305",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (all of Miami-Dade County and the Florida Keys)"
+   },
+   {
+    "prefix": "321",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Orlando, Cocoa, Melbourne, Rockledge, Titusville, St. Cloud, and east-central Florida)"
+   },
+   {
+    "prefix": "324",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Jacksonville, St. Augustine, Starke, and most of northeastern Florida)"
+   },
+   {
+    "prefix": "352",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Gainesville, Ocala, Inverness, Dunnellon, and a part of central Florida)"
+   },
+   {
+    "prefix": "386",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Daytona Beach, Lake City, Live Oak, Crescent City, and parts of northeastern Florida)"
+   },
+   {
+    "prefix": "407",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Orlando, Sanford, St. Cloud, Kissimmee, and a part of east-central Florida)"
+   },
+   {
+    "prefix": "448",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "The Florida Panhandle"
+   },
+   {
+    "prefix": "561",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Palm Beach County, including Palm Beach, West Palm Beach, Boca Raton, Boynton Beach, etc.)"
+   },
+   {
+    "prefix": "645",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Miami-Dade County and the Florida Keys)"
+   },
+   {
+    "prefix": "656",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (all of Hillsborough County, including Tampa and its suburbs, MacDill Air Force Base, and Plant City, and also the inland areas of Pasco County and Oldsmar in Pinellas County)"
+   },
+   {
+    "prefix": "689",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Orlando, Sanford, St. Cloud, Kissimmee, and a part of east-central Florida)"
+   },
+   {
+    "prefix": "727",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (all of Pinellas County (except Oldsmar which uses area codes 656 and 813), including St. Petersburg, Clearwater, Dunedin, Palm Harbor, Tarpon Springs, and the coastal parts of Pasco County)"
+   },
+   {
+    "prefix": "728",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Palm Beach County, including Palm Beach, West Palm Beach, Boca Raton, Boynton Beach, etc.)"
+   },
+   {
+    "prefix": "754",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Broward County)"
+   },
+   {
+    "prefix": "772",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Fort Pierce, Port Saint Lucie, Sebastian, Stuart, Vero Beach, all of Indian River County, and Martin County)"
+   },
+   {
+    "prefix": "786",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Miami-Dade County and the Florida Keys)"
+   },
+   {
+    "prefix": "813",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (all of Hillsborough County, including Tampa and its suburbs, MacDill Air Force Base, and Plant City; and the inland areas of Pasco County and Oldsmar in Pinellas County)"
+   },
+   {
+    "prefix": "850",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "northwestern Florida (Appalachicola, Pensacola, Tallahassee, Quincy, Panama City, Naval Air Station Pensacola, Eglin Air Force Base and all of the Florida Panhandle)"
+   },
+   {
+    "prefix": "863",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Lakeland, Bartow, Sebring, Winter Haven in south central Florida)"
+   },
+   {
+    "prefix": "904",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Jacksonville, St. Augustine, Starke, and most of northeastern Florida)"
+   },
+   {
+    "prefix": "941",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (Gulf Coast immediately south of Tampa Bay: all of Manatee County, Sarasota County, and Charlotte County; includes Bradenton, Port Charlotte, Sarasota, and Punta Gorda)"
+   },
+   {
+    "prefix": "954",
+    "admin1": [
+     "Florida"
+    ],
+    "place": "Florida (all of Broward County: Fort Lauderdale, Hollywood, Coral Springs, etc.)"
+   },
+   {
+    "prefix": "229",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Southwestern Georgia (Albany, Valdosta, Bainbridge, Americus, Fitzgerald)"
+   },
+   {
+    "prefix": "404",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Georgia (Atlanta and the Atlanta metropolitan area inside of the Interstate 285 perimeter highway)"
+   },
+   {
+    "prefix": "470",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Georgia (Atlanta metropolitan area)"
+   },
+   {
+    "prefix": "478",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Georgia (Macon, Warner Robins, Swainsboro, Milledgeville, Perry, and a part of central Georgia)"
+   },
+   {
+    "prefix": "678",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Georgia (Metro Atlanta)"
+   },
+   {
+    "prefix": "706",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Georgia (Athens, Augusta, Columbus, Calhoun, Dalton, Rome, and much of northwestern, northeastern and eastern Georgia, with an exclave in midwestern Georgia)"
+   },
+   {
+    "prefix": "762",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Georgia (Athens, Augusta, Columbus, Calhoun, Dalton, Rome, and much of northwestern, northeastern and eastern Georgia, with an exclave in midwestern Georgia)"
+   },
+   {
+    "prefix": "770",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Georgia (Marietta, Carrollton, Gainesville, Jonesboro, Lawrenceville, Roswell, Stone Mountain, Snellville, Cartersville, and much of north-central Georgia d metropolitan Atlanta outside of Interstate 285)"
+   },
+   {
+    "prefix": "912",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Georgia (Savannah, Statesboro, Vidalia, Waycross, Brunswick, Douglas, and southeastern Georgia)"
+   },
+   {
+    "prefix": "943",
+    "admin1": [
+     "Georgia"
+    ],
+    "place": "Georgia (Metro Atlanta)"
+   },
+   {
+    "prefix": "808",
+    "admin1": [
+     "Hawaii"
+    ],
+    "place": "Hawaii (all of the Hawaiian Islands to Midway Atoll and major Hawaiian cities including Honolulu, Kailua, Mililani, Haleiwa, Hilo, Kahului, Lihue, etc.; plus Wake Island)"
+   },
+   {
+    "prefix": "208",
+    "admin1": [
+     "Idaho"
+    ],
+    "place": "Idaho (all)"
+   },
+   {
+    "prefix": "986",
+    "admin1": [
+     "Idaho"
+    ],
+    "place": "Idaho"
+   },
+   {
+    "prefix": "217",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Central Illinois (Springfield, Champaign, Decatur, Urbana, Lincoln)"
+   },
+   {
+    "prefix": "224",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (North and northwest suburbs of Chicago)"
+   },
+   {
+    "prefix": "309",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (Peoria, Bloomington, Moline, Rock Island, Galesburg; west-central Illinois)"
+   },
+   {
+    "prefix": "312",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (downtown Chicago)"
+   },
+   {
+    "prefix": "331",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (Aurora, Naperville, Oswego; western suburbs of Chicago)"
+   },
+   {
+    "prefix": "447",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (Springfield, Champaign, Decatur, Urbana, Lincoln, and parts of central Illinois)"
+   },
+   {
+    "prefix": "464",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (western and southern portions of suburban Cook County and far eastern sections of Will County and southern and near western suburbs of Chicago)"
+   },
+   {
+    "prefix": "618",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (Carbondale, Alton, Belleville, Cahokia, Centralia, Edwardsville, Marion, Metropolis, Vandalia, and most of southern Illinois)"
+   },
+   {
+    "prefix": "630",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (western suburbs of Chicago, including DuPage, central and southern Kane, northern Kendall, far northern Will, and small portions of Cook counties)"
+   },
+   {
+    "prefix": "708",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (western and southern portions of suburban Cook County and far eastern sections of Will County)"
+   },
+   {
+    "prefix": "730",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (Carbondale, Alton, Belleville, Cahokia, Centralia, Edwardsville, Marion, Metropolis, Vandalia, and most of southern Illinois)"
+   },
+   {
+    "prefix": "773",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (City of Chicago, excluding downtown)"
+   },
+   {
+    "prefix": "779",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (much of northern Illinois outside Chicago and its immediate surrounding suburbs: Rockford and its suburbs, Belvidere, La Salle, Peru, DeKalb, Sycamore, Freeport, Dixon, Sterling, Rock Falls, Ottawa, Morris, Princeton, Mendota, Rochelle, Sandwich, Streator, Pontiac, Kankakee, and some outlying Chicago suburbs such as Harvard, McHenry, Crystal Lake, Woodstock, Plainfield, Joliet, Romeoville, Lockport, New Lenox, Frankfort, Minooka, Channahon, and Shorewood)"
+   },
+   {
+    "prefix": "815",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (much of northern Illinois outside Chicago and its immediate surrounding suburbs: Rockford and its suburbs, Belvidere, La Salle, Peru, DeKalb, Sycamore, Freeport, Dixon, Sterling, Rock Falls, Ottawa, Morris, Princeton, Mendota, Rochelle, Sandwich, Streator, Pontiac, Kankakee, and some outlying Chicago suburbs such as Harvard, McHenry, Crystal Lake, Woodstock, Plainfield, Joliet, Romeoville, Lockport, New Lenox, Frankfort, Minooka, Channahon, and Shorewood)"
+   },
+   {
+    "prefix": "847",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (North and northwest suburbs of Chicago, including Lake, northern Cook, northern Kane, and extreme southeastern McHenry Counties; includes Evanston, Skokie, Niles, Park Ridge, Des Plaines, Mount Prospect, Arlington Heights, Palatine, Wheeling, Buffalo Grove, Barrington, Elk Grove Village, Schaumburg, Hoffman Estates, Elgin, Carpentersville, Algonquin, Lake in the Hills, Huntley, Hampshire, Cary, Lake Zurich, Fox Lake, Round Lake Beach, Antioch, Gurnee, Waukegan, Zion, Lake Forest, Vernon Hills, Libertyville, Mundelein, Northbrook, Glenview, Deerfield, Highland Park, Wilmette, Winnetka)"
+   },
+   {
+    "prefix": "861",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (Peoria, Bloomington, Moline, Rock Island, Galesburg; west-central Illinois)"
+   },
+   {
+    "prefix": "872",
+    "admin1": [
+     "Illinois"
+    ],
+    "place": "Illinois (Chicago)"
+   },
+   {
+    "prefix": "219",
+    "admin1": [
+     "Indiana"
+    ],
+    "place": "Indiana (Gary area)"
+   },
+   {
+    "prefix": "260",
+    "admin1": [
+     "Indiana"
+    ],
+    "place": "Indiana (Fort Wayne, New Haven, Decatur, Angola, Huntington, Wabash, and most of northeastern Indiana)"
+   },
+   {
+    "prefix": "317",
+    "admin1": [
+     "Indiana"
+    ],
+    "place": "Indiana (Indianapolis and immediate metro area including Carmel, Fishers, Noblesville, Westfield, Greenwood, Mooresville, Beech Grove, Plainfield, Avon, Brownsburg, and Zionsville)"
+   },
+   {
+    "prefix": "463",
+    "admin1": [
+     "Indiana"
+    ],
+    "place": "Indiana (Indianapolis and immediate metro area including Carmel, Fishers, Noblesville, Westfield, Greenwood, Mooresville, Beech Grove, Plainfield, Avon, Brownsburg, and Zionsville)"
+   },
+   {
+    "prefix": "574",
+    "admin1": [
+     "Indiana"
+    ],
+    "place": "Indiana (South Bend, Elkhart, Goshen, Logansport, and most of north-central Indiana)"
+   },
+   {
+    "prefix": "765",
+    "admin1": [
+     "Indiana"
+    ],
+    "place": "Indiana (Kokomo, Lafayette, Marion, Muncie, Richmond, West Lafayette, and most of central Indiana excluding Indianapolis and immediate suburbs)"
+   },
+   {
+    "prefix": "812",
+    "admin1": [
+     "Indiana"
+    ],
+    "place": "Indiana (Southern Indiana, including Bloomington, Evansville, Terre Haute, Columbus, Jeffersonville, Lawrenceburg, Madison, and New Albany)"
+   },
+   {
+    "prefix": "930",
+    "admin1": [
+     "Indiana"
+    ],
+    "place": "Indiana (Southern Indiana, including Bloomington, Evansville, Terre Haute, Columbus, Jeffersonville, Lawrenceburg, Madison, and New Albany)"
+   },
+   {
+    "prefix": "319",
+    "admin1": [
+     "Iowa"
+    ],
+    "place": "Iowa (Cedar Rapids, Waterloo, Burlington, Iowa City; parts of eastern Iowa)"
+   },
+   {
+    "prefix": "515",
+    "admin1": [
+     "Iowa"
+    ],
+    "place": "Iowa (Des Moines, Ames, Fort Dodge, Jefferson, Indianola, and most of north-central Iowa)"
+   },
+   {
+    "prefix": "563",
+    "admin1": [
+     "Iowa"
+    ],
+    "place": "Iowa (Davenport, Dubuque, Clinton, Bettendorf, and most of eastern and northeastern Iowa)"
+   },
+   {
+    "prefix": "641",
+    "admin1": [
+     "Iowa"
+    ],
+    "place": "Iowa (Mason City, Oskaloosa, Creston, Pella, Ottumwa, Britt, Clear Lake, Fairfield, and parts of central Iowa)"
+   },
+   {
+    "prefix": "712",
+    "admin1": [
+     "Iowa"
+    ],
+    "place": "Iowa (Sioux City, Council Bluffs, Denison, and most of western Iowa)"
+   },
+   {
+    "prefix": "316",
+    "admin1": [
+     "Kansas"
+    ],
+    "place": "Kansas (Wichita metro, McConnell AFB, Cheney, El Dorado, Mulvane, Newton)"
+   },
+   {
+    "prefix": "620",
+    "admin1": [
+     "Kansas"
+    ],
+    "place": "Kansas (southern Kansas not including the Wichita Metropolitan Area)"
+   },
+   {
+    "prefix": "785",
+    "admin1": [
+     "Kansas"
+    ],
+    "place": "Kansas (Topeka, Salina, Colby, Lawrence, Manhattan, and all of northern and central Kansas not including the Kansas City Metropolitan Area)"
+   },
+   {
+    "prefix": "913",
+    "admin1": [
+     "Kansas"
+    ],
+    "place": "Kansas (Kansas City, Kansas, Overland Park, Olathe, Lenexa, Leavenworth, Bonner Springs, De Soto, parts of eastern Kansas)"
+   },
+   {
+    "prefix": "270",
+    "admin1": [
+     "Kentucky"
+    ],
+    "place": "Kentucky (Owensboro, Paducah, Bowling Green, Hopkinsville, Henderson, Elizabethtown, and most of western Kentucky)"
+   },
+   {
+    "prefix": "364",
+    "admin1": [
+     "Kentucky"
+    ],
+    "place": "Kentucky (Owensboro, Paducah, Bowling Green, Hopkinsville, Henderson, Elizabethtown, and most of western Kentucky)"
+   },
+   {
+    "prefix": "502",
+    "admin1": [
+     "Kentucky"
+    ],
+    "place": "Kentucky (Louisville, Frankfort, Shelbyville, Bardstown, and most of north-central Kentucky)"
+   },
+   {
+    "prefix": "606",
+    "admin1": [
+     "Kentucky"
+    ],
+    "place": "Kentucky (Ashland, Pikeville, Hazard, Somerset, London, Corbin, Maysville, and much of eastern Kentucky)"
+   },
+   {
+    "prefix": "859",
+    "admin1": [
+     "Kentucky"
+    ],
+    "place": "Kentucky (Lexington, Richmond, Danville, Covington, Florence, and northernmost Kentucky)"
+   },
+   {
+    "prefix": "225",
+    "admin1": [
+     "Louisiana"
+    ],
+    "place": "East-central Louisiana (Baton Rouge)"
+   },
+   {
+    "prefix": "318",
+    "admin1": [
+     "Louisiana"
+    ],
+    "place": "Louisiana (Shreveport–Bossier City, Monroe, Alexandria, Fisher, Tallulah, and most of northern Louisiana)"
+   },
+   {
+    "prefix": "337",
+    "admin1": [
+     "Louisiana"
+    ],
+    "place": "Louisiana (Lafayette, Lake Charles, Leesville, New Iberia, Opelousas, and most of southwestern Louisiana)"
+   },
+   {
+    "prefix": "457",
+    "admin1": [
+     "Louisiana"
+    ],
+    "place": "Louisiana (Shreveport–Bossier City, Monroe, Alexandria, Fisher, Tallulah, and most of northern Louisiana)"
+   },
+   {
+    "prefix": "504",
+    "admin1": [
+     "Louisiana"
+    ],
+    "place": "Louisiana (New Orleans metropolitan area)"
+   },
+   {
+    "prefix": "985",
+    "admin1": [
+     "Louisiana"
+    ],
+    "place": "Louisiana (Houma, Slidell, and southeastern Louisiana excluding New Orleans)"
+   },
+   {
+    "prefix": "207",
+    "admin1": [
+     "Maine"
+    ],
+    "place": "Maine (all)"
+   },
+   {
+    "prefix": "227",
+    "admin1": [
+     "Maryland"
+    ],
+    "place": "Western Maryland (Washington, D.C., suburbs; all counties which touch the Potomac River; Silver Spring, Hagerstown, Frederick, Rockville, Cumberland)"
+   },
+   {
+    "prefix": "240",
+    "admin1": [
+     "Maryland"
+    ],
+    "place": "Western Maryland (Silver Spring; Washington, D.C., suburbs; all counties which touch the Potomac River; Waldorf, Hagerstown, Frederick, Rockville, Cumberland)"
+   },
+   {
+    "prefix": "301",
+    "admin1": [
+     "Maryland"
+    ],
+    "place": "Maryland (Silver Spring; Washington, D.C., suburbs; all counties which touch the Potomac River; Waldorf, Hagerstown, Frederick, Rockville, Cumberland; and land line telephones in western Maryland)"
+   },
+   {
+    "prefix": "410",
+    "admin1": [
+     "Maryland"
+    ],
+    "place": "Maryland (Baltimore, Annapolis, Columbia, and all counties and cities which touch the Chesapeake Bay, the Atlantic Ocean, or Delaware, except for St. Mary's County (in 301))"
+   },
+   {
+    "prefix": "443",
+    "admin1": [
+     "Maryland"
+    ],
+    "place": "Maryland (Baltimore, Annapolis, Columbia, and all counties and cities which touch the Chesapeake Bay, the Atlantic Ocean, or Delaware, except for St. Mary's County (in 301))"
+   },
+   {
+    "prefix": "667",
+    "admin1": [
+     "Maryland"
+    ],
+    "place": "Maryland (all counties and cities which touch the Chesapeake Bay, the Atlantic Ocean, or Delaware, except for St. Mary's County (in 301))"
+   },
+   {
+    "prefix": "339",
+    "admin1": [
+     "Massachusetts"
+    ],
+    "place": "Eastern Massachusetts (suburbs of Boston)"
+   },
+   {
+    "prefix": "351",
+    "admin1": [
+     "Massachusetts"
+    ],
+    "place": "Massachusetts (Ashby, Barre, Boxborough, Carlisle, Groveland, Rowley, Wendell, Wenham, and northeastern Massachusetts)"
+   },
+   {
+    "prefix": "413",
+    "admin1": [
+     "Massachusetts"
+    ],
+    "place": "Western Massachusetts"
+   },
+   {
+    "prefix": "508",
+    "admin1": [
+     "Massachusetts"
+    ],
+    "place": "Southeastern Massachusetts"
+   },
+   {
+    "prefix": "617",
+    "admin1": [
+     "Massachusetts"
+    ],
+    "place": "East-central Massachusetts, including Boston"
+   },
+   {
+    "prefix": "774",
+    "admin1": [
+     "Massachusetts"
+    ],
+    "place": "Southeastern Massachusetts"
+   },
+   {
+    "prefix": "781",
+    "admin1": [
+     "Massachusetts"
+    ],
+    "place": "Massachusetts (Canton, Hanson, Lincoln, Nahant, Plympton, Revere, Stoughton, Winchester, and east-central Massachusetts)"
+   },
+   {
+    "prefix": "857",
+    "admin1": [
+     "Massachusetts"
+    ],
+    "place": "East-central Massachusetts, including Boston"
+   },
+   {
+    "prefix": "978",
+    "admin1": [
+     "Massachusetts"
+    ],
+    "place": "Northeastern Massachusetts"
+   },
+   {
+    "prefix": "231",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Northwestern Michigan (Muskegon, Traverse City, Ludington, Petoskey)"
+   },
+   {
+    "prefix": "248",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Oakland County)"
+   },
+   {
+    "prefix": "269",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Battle Creek, Kalamazoo, Benton Harbor, Allegan, Hastings, St. Joseph, and most of southwestern Michigan)"
+   },
+   {
+    "prefix": "313",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Dearborn, the Grosse Pointes, Detroit, and the latter's enclaves of Hamtramck and Highland Park)"
+   },
+   {
+    "prefix": "517",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Lansing, Jackson, Charlotte, Deerfield, Addison, and most of south-central Michigan)"
+   },
+   {
+    "prefix": "586",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Macomb County)"
+   },
+   {
+    "prefix": "616",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Grand Rapids, Greenville, Holland, Ionia, Zeeland, and most of southwestern Michigan)"
+   },
+   {
+    "prefix": "679",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Dearborn, the Grosse Pointes, Detroit, and the latter's enclaves of Hamtramck and Highland Park)"
+   },
+   {
+    "prefix": "734",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Ann Arbor, Hell, Monroe, Plymouth, Romulus, Wayne, Ypsilanti, and the southwestern suburbs of Detroit)"
+   },
+   {
+    "prefix": "810",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Port Huron, Flint, Lapeer, and the Michigan \"Thumb\")"
+   },
+   {
+    "prefix": "906",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Upper Peninsula: Sault Ste. Marie, Escanaba, Houghton, Iron Mountain, Marquette, Menominee, etc.)"
+   },
+   {
+    "prefix": "947",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Oakland County)"
+   },
+   {
+    "prefix": "989",
+    "admin1": [
+     "Michigan"
+    ],
+    "place": "Michigan (Alpena, Mt. Pleasant, Bay City, Saginaw, Midland, Owosso, and a part of central Michigan)"
+   },
+   {
+    "prefix": "218",
+    "admin1": [
+     "Minnesota"
+    ],
+    "place": "Northern Minnesota (Duluth, Moorhead, Thief River Falls, Bemidji, Brainerd, International Falls)"
+   },
+   {
+    "prefix": "320",
+    "admin1": [
+     "Minnesota"
+    ],
+    "place": "Minnesota (St. Cloud, Alexandria, Morris, Hutchinson, Sandstone, Appleton, Willmar; central Minnesota)"
+   },
+   {
+    "prefix": "507",
+    "admin1": [
+     "Minnesota"
+    ],
+    "place": "Minnesota (Rochester, Mankato, Austin, Marshall, Winona, and most of southern Minnesota)"
+   },
+   {
+    "prefix": "612",
+    "admin1": [
+     "Minnesota"
+    ],
+    "place": "Minnesota (Minneapolis, Fort Snelling, St. Anthony, and Richfield)"
+   },
+   {
+    "prefix": "651",
+    "admin1": [
+     "Minnesota"
+    ],
+    "place": "Minnesota (St. Paul, Eagan, Lindstrom, Red Wing, Hastings, Stillwater, and a part of east-central Minnesota)"
+   },
+   {
+    "prefix": "763",
+    "admin1": [
+     "Minnesota"
+    ],
+    "place": "Minnesota (Brooklyn Park, Plymouth, Maple Grove, Monticello, Elk River, Fridley, Blaine, and the northwest suburban area of Minneapolis)"
+   },
+   {
+    "prefix": "924",
+    "admin1": [
+     "Minnesota"
+    ],
+    "place": "Minnesota (Rochester, Mankato, Austin, Marshall, Winona, and most of southern Minnesota)"
+   },
+   {
+    "prefix": "952",
+    "admin1": [
+     "Minnesota"
+    ],
+    "place": "Minnesota (Bloomington, Eden Prairie, Edina, Minnetonka, Chaska, and the southwest suburban Minneapolis area)"
+   },
+   {
+    "prefix": "228",
+    "admin1": [
+     "Mississippi"
+    ],
+    "place": "Mississippi (Gulfport, Biloxi, Pascagoula, Bay St. Louis, and southmost Mississippi)"
+   },
+   {
+    "prefix": "471",
+    "admin1": [
+     "Mississippi"
+    ],
+    "place": "Mississippi (Tupelo, Columbus, Corinth, Greenville, Greenwood, Starkville, and most of northern Mississippi)"
+   },
+   {
+    "prefix": "601",
+    "admin1": [
+     "Mississippi"
+    ],
+    "place": "Mississippi (Jackson, Hattiesburg, Meridian, Natchez, Vicksburg, and most of central Mississippi)"
+   },
+   {
+    "prefix": "662",
+    "admin1": [
+     "Mississippi"
+    ],
+    "place": "Mississippi (Tupelo, Columbus, Corinth, Greenville, Greenwood, Starkville, and most of northern Mississippi)"
+   },
+   {
+    "prefix": "769",
+    "admin1": [
+     "Mississippi"
+    ],
+    "place": "Mississippi (Jackson, Hattiesburg, Meridian, Natchez, Vicksburg, and most of central Mississippi)"
+   },
+   {
+    "prefix": "235",
+    "admin1": [
+     "Missouri"
+    ],
+    "place": "Eastern Missouri (Columbia, Jefferson City, Hannibal, Cape Girardeau, Farmington, Lake of the Ozarks, Poplar Bluff)"
+   },
+   {
+    "prefix": "314",
+    "admin1": [
+     "Missouri"
+    ],
+    "place": "Missouri (St. Louis, St. Louis County, Florissant, Crestwood, Hazelwood, Kirkwood, and surrounding suburbs of St. Louis)"
+   },
+   {
+    "prefix": "417",
+    "admin1": [
+     "Missouri"
+    ],
+    "place": "Missouri (Springfield, Joplin, Branson, Lamar, Lebanon, and most of southwestern Missouri)"
+   },
+   {
+    "prefix": "557",
+    "admin1": [
+     "Missouri"
+    ],
+    "place": "Missouri (St. Louis, St. Louis County, Florissant, Crestwood, Hazelwood, Kirkwood, and surrounding suburbs of St. Louis)"
+   },
+   {
+    "prefix": "573",
+    "admin1": [
+     "Missouri"
+    ],
+    "place": "Missouri (Columbia, Jefferson City, Hannibal, Cape Girardeau, Farmington, Lake of the Ozarks, Poplar Bluff, and most of eastern Missouri excluding the St. Louis metropolitan area)"
+   },
+   {
+    "prefix": "636",
+    "admin1": [
+     "Missouri"
+    ],
+    "place": "Missouri (St. Charles, Chesterfield, Union, Troy, and parts of east-central Missouri)"
+   },
+   {
+    "prefix": "660",
+    "admin1": [
+     "Missouri"
+    ],
+    "place": "Missouri (Sedalia, Kirksville, Maryville, Mexico, Whiteman Air Force Base, and a part of north-central Missouri)"
+   },
+   {
+    "prefix": "816",
+    "admin1": [
+     "Missouri"
+    ],
+    "place": "Missouri (Kansas City, St Joseph, Independence, Harrisonville, and parts of west-central Missouri)"
+   },
+   {
+    "prefix": "975",
+    "admin1": [
+     "Missouri"
+    ],
+    "place": "Missouri (Kansas City, St Joseph, Independence, Harrisonville, and parts of west-central Missouri)"
+   },
+   {
+    "prefix": "406",
+    "admin1": [
+     "Montana"
+    ],
+    "place": "Montana (all)"
+   },
+   {
+    "prefix": "308",
+    "admin1": [
+     "Nebraska"
+    ],
+    "place": "Nebraska (North Platte, Scottsbluff, McCook, Kearney, Grand Island; western Nebraska)"
+   },
+   {
+    "prefix": "402",
+    "admin1": [
+     "Nebraska"
+    ],
+    "place": "Nebraska (Omaha, Lincoln, Norfolk, Superior, and most of eastern Nebraska)"
+   },
+   {
+    "prefix": "531",
+    "admin1": [
+     "Nebraska"
+    ],
+    "place": "Nebraska (Omaha, Lincoln, Norfolk, Superior, and most of eastern Nebraska)"
+   },
+   {
+    "prefix": "702",
+    "admin1": [
+     "Nevada"
+    ],
+    "place": "Nevada (almost all of Clark County, including all of the Las Vegas Valley, including Henderson and Boulder City)"
+   },
+   {
+    "prefix": "725",
+    "admin1": [
+     "Nevada"
+    ],
+    "place": "Nevada (almost all of Clark County, including all of the Las Vegas Valley, including Henderson, and Boulder City)"
+   },
+   {
+    "prefix": "775",
+    "admin1": [
+     "Nevada"
+    ],
+    "place": "Nevada (Carson City, Reno, Elko, Ely, Sparks, Winnemucca, Great Basin National Park, Naval Air Station Fallon, and all of Nevada, except for most of Clark County in southernmost Nevada)"
+   },
+   {
+    "prefix": "603",
+    "admin1": [
+     "New Hampshire"
+    ],
+    "place": "New Hampshire (all)"
+   },
+   {
+    "prefix": "201",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "North-east New Jersey (Bergen County and Hudson County)"
+   },
+   {
+    "prefix": "551",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "New Jersey (Bergen County and Hudson County)"
+   },
+   {
+    "prefix": "609",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "New Jersey (Trenton, Atlantic City, Princeton, McGuire Air Force Base, Fort Dix, and most of central, south central & southeastern New Jersey)"
+   },
+   {
+    "prefix": "640",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "| New Jersey (Trenton, Atlantic City, Princeton, and most of central & southeastern New Jersey)"
+   },
+   {
+    "prefix": "732",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "New Jersey (New Brunswick, Lakewood, Neptune, Fort Dix, and most of east-central New Jersey)"
+   },
+   {
+    "prefix": "848",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "New Jersey (New Brunswick, Lakewood, Neptune, Fort Dix, and most of east-central New Jersey)"
+   },
+   {
+    "prefix": "856",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "New Jersey (Cherry Hill, Camden, Millville, Vineland, and most of southwestern New Jersey)"
+   },
+   {
+    "prefix": "862",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "New Jersey (northernmost part)"
+   },
+   {
+    "prefix": "908",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "New Jersey (Alpha, Washington, Elizabeth, Warren, Plainfield, and west-central New Jersey)"
+   },
+   {
+    "prefix": "973",
+    "admin1": [
+     "New Jersey"
+    ],
+    "place": "New Jersey (Newark, Paterson, and most of northeastern New Jersey)"
+   },
+   {
+    "prefix": "505",
+    "admin1": [
+     "New Mexico"
+    ],
+    "place": "New Mexico (Albuquerque, Santa Fe, Farmington, Gallup, all of northwestern New Mexico, and a part of central New Mexico)"
+   },
+   {
+    "prefix": "575",
+    "admin1": [
+     "New Mexico"
+    ],
+    "place": "New Mexico (Las Cruces, Roswell, Carlsbad Caverns National Park, Socorro, Taos, and Truth or Consequences; excludes central (Albuquerque and its suburbs) and northwestern New Mexico)"
+   },
+   {
+    "prefix": "212",
+    "admin1": [
+     "New York"
+    ],
+    "place": "Borough of Manhattan in New York City"
+   },
+   {
+    "prefix": "315",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Syracuse, Utica, Watertown; north-central New York)"
+   },
+   {
+    "prefix": "329",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Dutchess, Orange, Putnam, Rockland, Sullivan, and Ulster counties)"
+   },
+   {
+    "prefix": "332",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (New York City: Manhattan only, except for Marble Hill)"
+   },
+   {
+    "prefix": "347",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (New York City: The Bronx, Brooklyn, Queens, Staten Island, and Marble Hill)"
+   },
+   {
+    "prefix": "363",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Nassau County, including Hempstead and Mineola)"
+   },
+   {
+    "prefix": "516",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Nassau County, including Hempstead and Mineola)"
+   },
+   {
+    "prefix": "518",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Albany, Schenectady, Plattsburgh, Saranac Lake, Lake George, Westport, and most of northeastern New York)"
+   },
+   {
+    "prefix": "585",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Rochester, Batavia, and much of western New York)"
+   },
+   {
+    "prefix": "607",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Binghamton, Elmira, Cortland, Norwich, Ithaca, and most of south-central New York)"
+   },
+   {
+    "prefix": "624",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Buffalo, Niagara Falls, Olean, and parts of western New York)"
+   },
+   {
+    "prefix": "631",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Suffolk County on Long Island)"
+   },
+   {
+    "prefix": "646",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (New York City: Manhattan only, except for Marble Hill)"
+   },
+   {
+    "prefix": "680",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Syracuse, Utica, Watertown, and north-central New York)"
+   },
+   {
+    "prefix": "716",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Buffalo, Niagara Falls, Olean, and parts of western New York)"
+   },
+   {
+    "prefix": "718",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (The Bronx, Brooklyn, Queens, Staten Island, and Marble Hill)"
+   },
+   {
+    "prefix": "838",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Albany, Schenectady, Plattsburgh, Saranac Lake, Lake George, Westport, and most of northeastern New York)"
+   },
+   {
+    "prefix": "845",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Dutchess, Orange, Putnam, Rockland, Sullivan, and Ulster counties)"
+   },
+   {
+    "prefix": "914",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Westchester County)"
+   },
+   {
+    "prefix": "917",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (New York City: all; mainly cell phones)"
+   },
+   {
+    "prefix": "929",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (New York City: The Bronx, Brooklyn, Queens, Staten Island, and Marble Hill)"
+   },
+   {
+    "prefix": "934",
+    "admin1": [
+     "New York"
+    ],
+    "place": "New York (Suffolk County on Long Island)"
+   },
+   {
+    "prefix": "252",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (Greenville, New Bern, Elizabeth City, Kinston, Outer Banks, Rocky Mount)"
+   },
+   {
+    "prefix": "336",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (the Piedmont Triad, Wilkesboro, Roxboro, and most of northwestern North Carolina)"
+   },
+   {
+    "prefix": "472",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (Fayetteville, Wilmington, Fort Bragg, Seymour Johnson Air Force Base, Jacksonville, Lumberton, and much of southeastern North Carolina)"
+   },
+   {
+    "prefix": "704",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (Charlotte, Concord, Gastonia, Salisbury, and much of south-central North Carolina)"
+   },
+   {
+    "prefix": "743",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (the Piedmont Triad, Wilkesboro, Roxboro, and most of northwestern North Carolina)"
+   },
+   {
+    "prefix": "828",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (Asheville, Franklin, Hickory, Murphy, Waynesville, and parts of western North Carolina)"
+   },
+   {
+    "prefix": "910",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (Fayetteville, Wilmington, Fort Bragg, Seymour Johnson Air Force Base, Jacksonville, Lumberton, and much of southeastern North Carolina)"
+   },
+   {
+    "prefix": "919",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (the Research Triangle, including Raleigh, the state capital city; Durham, Cary, and Chapel Hill; and Goldsboro and other parts of north-central North Carolina)"
+   },
+   {
+    "prefix": "980",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (Charlotte, Concord, Gastonia, Salisbury, and much of south-central North Carolina)"
+   },
+   {
+    "prefix": "984",
+    "admin1": [
+     "North Carolina"
+    ],
+    "place": "North Carolina (the Research Triangle, including Raleigh, the state capital city; Durham, Cary, and Chapel Hill; and Goldsboro and other parts of north-central North Carolina)"
+   },
+   {
+    "prefix": "701",
+    "admin1": [
+     "North Dakota"
+    ],
+    "place": "North Dakota (all)"
+   },
+   {
+    "prefix": "216",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Cleveland area)"
+   },
+   {
+    "prefix": "220",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Central Ohio outside of Franklin County (suburban Columbus)"
+   },
+   {
+    "prefix": "234",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Northeastern Ohio (Akron, Canton, Youngstown, Warren)"
+   },
+   {
+    "prefix": "283",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Cincinnati, Middletown, Hamilton, Lebanon, and parts of southern and southwestern Ohio)"
+   },
+   {
+    "prefix": "326",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Dayton, Springfield, and southwestern Ohio north and east of the Cincinnati metropolitan area)"
+   },
+   {
+    "prefix": "330",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Akron, Canton, Youngstown, Warren, and most of northeastern Ohio)"
+   },
+   {
+    "prefix": "380",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Columbus and Franklin County)"
+   },
+   {
+    "prefix": "419",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Toledo area and most of northwestern Ohio)"
+   },
+   {
+    "prefix": "436",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (surrounding Cleveland on three sides, including: Elyria, Lorain, Oberlin, Ashtabula, and most of north-central Ohio)"
+   },
+   {
+    "prefix": "440",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (surrounding Cleveland on three sides, including: Elyria, Lorain, Oberlin, Ashtabula, and most of north-central Ohio)"
+   },
+   {
+    "prefix": "513",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Cincinnati, Middletown, Hamilton, Lebanon, and parts of southern and southwestern Ohio)"
+   },
+   {
+    "prefix": "567",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Toledo area and most of northwestern Ohio)"
+   },
+   {
+    "prefix": "614",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Columbus and Franklin County)"
+   },
+   {
+    "prefix": "740",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Southeastern and central parts of Ohio"
+   },
+   {
+    "prefix": "937",
+    "admin1": [
+     "Ohio"
+    ],
+    "place": "Ohio (Dayton, Springfield, and southwestern Ohio north and east of the Cincinnati metropolitan area)"
+   },
+   {
+    "prefix": "405",
+    "admin1": [
+     "Oklahoma"
+    ],
+    "place": "Oklahoma (Oklahoma City, Stillwater, Edmond, Norman, Shawnee, and most of central Oklahoma)"
+   },
+   {
+    "prefix": "539",
+    "admin1": [
+     "Oklahoma"
+    ],
+    "place": "Oklahoma (Tulsa, Bartlesville, McAlester, Muskogee, Henryetta, and northeastern Oklahoma)"
+   },
+   {
+    "prefix": "572",
+    "admin1": [
+     "Oklahoma"
+    ],
+    "place": "Oklahoma (Oklahoma City, Stillwater, Edmond, Norman, Shawnee, and most of central Oklahoma)"
+   },
+   {
+    "prefix": "580",
+    "admin1": [
+     "Oklahoma"
+    ],
+    "place": "Oklahoma (Ponca City, Ada, Ardmore, Enid, Lawton, Elk City, and most of southern and western Oklahoma)"
+   },
+   {
+    "prefix": "918",
+    "admin1": [
+     "Oklahoma"
+    ],
+    "place": "Oklahoma (Tulsa, Bartlesville, McAlester, Muskogee, Henryetta, and northeastern Oklahoma)"
+   },
+   {
+    "prefix": "458",
+    "admin1": [
+     "Oregon"
+    ],
+    "place": "Oregon (Eugene, Medford, Bend, Pendleton, Corvallis, Ontario, Burns; excludes the Portland metropolitan area)"
+   },
+   {
+    "prefix": "503",
+    "admin1": [
+     "Oregon"
+    ],
+    "place": "Oregon (Portland, Salem, Hillsboro, Beaverton, St. Helens, Tillamook, Astoria, and most of northwestern Oregon)"
+   },
+   {
+    "prefix": "541",
+    "admin1": [
+     "Oregon"
+    ],
+    "place": "Oregon (Eugene, Bend, Corvallis, Medford, Pendleton, and all of Oregon except metropolitan northwestern Oregon, including Portland, Salem, and Astoria)"
+   },
+   {
+    "prefix": "971",
+    "admin1": [
+     "Oregon"
+    ],
+    "place": "Oregon (Portland, Salem, Hillsboro, Beaverton, and most of northwestern Oregon)"
+   },
+   {
+    "prefix": "215",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Philadelphia area, including all its suburbs and parts of surrounding counties)"
+   },
+   {
+    "prefix": "223",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "South-central Pennsylvania (Harrisburg, Gettysburg, Lancaster, York)"
+   },
+   {
+    "prefix": "267",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Philadelphia and surrounding suburban area)"
+   },
+   {
+    "prefix": "272",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (the Wyoming Valley, including Scranton and Wilkes-Barre, Bloomsburg, Danville, Nanticoke, Williamsport, and most of northeastern Pennsylvania)"
+   },
+   {
+    "prefix": "412",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Pittsburgh region)"
+   },
+   {
+    "prefix": "445",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "overlay of 215 and 267 (Philadelphia, Pennsylvania)"
+   },
+   {
+    "prefix": "484",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Chester, Lehigh Valley, Norristown, Reading; parts of southeastern Pennsylvania)"
+   },
+   {
+    "prefix": "570",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (the Wyoming Valley, including Scranton and Wilkes-Barre; Bloomsburg; Danville; Nanticoke; Williamsport; and most of northeastern Pennsylvania)"
+   },
+   {
+    "prefix": "582",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Erie, State College, Altoona, Clearfield, Emporium, Johnsonburg, Johnstown, Meyersdale, Ridgway, Somerset, and most of northwestern and parts of central Pennsylvania)"
+   },
+   {
+    "prefix": "610",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Chester, Lehigh Valley, Norristown, Reading; parts of southeastern Pennsylvania)"
+   },
+   {
+    "prefix": "717",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Harrisburg, Gettysburg, Lancaster, York, and most of south-central Pennsylvania)"
+   },
+   {
+    "prefix": "724",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Washington, Greensburg, Indiana, New Castle, Uniontown, Butler, and the majority of Southwestern Pennsylvania outside of Pittsburgh's Allegheny County)"
+   },
+   {
+    "prefix": "814",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Erie, State College, Altoona, Clearfield, Emporium, Johnsonburg, Johnstown, Meyersdale, Ridgway, Somerset, and most of northwestern and parts of central Pennsylvania)"
+   },
+   {
+    "prefix": "835",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Chester, Lehigh Valley, Norristown, Reading; parts of southeastern Pennsylvania)"
+   },
+   {
+    "prefix": "878",
+    "admin1": [
+     "Pennsylvania"
+    ],
+    "place": "Pennsylvania (Pittsburgh) and suburbs"
+   },
+   {
+    "prefix": "401",
+    "admin1": [
+     "Rhode Island"
+    ],
+    "place": "Rhode Island (all)"
+   },
+   {
+    "prefix": "803",
+    "admin1": [
+     "South Carolina"
+    ],
+    "place": "South Carolina (Columbia, Rock Hill, Sumter, Aiken, and most of central South Carolina)"
+   },
+   {
+    "prefix": "821",
+    "admin1": [
+     "South Carolina"
+    ],
+    "place": "South Carolina (The Upstate, including Greenville, Spartanburg, Anderson, Clemson, and most of northwestern South Carolina)"
+   },
+   {
+    "prefix": "839",
+    "admin1": [
+     "South Carolina"
+    ],
+    "place": "South Carolina (Columbia, Rock Hill, Sumter, Aiken, and most of central South Carolina)"
+   },
+   {
+    "prefix": "843",
+    "admin1": [
+     "South Carolina"
+    ],
+    "place": "South Carolina (Charleston, Florence, Hilton Head Island, Myrtle Beach, Charleston Air Force Base, and most of southeastern South Carolina)"
+   },
+   {
+    "prefix": "854",
+    "admin1": [
+     "South Carolina"
+    ],
+    "place": "South Carolina (Charleston, Florence, Hilton Head Island, Myrtle Beach, Charleston Air Force Base, and most of southeastern South Carolina)"
+   },
+   {
+    "prefix": "864",
+    "admin1": [
+     "South Carolina"
+    ],
+    "place": "South Carolina (The Upstate, including Greenville, Spartanburg, Anderson, Clemson, and most of northwestern South Carolina)"
+   },
+   {
+    "prefix": "605",
+    "admin1": [
+     "South Dakota"
+    ],
+    "place": "South Dakota (all)"
+   },
+   {
+    "prefix": "423",
+    "admin1": [
+     "Tennessee"
+    ],
+    "place": "Tennessee (two discontiguous portions of East Tennessee in the northeast and in the southeast)"
+   },
+   {
+    "prefix": "615",
+    "admin1": [
+     "Tennessee"
+    ],
+    "place": "Tennessee (Northern Middle Tennessee including Nashville)"
+   },
+   {
+    "prefix": "629",
+    "admin1": [
+     "Tennessee"
+    ],
+    "place": "Tennessee (Middle Tennessee, including Nashville and surrounding area)"
+   },
+   {
+    "prefix": "729",
+    "admin1": [
+     "Tennessee"
+    ],
+    "place": "Tennessee (two discontiguous portions of East Tennessee in the northeast and in the southeast)"
+   },
+   {
+    "prefix": "731",
+    "admin1": [
+     "Tennessee"
+    ],
+    "place": "Tennessee (most of West Tennessee, excluding Metropolitan Memphis and Shelby County (area code 901), but including Dyersburg, Jackson, Martin, Paris, Union City, and Crockett County)"
+   },
+   {
+    "prefix": "865",
+    "admin1": [
+     "Tennessee"
+    ],
+    "place": "Tennessee (Knoxville, Alcoa, Athens, Clinton, Crossville, Dayton, Gatlinburg, Loudon, Maryville, Newport, Oak Ridge, Oliver Springs, Pigeon Forge, Rockwood, Sweetwater, etc., in east Tennessee)"
+   },
+   {
+    "prefix": "901",
+    "admin1": [
+     "Tennessee"
+    ],
+    "place": "Tennessee (Memphis, Covington, Germantown, Somerville, and extreme southwestern Tennessee, mostly in Shelby County)"
+   },
+   {
+    "prefix": "931",
+    "admin1": [
+     "Tennessee"
+    ],
+    "place": "Tennessee (Southern Middle Tennessee)"
+   },
+   {
+    "prefix": "210",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (San Antonio metropolitan area)"
+   },
+   {
+    "prefix": "214",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Dallas metropolitan area)"
+   },
+   {
+    "prefix": "254",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Waco, Killeen, Temple, Belton, and Stephenville)"
+   },
+   {
+    "prefix": "281",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Houston area)"
+   },
+   {
+    "prefix": "325",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Abilene, San Angelo, Sweetwater, Snyder)"
+   },
+   {
+    "prefix": "346",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Houston area)"
+   },
+   {
+    "prefix": "361",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Corpus Christi, Victoria, George West, and much of south Texas)"
+   },
+   {
+    "prefix": "409",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Beaumont, Galveston, Orange, Port Arthur, and Texas City)"
+   },
+   {
+    "prefix": "430",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Tyler, Sherman, Longview, Marshall, Palestine, Jacksonville, Carthage, and northeast Texas)"
+   },
+   {
+    "prefix": "432",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Western Texas (Midland, Odessa, Big Spring, Alpine, Fort Stockton)"
+   },
+   {
+    "prefix": "469",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Dallas metropolitan area)"
+   },
+   {
+    "prefix": "512",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Austin, San Marcos, and parts of central Texas)"
+   },
+   {
+    "prefix": "621",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Houston area)"
+   },
+   {
+    "prefix": "682",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Fort Worth, Arlington, Grand Prairie, Grandview, Weatherford)"
+   },
+   {
+    "prefix": "713",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Houston area) — overlays with 281, 346, 621, and 832"
+   },
+   {
+    "prefix": "726",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (San Antonio metropolitan area)"
+   },
+   {
+    "prefix": "737",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Austin and suburbs)"
+   },
+   {
+    "prefix": "806",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Lubbock, Amarillo, Canadian, Canyon, Dalhart, and the entire Texas Panhandle)"
+   },
+   {
+    "prefix": "817",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Fort Worth, Arlington, Grand Prairie, Grandview, Weatherford)"
+   },
+   {
+    "prefix": "830",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Del Rio, Kerrville, Eagle Pass, Fredericksburg, New Braunfels, and a part of the Rio Grande Valley)"
+   },
+   {
+    "prefix": "832",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Houston Metropolitan Area and suburbs)"
+   },
+   {
+    "prefix": "903",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Tyler, Sherman, Longview, Marshall, Palestine, Jacksonville, Carthage, and Northeast Texas)"
+   },
+   {
+    "prefix": "915",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (all of El Paso County and portions of Hudspeth County)"
+   },
+   {
+    "prefix": "936",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Nacogdoches, Lufkin, Conroe, Huntsville, Center, and Southeast Texas)"
+   },
+   {
+    "prefix": "940",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (the area immediately north of the Dallas–Fort Worth metroplex: Denton, Wichita Falls, Decatur, Gainesville, Vernon, etc.)"
+   },
+   {
+    "prefix": "945",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Dallas–Fort Worth metroplex)"
+   },
+   {
+    "prefix": "956",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Laredo, Harlingen, Brownsville, McAllen, and southmost Texas)"
+   },
+   {
+    "prefix": "972",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Dallas metropolitan area)"
+   },
+   {
+    "prefix": "979",
+    "admin1": [
+     "Texas"
+    ],
+    "place": "Texas (Wharton, Bryan, Bay City, College Station, Lake Jackson, La Grange, and southeastern Texas)"
+   },
+   {
+    "prefix": "385",
+    "admin1": [
+     "Utah"
+    ],
+    "place": "Utah (Counties of Davis; Morgan; Salt Lake; Utah; and Weber along the Wasatch Front, including the cities of Salt Lake City, Ogden, and Provo)"
+   },
+   {
+    "prefix": "435",
+    "admin1": [
+     "Utah"
+    ],
+    "place": "Most of Utah outside the Salt Lake City, Ogden, and Provo metropolitan areas in northern Utah"
+   },
+   {
+    "prefix": "801",
+    "admin1": [
+     "Utah"
+    ],
+    "place": "Utah (Counties of Davis, Morgan, Salt Lake, Utah, and Weber along the Wasatch Front, including the cities of Salt Lake City, Ogden, and Provo)"
+   },
+   {
+    "prefix": "802",
+    "admin1": [
+     "Vermont"
+    ],
+    "place": "Vermont (all)"
+   },
+   {
+    "prefix": "276",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (Bristol, Abingdon, Wytheville, Martinsville, Bluefield, Big Stone Gap, and the remainder of southwestern Virginia)"
+   },
+   {
+    "prefix": "434",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (Charlottesville, Lynchburg, Danville, and south-central Virginia)"
+   },
+   {
+    "prefix": "540",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (Fredericksburg, Roanoke, Blacksburg, Harrisonburg, Lexington, Staunton, Winchester, and parts of north-central Virginia)"
+   },
+   {
+    "prefix": "571",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (Washington, D.C. suburbs, including Arlington and Alexandria)"
+   },
+   {
+    "prefix": "686",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (the Richmond Metropolitan Area, including Petersburg and the Northern Neck and Middle Peninsula)"
+   },
+   {
+    "prefix": "703",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (Northern Virginia: mostly the suburbs of Washington, D.C., including Alexandria, Arlington County, Fairfax County, Prince William County, and eastern Loudoun County)"
+   },
+   {
+    "prefix": "757",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (Part of Hampton Roads and the Eastern Shore of Virginia)"
+   },
+   {
+    "prefix": "804",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (the Richmond Metropolitan Area, including Petersburg and the Northern Neck and Middle Peninsula)"
+   },
+   {
+    "prefix": "826",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (Fredericksburg, Roanoke, Blacksburg, Harrisonburg, Lexington, Staunton, Winchester, and parts of north-central Virginia)"
+   },
+   {
+    "prefix": "948",
+    "admin1": [
+     "Virginia"
+    ],
+    "place": "Virginia (Part of Hampton Roads and the Eastern Shore of Virginia)"
+   },
+   {
+    "prefix": "206",
+    "admin1": [
+     "Washington"
+    ],
+    "place": "Washington (Seattle area)"
+   },
+   {
+    "prefix": "253",
+    "admin1": [
+     "Washington"
+    ],
+    "place": "Washington (Tacoma, McChord Air Force Base, Fort Lewis, Lakewood, Auburn, Puyallup, Enumclaw, Spanaway, and the southern suburbs of Seattle)"
+   },
+   {
+    "prefix": "360",
+    "admin1": [
+     "Washington"
+    ],
+    "place": "Washington (Olympia, Vancouver, Bellingham, Bremerton, Port Angeles, Aberdeen, and most of western Washington, except the Seattle metropolitan area)"
+   },
+   {
+    "prefix": "425",
+    "admin1": [
+     "Washington"
+    ],
+    "place": "Washington (northern and eastern suburbs of Seattle)"
+   },
+   {
+    "prefix": "509",
+    "admin1": [
+     "Washington"
+    ],
+    "place": "Washington (all of eastern Washington, including Spokane, Ellensburg, Pullman, the Tri-Cities area, Walla Walla, Wenatchee, and Yakima)"
+   },
+   {
+    "prefix": "564",
+    "admin1": [
+     "Washington"
+    ],
+    "place": "Washington (Olympia, Vancouver, Bellingham, Bremerton, Port Angeles, Aberdeen, and all of western Washington)"
+   },
+   {
+    "prefix": "304",
+    "admin1": [
+     "West Virginia"
+    ],
+    "place": "West Virginia"
+   },
+   {
+    "prefix": "681",
+    "admin1": [
+     "West Virginia"
+    ],
+    "place": "West Virginia"
+   },
+   {
+    "prefix": "262",
+    "admin1": [
+     "Wisconsin"
+    ],
+    "place": "Wisconsin (Racine, Kenosha, Menomonee Falls, Waukesha, and most of southeastern Wisconsin excluding Milwaukee County)"
+   },
+   {
+    "prefix": "274",
+    "admin1": [
+     "Wisconsin"
+    ],
+    "place": "Wisconsin (Appleton, Sheboygan, Oshkosh, Green Bay, Manitowoc, Marquette, Fond du Lac, and parts of eastern Wisconsin—but not in Milwaukee County)"
+   },
+   {
+    "prefix": "353",
+    "admin1": [
+     "Wisconsin"
+    ],
+    "place": "Wisconsin (Madison, La Crosse, Platteville, Beloit, and most of southwestern Wisconsin)"
+   },
+   {
+    "prefix": "414",
+    "admin1": [
+     "Wisconsin"
+    ],
+    "place": "Wisconsin (Milwaukee County includes cities of Milwaukee, West Allis, Oak Creek, and others)"
+   },
+   {
+    "prefix": "534",
+    "admin1": [
+     "Wisconsin"
+    ],
+    "place": "Wisconsin (Wausau, Eau Claire, Rhinelander, and most of northern Wisconsin)"
+   },
+   {
+    "prefix": "608",
+    "admin1": [
+     "Wisconsin"
+    ],
+    "place": "Wisconsin (Madison, La Crosse, Platteville, Beloit, and most of southwestern Wisconsin)"
+   },
+   {
+    "prefix": "715",
+    "admin1": [
+     "Wisconsin"
+    ],
+    "place": "Wisconsin (Wausau, Eau Claire, Rhinelander, and most of northern Wisconsin)"
+   },
+   {
+    "prefix": "920",
+    "admin1": [
+     "Wisconsin"
+    ],
+    "place": "Wisconsin (Appleton, Sheboygan, Oshkosh, Green Bay, Manitowoc, Marquette, Fond du Lac, and parts of eastern Wisconsin, but not Milwaukee County)"
+   },
+   {
+    "prefix": "307",
+    "admin1": [
+     "Wyoming"
+    ],
+    "place": "Wyoming (all)"
+   }
+  ],
+  "mobile": [],
+  "special": [
+   {
+    "prefix": "800",
+    "note": "toll-free, nationwide"
+   },
+   {
+    "prefix": "833",
+    "note": "toll-free, nationwide"
+   },
+   {
+    "prefix": "844",
+    "note": "toll-free, nationwide"
+   },
+   {
+    "prefix": "855",
+    "note": "toll-free, nationwide"
+   },
+   {
+    "prefix": "866",
+    "note": "toll-free, nationwide"
+   },
+   {
+    "prefix": "877",
+    "note": "toll-free, nationwide"
+   },
+   {
+    "prefix": "888",
+    "note": "toll-free, nationwide"
+   },
+   {
+    "prefix": "900",
+    "note": "premium rate"
+   },
+   {
+    "prefix": "500",
+    "note": "personal communications, non-geographic"
+   }
+  ]
+ }
+}
