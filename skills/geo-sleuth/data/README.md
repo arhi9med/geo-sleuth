@@ -13,6 +13,11 @@
 | `world/ae.json` | UAE: 7 emirates, 224 Dubai communities with official codes, plate rules per emirate, phone prefixes | en.wikipedia.org: Vehicle registration plates of the UAE; Telephone numbers in the UAE; Emirates of the UAE; List of communities in Dubai | 2026-10-08 | 231 | derived from Wikipedia, CC BY-SA 4.0 |
 | `world/us.json` | US: 50 states + DC (USPS/ISO), 371 area codes with area descriptions, plate slogans and serial formats per state | en.wikipedia.org: List of North American Numbering Plan area codes; Vehicle registration plates of <State> (infobox) | 2026-10-08 | 421 | derived from Wikipedia, CC BY-SA 4.0 |
 | `world/ru.json` | Russia: federal subjects with plate region codes (incl. 3-digit and reassigned codes), landline codes per subject | en.wikipedia.org: Vehicle registration plates of Russia; Telephone numbers in Russia | 2026-10-08 | 179 | derived from Wikipedia, CC BY-SA 4.0 |
+| `world/eu.json` | Distinguishing signs (EU blue band / oval sticker) → country | en.wikipedia.org: International vehicle registration code; ISO 3166-1 alpha-3 | 2026-10-08 | 182 | derived from Wikipedia, CC BY-SA 4.0 |
+| `world/de.json` | Germany: plate district codes → district + Land (830 districts) | de.wikipedia.org: Liste der Kfz-Kennzeichen in Deutschland | 2026-10-08 | 732 | derived from Wikipedia, CC BY-SA 4.0 |
+| `world/fr.json` | France: departments (code, capital, region), phone zones 01–05 | en.wikipedia.org: Departments of France; Telephone numbers in France | 2026-10-08 | 102 | derived from Wikipedia, CC BY-SA 4.0 |
+| `world/gb.json` | UK: plate memory tags → DVLA office and area | en.wikipedia.org: Vehicle registration plates of the United Kingdom | 2026-10-08 | 414 | derived from Wikipedia, CC BY-SA 4.0 |
+| `world/it.json` | Italy: province codes | en.wikipedia.org: Vehicle registration plates of Italy | 2026-10-08 | 107 | derived from Wikipedia, CC BY-SA 4.0 |
 | `country_names.json` | 中英文国家和地区名对照及别名 | 手工整理 | 2026-09-14 | 300 | MIT（随本仓库） |
 
 说明：

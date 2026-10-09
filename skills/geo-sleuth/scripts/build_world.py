@@ -41,7 +41,25 @@ def wiki(title: str, from_dir: str | None, proxy: str | None) -> str:
     return r.stdout.decode("utf-8", "replace")
 
 
+def _templates(s: str) -> str:
+    """Resolve wiki templates innermost-first: {{sort|key|shown}} / {{lang|xx|shown}} -> shown, {{flag|X}} -> X, the rest dropped."""
+    for _ in range(10):
+        m = re.search(r"\{\{([^{}]*)\}\}", s)
+        if not m:
+            break
+        parts = m.group(1).split("|")
+        name = parts[0].strip().lower()
+        keep = ""
+        if name in ("sort", "lang", "nowrap", "small", "flag", "flagu", "flagcountry") and len(parts) > 1:
+            keep = parts[-1] if name in ("sort", "lang", "nowrap", "small") else parts[1]
+        elif name.startswith("formatnum") and ":" in parts[0]:
+            keep = parts[0].split(":", 1)[1]
+        s = s[:m.start()] + keep + s[m.end():]
+    return s
+
+
 def _clean(cell: str) -> str:
+    cell = _templates(cell)
     cell = re.sub(r"^\s*(align|style|class|data-sort-value)=\"[^\"]*\"\s*\|", "", cell.strip())
     cell = re.sub(r"\{\{formatnum:([^}]*)\}\}", r"\1", cell)
     cell = re.sub(r"\{\{lang\|[a-z-]+\|([^}]*)\}\}", r"\1", cell, flags=re.I)
@@ -363,7 +381,162 @@ def build_ru(from_dir: str | None, proxy: str | None) -> dict:
     }
 
 
-BUILDERS = {"ae": build_ae, "us": build_us, "ru": build_ru}
+# ---------------------------------------------------------------- Europe
+
+B3 = "'''"
+
+
+def _meta(sources: dict, n: int) -> dict:
+    src = list(sources.values())
+    return {"source": src, "fetched": date.today().isoformat(), "count": n, "license": "derived from Wikipedia, CC BY-SA 4.0",
+            "by_kind": {"plate": sources.get("plates", src[0]), "area": sources.get("phone", src[0]), "admin": sources.get("admin", src[0])}}
+
+
+def build_eu(from_dir, proxy) -> dict:
+    """Distinguishing sign (blue EU band / oval sticker) -> country."""
+    src = {"plates": "https://en.wikipedia.org/wiki/International_vehicle_registration_code"}
+    iso = {}
+    for m in re.finditer(r"\{\{mono\|([A-Z]{3})\}\}(?:&nbsp;)*\s*\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", wiki("ISO_3166-1_alpha-3", from_dir, proxy)):
+        iso[m.group(1)] = m.group(2)
+    txt = wiki("International_vehicle_registration_code", from_dir, proxy).split("== Current codes ==")[1].split("\n|}")[0]
+    plates = []
+    for row in re.split(r"\n\|-", txt):
+        cells = [c.strip() for c in re.split(r"\n\|", "\n" + row.strip()) if c.strip()]
+        if len(cells) < 2 or not re.fullmatch(r"[A-Z]{1,4}", _clean(cells[0])):
+            continue
+        m = re.search(r"\{\{([A-Z]{3})\}\}", cells[1])
+        name = iso.get(m.group(1)) if m else _clean(re.sub(r"\{\{flag\|([^|}]*).*?\}\}", r"\1", cells[1]))
+        if name:
+            plates.append({"admin1": name, "markers": [], "code_kind": "band", "codes": [_clean(cells[0])], "digits": 9, "note": "distinguishing sign"})
+    return {"_meta": _meta(src, len(plates)), "country": "Europe (distinguishing signs)", "iso": "EU", "driving_side": "",
+            "admin1": [{"name": p["admin1"], "name_local": "", "iso": p["codes"][0], "capital": "", "aliases": []} for p in plates],
+            "admin2": [], "admin2_level": "district", "plates": plates, "phone": {"calling_code": "", "trunk": "", "area": []}}
+
+
+def build_de(from_dir, proxy) -> dict:
+    src = {"plates": "https://de.wikipedia.org/wiki/Liste_der_Kfz-Kennzeichen_in_Deutschland"}
+    txt = wiki("Liste_der_Kfz-Kennzeichen_in_Deutschland", from_dir, proxy)
+    codes: dict[str, dict] = {}
+    cur = None
+    for row in re.split(r"\n\|-[^\n]*", txt):
+        cells = [c for c in re.split(r"\n\|", "\n" + row.strip()) if c.strip()]
+        if not cells:
+            continue
+        first = re.sub(r"rowspan=\"?\d+\"?\s*\|", "", cells[0]).strip()
+        m = re.fullmatch(B3 + r"(?:\[\[[^|\]]*\|)?([A-ZÄÖÜ]{1,3})(?:\]\])?" + B3, first)
+        if m:
+            cur = m.group(1)
+            ent = codes.setdefault(cur, {"districts": [], "state": ""})
+            if len(cells) > 1:
+                ent["districts"].append(_clean(cells[1]))
+            if len(cells) > 3:
+                ent["state"] = _clean(re.sub(r"rowspan=\"?\d+\"?\s*\|", "", cells[-1]))
+        elif cur and len(cells) == 1 and not first.startswith(("{", "!")):
+            codes[cur]["districts"].append(_clean(first))
+    for v in codes.values():  # "Region Hannover\n* Stadt Hannover\n* übrige Region" -> keep the first line
+        v["districts"] = [re.split(r"\n|\*", x)[0].strip(" ,") for x in v["districts"]]
+    plates = [{"admin1": v["state"], "admin2_list": [d for d in v["districts"] if d], "markers": [], "code_kind": "district",
+               "codes": [k], "digits": 9, "note": "; ".join(d for d in v["districts"] if d)} for k, v in codes.items() if v["state"]]
+    states = sorted({p["admin1"] for p in plates})
+    return {"_meta": _meta(src, len(plates)), "country": "Germany", "iso": "DE", "driving_side": "right",
+            "admin1": [{"name": s, "name_local": s, "iso": "", "capital": "", "aliases": []} for s in states],
+            "admin2": [{"name": d, "name_local": d, "admin1": p["admin1"], "code": p["codes"][0], "sector": ""} for p in plates for d in p["admin2_list"]],
+            "admin2_level": "district", "plates": plates, "phone": {"calling_code": "49", "trunk": "0", "area": []}}
+
+
+def build_fr(from_dir, proxy) -> dict:
+    src = {"admin": "https://en.wikipedia.org/wiki/Departments_of_France", "phone": "https://en.wikipedia.org/wiki/Telephone_numbers_in_France"}
+    txt = wiki("Departments_of_France", from_dir, proxy)
+    txt = txt[txt.index("[[INSEE code]]"):]
+    txt = txt[:txt.index("\n|}")]  # current departments table only (later tables list former departments)
+    deps, carry = [], ("", 0)
+    for row in re.split(r"\n\|-", txt):
+        m = re.match(r"\s*!scope=\"row\"[^|]*\|\s*(\d{2}[A-Z]?|2[AB]|97\d)\s*\n(.*)", row.strip(), re.S)
+        if not m:
+            continue
+        raw_cells = [c for c in re.split(r"\n\|", "\n" + m.group(2)) if c.strip() and "File:" not in c]
+        cells, flag_i, span = [], None, 1
+        for c in raw_cells:
+            rs = re.match(r"^\s*rowspan=\"?(\d+)\"?\s*\|", c)
+            body = c[rs.end():] if rs else c
+            if re.search(r"\b1[789]\d\d\s*$|\b20\d\d\s*$", _clean(body)):
+                continue  # date of establishment
+            if re.search(r"\{\{flag\w*\|", body) and flag_i is None:
+                flag_i, span = len(cells), int(rs.group(1)) if rs else 1
+            cells.append(body)
+        if flag_i is not None and flag_i >= 2:
+            region = re.search(r"\{\{flag\w*\|([^|}]+)", cells[flag_i]).group(1)
+            carry = (region, span - 1)
+            name, cap = cells[flag_i - 2], cells[flag_i - 1]
+        elif carry[1] > 0 and len(cells) >= 2:  # region cell spans from an earlier row
+            region = carry[0]
+            carry = (region, carry[1] - 1)
+            name, cap = cells[0], cells[1]
+        else:
+            continue
+        deps.append({"code": m.group(1), "name": _clean(name).rstrip("]").strip(), "capital": _clean(cap), "region": region})
+    plates = [{"admin1": d["region"], "admin2": d["name"], "markers": [], "code_kind": "department", "codes": [d["code"]], "digits": 9,
+               "note": f"department {d['code']} {d['name']} (capital {d['capital']}); the number on French plates is chosen by the owner"} for d in deps]
+    area = [{"prefix": "01", "admin1": ["Île-de-France"], "place": "Paris and Île-de-France"},
+            {"prefix": "02", "admin1": ["Normandy", "Brittany", "Pays de la Loire", "Centre-Val de Loire", "Réunion", "Mayotte"], "place": "north-west France (and Réunion, Mayotte); region list approximate, zone edges do not follow regions"},
+            {"prefix": "03", "admin1": ["Hauts-de-France", "Grand Est", "Bourgogne-Franche-Comté"], "place": "north-east France; region list approximate, zone edges do not follow regions"},
+            {"prefix": "04", "admin1": ["Auvergne-Rhône-Alpes", "Provence-Alpes-Côte d'Azur", "Occitanie", "Corsica"], "place": "south-east France and Corsica; region list approximate, zone edges do not follow regions"},
+            {"prefix": "05", "admin1": ["Nouvelle-Aquitaine", "Occitanie", "Guadeloupe", "Martinique", "French Guiana"], "place": "south-west France (and the Antilles, Guiana); region list approximate, zone edges do not follow regions"}]
+    regions = sorted({d["region"] for d in deps})
+    return {"_meta": _meta(src, len(deps)), "country": "France", "iso": "FR", "driving_side": "right",
+            "admin1": [{"name": r, "name_local": r, "iso": "", "capital": "", "aliases": []} for r in regions],
+            "admin2": [{"name": d["name"], "name_local": d["name"], "admin1": d["region"], "code": d["code"], "sector": d["capital"]} for d in deps],
+            "admin2_level": "district", "plates": plates,
+            "phone": {"calling_code": "33", "trunk": "0", "area": area,
+                      "mobile": [{"prefix": "06", "note": "mobile"}, {"prefix": "07", "note": "mobile"}],
+                      "special": [{"prefix": "08", "note": "special-rate, nationwide"}, {"prefix": "09", "note": "VoIP/box, nationwide"}]}}
+
+
+def build_gb(from_dir, proxy) -> dict:
+    src = {"plates": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Kingdom"}
+    txt = wiki("Vehicle_registration_plates_of_the_United_Kingdom", from_dir, proxy)
+    sec = txt.split("==== Local memory tags ====")[1].split("\n|}")[0]
+    tags: dict[str, dict] = {}
+    first = mnem = ""
+    for row in re.split(r"\n\|-[^\n]*", sec):
+        cells = [c for c in re.split(r"\n\|", "\n" + row.strip()) if c.strip()]
+        cells = [re.sub(r"\{\{rh\}\}|rowspan=\"?\d+\"?|class=\"[^\"]*\"", "", c).strip().lstrip("|").strip() for c in cells]
+        if len(cells) >= 4 and re.fullmatch(r"[A-Z]", _clean(cells[0])):
+            first, mnem = _clean(cells[0]), _clean(cells[1])
+            office, seconds = _clean(cells[2]), cells[3]
+        elif len(cells) == 2 and first:
+            office, seconds = _clean(cells[0]), cells[1]
+        else:
+            continue
+        if "reserved" in office.lower():
+            continue
+        for s in re.findall(r"\b([A-Z])\b", _clean(seconds)):
+            tags[first + s] = {"office": office, "area": mnem}
+    plates = [{"admin1": v["area"], "markers": [], "code_kind": "memory", "codes": [k], "digits": 9,
+               "note": f"DVLA office {v['office']} (registration office, not necessarily where the car is)"} for k, v in tags.items()]
+    areas = sorted({p["admin1"] for p in plates})
+    return {"_meta": _meta(src, len(plates)), "country": "United Kingdom", "iso": "GB", "driving_side": "left",
+            "admin1": [{"name": a, "name_local": a, "iso": "", "capital": "", "aliases": []} for a in areas],
+            "admin2": [], "admin2_level": "district", "plates": plates, "phone": {"calling_code": "44", "trunk": "0", "area": []}}
+
+
+def build_it(from_dir, proxy) -> dict:
+    src = {"plates": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Italy"}
+    txt = wiki("Vehicle_registration_plates_of_Italy", from_dir, proxy)
+    sec = txt.split("=== Province codes 1927 to present day ===")[1].split("\n|}")[0]
+    prov = {}
+    for line in sec.splitlines():
+        for m in re.finditer(B3 + r"([A-Z]{2})" + B3 + r"\s*\|\|\s*((?:\[\[[^\]]*\]\]|[^|\[])+)", line):
+            prov[m.group(1)] = _clean(m.group(2)).split(" / ")[0].strip()
+    prov["ROMA"] = "Rome"  # Rome's band shows the word ROMA instead of a two-letter code
+    plates = [{"admin1": v, "markers": [], "code_kind": "province", "codes": [k], "digits": 9,
+               "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"} for k, v in prov.items()]
+    return {"_meta": _meta(src, len(plates)), "country": "Italy", "iso": "IT", "driving_side": "right",
+            "admin1": [{"name": v, "name_local": v, "iso": k, "capital": "", "aliases": []} for k, v in prov.items()],
+            "admin2": [], "admin2_level": "district", "plates": plates, "phone": {"calling_code": "39", "trunk": "0", "area": []}}
+
+
+BUILDERS = {"ae": build_ae, "us": build_us, "ru": build_ru, "eu": build_eu, "de": build_de, "fr": build_fr, "gb": build_gb, "it": build_it}
 
 
 def main() -> None:

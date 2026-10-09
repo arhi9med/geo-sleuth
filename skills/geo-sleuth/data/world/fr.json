@@ -1,0 +1,2063 @@
+{
+ "_meta": {
+  "source": [
+   "https://en.wikipedia.org/wiki/Departments_of_France",
+   "https://en.wikipedia.org/wiki/Telephone_numbers_in_France"
+  ],
+  "fetched": "2026-10-08",
+  "count": 102,
+  "license": "derived from Wikipedia, CC BY-SA 4.0",
+  "by_kind": {
+   "plate": "https://en.wikipedia.org/wiki/Departments_of_France",
+   "area": "https://en.wikipedia.org/wiki/Telephone_numbers_in_France",
+   "admin": "https://en.wikipedia.org/wiki/Departments_of_France"
+  }
+ },
+ "country": "France",
+ "iso": "FR",
+ "driving_side": "right",
+ "admin1": [
+  {
+   "name": "Auvergne-Rhône-Alpes",
+   "name_local": "Auvergne-Rhône-Alpes",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bourgogne-Franche-Comté",
+   "name_local": "Bourgogne-Franche-Comté",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Brittany",
+   "name_local": "Brittany",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Centre-Val de Loire",
+   "name_local": "Centre-Val de Loire",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Corsica",
+   "name_local": "Corsica",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "French Guiana",
+   "name_local": "French Guiana",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Grand Est",
+   "name_local": "Grand Est",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Guadeloupe",
+   "name_local": "Guadeloupe",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Hauts-de-France",
+   "name_local": "Hauts-de-France",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Martinique",
+   "name_local": "Martinique",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Mayotte",
+   "name_local": "Mayotte",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Normandy",
+   "name_local": "Normandy",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Nouvelle-Aquitaine",
+   "name_local": "Nouvelle-Aquitaine",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Occitanie",
+   "name_local": "Occitanie",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Pays de la Loire",
+   "name_local": "Pays de la Loire",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Provence-Alpes-Côte d'Azur",
+   "name_local": "Provence-Alpes-Côte d'Azur",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Réunion",
+   "name_local": "Réunion",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Île-de-France",
+   "name_local": "Île-de-France",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  }
+ ],
+ "admin2": [
+  {
+   "name": "Ain",
+   "name_local": "Ain",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "01",
+   "sector": "Bourg-en-Bresse"
+  },
+  {
+   "name": "Aisne",
+   "name_local": "Aisne",
+   "admin1": "Hauts-de-France",
+   "code": "02",
+   "sector": "Laon"
+  },
+  {
+   "name": "Allier",
+   "name_local": "Allier",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "03",
+   "sector": "Moulins"
+  },
+  {
+   "name": "Alpes-de-Haute-Provence",
+   "name_local": "Alpes-de-Haute-Provence",
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "code": "04",
+   "sector": "Digne-les-Bains"
+  },
+  {
+   "name": "Hautes-Alpes",
+   "name_local": "Hautes-Alpes",
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "code": "05",
+   "sector": "Gap"
+  },
+  {
+   "name": "Alpes-Maritimes",
+   "name_local": "Alpes-Maritimes",
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "code": "06",
+   "sector": "Nice"
+  },
+  {
+   "name": "Ardèche",
+   "name_local": "Ardèche",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "07",
+   "sector": "Privas"
+  },
+  {
+   "name": "Ardennes",
+   "name_local": "Ardennes",
+   "admin1": "Grand Est",
+   "code": "08",
+   "sector": "Charleville-Mézières"
+  },
+  {
+   "name": "Ariège",
+   "name_local": "Ariège",
+   "admin1": "Occitanie",
+   "code": "09",
+   "sector": "Foix"
+  },
+  {
+   "name": "Aube",
+   "name_local": "Aube",
+   "admin1": "Grand Est",
+   "code": "10",
+   "sector": "Troyes"
+  },
+  {
+   "name": "Aude",
+   "name_local": "Aude",
+   "admin1": "Occitanie",
+   "code": "11",
+   "sector": "Carcassonne"
+  },
+  {
+   "name": "Aveyron",
+   "name_local": "Aveyron",
+   "admin1": "Occitanie",
+   "code": "12",
+   "sector": "Rodez"
+  },
+  {
+   "name": "Bouches-du-Rhône",
+   "name_local": "Bouches-du-Rhône",
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "code": "13",
+   "sector": "Marseille"
+  },
+  {
+   "name": "Calvados",
+   "name_local": "Calvados",
+   "admin1": "Normandy",
+   "code": "14",
+   "sector": "Caen"
+  },
+  {
+   "name": "Cantal",
+   "name_local": "Cantal",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "15",
+   "sector": "Aurillac"
+  },
+  {
+   "name": "Charente",
+   "name_local": "Charente",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "16",
+   "sector": "Angoulême"
+  },
+  {
+   "name": "Charente-Maritime",
+   "name_local": "Charente-Maritime",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "17",
+   "sector": "La Rochelle"
+  },
+  {
+   "name": "Cher",
+   "name_local": "Cher",
+   "admin1": "Centre-Val de Loire",
+   "code": "18",
+   "sector": "Bourges"
+  },
+  {
+   "name": "Corrèze",
+   "name_local": "Corrèze",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "19",
+   "sector": "Tulle"
+  },
+  {
+   "name": "Corse-du-Sud",
+   "name_local": "Corse-du-Sud",
+   "admin1": "Corsica",
+   "code": "2A",
+   "sector": "Ajaccio"
+  },
+  {
+   "name": "Haute-Corse",
+   "name_local": "Haute-Corse",
+   "admin1": "Corsica",
+   "code": "2B",
+   "sector": "Bastia"
+  },
+  {
+   "name": "Côte-d'Or",
+   "name_local": "Côte-d'Or",
+   "admin1": "Bourgogne-Franche-Comté",
+   "code": "21",
+   "sector": "Dijon"
+  },
+  {
+   "name": "Côtes-d'Armor",
+   "name_local": "Côtes-d'Armor",
+   "admin1": "Brittany",
+   "code": "22",
+   "sector": "Saint-Brieuc"
+  },
+  {
+   "name": "Creuse",
+   "name_local": "Creuse",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "23",
+   "sector": "Guéret"
+  },
+  {
+   "name": "Dordogne",
+   "name_local": "Dordogne",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "24",
+   "sector": "Périgueux"
+  },
+  {
+   "name": "Doubs",
+   "name_local": "Doubs",
+   "admin1": "Bourgogne-Franche-Comté",
+   "code": "25",
+   "sector": "Besançon"
+  },
+  {
+   "name": "Drôme",
+   "name_local": "Drôme",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "26",
+   "sector": "Valence"
+  },
+  {
+   "name": "Eure",
+   "name_local": "Eure",
+   "admin1": "Normandy",
+   "code": "27",
+   "sector": "Évreux"
+  },
+  {
+   "name": "Eure-et-Loir",
+   "name_local": "Eure-et-Loir",
+   "admin1": "Centre-Val de Loire",
+   "code": "28",
+   "sector": "Chartres"
+  },
+  {
+   "name": "Finistère",
+   "name_local": "Finistère",
+   "admin1": "Brittany",
+   "code": "29",
+   "sector": "Quimper"
+  },
+  {
+   "name": "Gard",
+   "name_local": "Gard",
+   "admin1": "Occitanie",
+   "code": "30",
+   "sector": "Nîmes"
+  },
+  {
+   "name": "Haute-Garonne",
+   "name_local": "Haute-Garonne",
+   "admin1": "Occitanie",
+   "code": "31",
+   "sector": "Toulouse"
+  },
+  {
+   "name": "Gers",
+   "name_local": "Gers",
+   "admin1": "Occitanie",
+   "code": "32",
+   "sector": "Auch"
+  },
+  {
+   "name": "Gironde",
+   "name_local": "Gironde",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "33",
+   "sector": "Bordeaux"
+  },
+  {
+   "name": "Hérault",
+   "name_local": "Hérault",
+   "admin1": "Occitanie",
+   "code": "34",
+   "sector": "Montpellier"
+  },
+  {
+   "name": "Ille-et-Vilaine",
+   "name_local": "Ille-et-Vilaine",
+   "admin1": "Brittany",
+   "code": "35",
+   "sector": "Rennes"
+  },
+  {
+   "name": "Indre",
+   "name_local": "Indre",
+   "admin1": "Centre-Val de Loire",
+   "code": "36",
+   "sector": "Châteauroux"
+  },
+  {
+   "name": "Indre-et-Loire",
+   "name_local": "Indre-et-Loire",
+   "admin1": "Centre-Val de Loire",
+   "code": "37",
+   "sector": "Tours"
+  },
+  {
+   "name": "Isère",
+   "name_local": "Isère",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "38",
+   "sector": "Grenoble"
+  },
+  {
+   "name": "Jura",
+   "name_local": "Jura",
+   "admin1": "Bourgogne-Franche-Comté",
+   "code": "39",
+   "sector": "Lons-le-Saunier"
+  },
+  {
+   "name": "Landes",
+   "name_local": "Landes",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "40",
+   "sector": "Mont-de-Marsan"
+  },
+  {
+   "name": "Loir-et-Cher",
+   "name_local": "Loir-et-Cher",
+   "admin1": "Centre-Val de Loire",
+   "code": "41",
+   "sector": "Blois"
+  },
+  {
+   "name": "Loire",
+   "name_local": "Loire",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "42",
+   "sector": "Saint-Étienne"
+  },
+  {
+   "name": "Haute-Loire",
+   "name_local": "Haute-Loire",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "43",
+   "sector": "Le Puy-en-Velay"
+  },
+  {
+   "name": "Loire-Atlantique",
+   "name_local": "Loire-Atlantique",
+   "admin1": "Pays de la Loire",
+   "code": "44",
+   "sector": "Nantes"
+  },
+  {
+   "name": "Loiret",
+   "name_local": "Loiret",
+   "admin1": "Centre-Val de Loire",
+   "code": "45",
+   "sector": "Orléans"
+  },
+  {
+   "name": "Lot",
+   "name_local": "Lot",
+   "admin1": "Occitanie",
+   "code": "46",
+   "sector": "Cahors"
+  },
+  {
+   "name": "Lot-et-Garonne",
+   "name_local": "Lot-et-Garonne",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "47",
+   "sector": "Agen"
+  },
+  {
+   "name": "Lozère",
+   "name_local": "Lozère",
+   "admin1": "Occitanie",
+   "code": "48",
+   "sector": "Mende"
+  },
+  {
+   "name": "Maine-et-Loire",
+   "name_local": "Maine-et-Loire",
+   "admin1": "Pays de la Loire",
+   "code": "49",
+   "sector": "Angers"
+  },
+  {
+   "name": "Manche",
+   "name_local": "Manche",
+   "admin1": "Normandy",
+   "code": "50",
+   "sector": "Saint-Lô"
+  },
+  {
+   "name": "Marne",
+   "name_local": "Marne",
+   "admin1": "Grand Est",
+   "code": "51",
+   "sector": "Châlons-en-Champagne"
+  },
+  {
+   "name": "Haute-Marne",
+   "name_local": "Haute-Marne",
+   "admin1": "Grand Est",
+   "code": "52",
+   "sector": "Chaumont"
+  },
+  {
+   "name": "Mayenne",
+   "name_local": "Mayenne",
+   "admin1": "Pays de la Loire",
+   "code": "53",
+   "sector": "Laval"
+  },
+  {
+   "name": "Meurthe-et-Moselle",
+   "name_local": "Meurthe-et-Moselle",
+   "admin1": "Grand Est",
+   "code": "54",
+   "sector": "Nancy"
+  },
+  {
+   "name": "Meuse",
+   "name_local": "Meuse",
+   "admin1": "Grand Est",
+   "code": "55",
+   "sector": "Bar-le-Duc"
+  },
+  {
+   "name": "Morbihan",
+   "name_local": "Morbihan",
+   "admin1": "Brittany",
+   "code": "56",
+   "sector": "Vannes"
+  },
+  {
+   "name": "Moselle",
+   "name_local": "Moselle",
+   "admin1": "Grand Est",
+   "code": "57",
+   "sector": "Metz"
+  },
+  {
+   "name": "Nièvre",
+   "name_local": "Nièvre",
+   "admin1": "Bourgogne-Franche-Comté",
+   "code": "58",
+   "sector": "Nevers"
+  },
+  {
+   "name": "Nord",
+   "name_local": "Nord",
+   "admin1": "Hauts-de-France",
+   "code": "59",
+   "sector": "Lille"
+  },
+  {
+   "name": "Oise",
+   "name_local": "Oise",
+   "admin1": "Hauts-de-France",
+   "code": "60",
+   "sector": "Beauvais"
+  },
+  {
+   "name": "Orne",
+   "name_local": "Orne",
+   "admin1": "Normandy",
+   "code": "61",
+   "sector": "Alençon"
+  },
+  {
+   "name": "Pas-de-Calais",
+   "name_local": "Pas-de-Calais",
+   "admin1": "Hauts-de-France",
+   "code": "62",
+   "sector": "Arras"
+  },
+  {
+   "name": "Puy-de-Dôme",
+   "name_local": "Puy-de-Dôme",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "63",
+   "sector": "Clermont-Ferrand"
+  },
+  {
+   "name": "Pyrénées-Atlantiques",
+   "name_local": "Pyrénées-Atlantiques",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "64",
+   "sector": "Pau"
+  },
+  {
+   "name": "Hautes-Pyrénées",
+   "name_local": "Hautes-Pyrénées",
+   "admin1": "Occitanie",
+   "code": "65",
+   "sector": "Tarbes"
+  },
+  {
+   "name": "Pyrénées-Orientales",
+   "name_local": "Pyrénées-Orientales",
+   "admin1": "Occitanie",
+   "code": "66",
+   "sector": "Perpignan"
+  },
+  {
+   "name": "Bas-Rhin",
+   "name_local": "Bas-Rhin",
+   "admin1": "Grand Est",
+   "code": "67",
+   "sector": "Strasbourg"
+  },
+  {
+   "name": "Haut-Rhin",
+   "name_local": "Haut-Rhin",
+   "admin1": "Grand Est",
+   "code": "68",
+   "sector": "Colmar"
+  },
+  {
+   "name": "Rhône",
+   "name_local": "Rhône",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "69D",
+   "sector": "Lyon (provisional)"
+  },
+  {
+   "name": "Lyon Metropolis",
+   "name_local": "Lyon Metropolis",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "69M",
+   "sector": "Lyon"
+  },
+  {
+   "name": "Haute-Saône",
+   "name_local": "Haute-Saône",
+   "admin1": "Bourgogne-Franche-Comté",
+   "code": "70",
+   "sector": "Vesoul"
+  },
+  {
+   "name": "Saône-et-Loire",
+   "name_local": "Saône-et-Loire",
+   "admin1": "Bourgogne-Franche-Comté",
+   "code": "71",
+   "sector": "Mâcon"
+  },
+  {
+   "name": "Sarthe",
+   "name_local": "Sarthe",
+   "admin1": "Pays de la Loire",
+   "code": "72",
+   "sector": "Le Mans"
+  },
+  {
+   "name": "Savoie",
+   "name_local": "Savoie",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "73",
+   "sector": "Chambéry"
+  },
+  {
+   "name": "Haute-Savoie",
+   "name_local": "Haute-Savoie",
+   "admin1": "Auvergne-Rhône-Alpes",
+   "code": "74",
+   "sector": "Annecy"
+  },
+  {
+   "name": "Paris",
+   "name_local": "Paris",
+   "admin1": "Île-de-France",
+   "code": "75",
+   "sector": "Paris"
+  },
+  {
+   "name": "Seine-Maritime",
+   "name_local": "Seine-Maritime",
+   "admin1": "Normandy",
+   "code": "76",
+   "sector": "Rouen"
+  },
+  {
+   "name": "Seine-et-Marne",
+   "name_local": "Seine-et-Marne",
+   "admin1": "Île-de-France",
+   "code": "77",
+   "sector": "Melun"
+  },
+  {
+   "name": "Yvelines",
+   "name_local": "Yvelines",
+   "admin1": "Île-de-France",
+   "code": "78",
+   "sector": "Versailles"
+  },
+  {
+   "name": "Deux-Sèvres",
+   "name_local": "Deux-Sèvres",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "79",
+   "sector": "Niort"
+  },
+  {
+   "name": "Somme",
+   "name_local": "Somme",
+   "admin1": "Hauts-de-France",
+   "code": "80",
+   "sector": "Amiens"
+  },
+  {
+   "name": "Tarn",
+   "name_local": "Tarn",
+   "admin1": "Occitanie",
+   "code": "81",
+   "sector": "Albi"
+  },
+  {
+   "name": "Tarn-et-Garonne",
+   "name_local": "Tarn-et-Garonne",
+   "admin1": "Occitanie",
+   "code": "82",
+   "sector": "Montauban"
+  },
+  {
+   "name": "Var",
+   "name_local": "Var",
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "code": "83",
+   "sector": "Toulon"
+  },
+  {
+   "name": "Vaucluse",
+   "name_local": "Vaucluse",
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "code": "84",
+   "sector": "Avignon"
+  },
+  {
+   "name": "Vendée",
+   "name_local": "Vendée",
+   "admin1": "Pays de la Loire",
+   "code": "85",
+   "sector": "La Roche-sur-Yon"
+  },
+  {
+   "name": "Vienne",
+   "name_local": "Vienne",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "86",
+   "sector": "Poitiers"
+  },
+  {
+   "name": "Haute-Vienne",
+   "name_local": "Haute-Vienne",
+   "admin1": "Nouvelle-Aquitaine",
+   "code": "87",
+   "sector": "Limoges"
+  },
+  {
+   "name": "Vosges",
+   "name_local": "Vosges",
+   "admin1": "Grand Est",
+   "code": "88",
+   "sector": "Épinal"
+  },
+  {
+   "name": "Yonne",
+   "name_local": "Yonne",
+   "admin1": "Bourgogne-Franche-Comté",
+   "code": "89",
+   "sector": "Auxerre"
+  },
+  {
+   "name": "Territoire de Belfort",
+   "name_local": "Territoire de Belfort",
+   "admin1": "Bourgogne-Franche-Comté",
+   "code": "90",
+   "sector": "Belfort"
+  },
+  {
+   "name": "Essonne",
+   "name_local": "Essonne",
+   "admin1": "Île-de-France",
+   "code": "91",
+   "sector": "Évry-Courcouronnes"
+  },
+  {
+   "name": "Hauts-de-Seine",
+   "name_local": "Hauts-de-Seine",
+   "admin1": "Île-de-France",
+   "code": "92",
+   "sector": "Nanterre"
+  },
+  {
+   "name": "Seine-Saint-Denis",
+   "name_local": "Seine-Saint-Denis",
+   "admin1": "Île-de-France",
+   "code": "93",
+   "sector": "Bobigny"
+  },
+  {
+   "name": "Val-de-Marne",
+   "name_local": "Val-de-Marne",
+   "admin1": "Île-de-France",
+   "code": "94",
+   "sector": "Créteil"
+  },
+  {
+   "name": "Val-d'Oise",
+   "name_local": "Val-d'Oise",
+   "admin1": "Île-de-France",
+   "code": "95",
+   "sector": "Pontoise"
+  },
+  {
+   "name": "Guadeloupe",
+   "name_local": "Guadeloupe",
+   "admin1": "Guadeloupe",
+   "code": "971",
+   "sector": "Basse-Terre"
+  },
+  {
+   "name": "Martinique",
+   "name_local": "Martinique",
+   "admin1": "Martinique",
+   "code": "972",
+   "sector": "Fort-de-France"
+  },
+  {
+   "name": "Guyane",
+   "name_local": "Guyane",
+   "admin1": "French Guiana",
+   "code": "973",
+   "sector": "Cayenne"
+  },
+  {
+   "name": "La Réunion",
+   "name_local": "La Réunion",
+   "admin1": "Réunion",
+   "code": "974",
+   "sector": "Saint-Denis"
+  },
+  {
+   "name": "Mayotte",
+   "name_local": "Mayotte",
+   "admin1": "Mayotte",
+   "code": "976",
+   "sector": "Mamoudzou"
+  }
+ ],
+ "admin2_level": "district",
+ "plates": [
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Ain",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "01"
+   ],
+   "digits": 9,
+   "note": "department 01 Ain (capital Bourg-en-Bresse); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Hauts-de-France",
+   "admin2": "Aisne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "02"
+   ],
+   "digits": 9,
+   "note": "department 02 Aisne (capital Laon); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Allier",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "03"
+   ],
+   "digits": 9,
+   "note": "department 03 Allier (capital Moulins); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "admin2": "Alpes-de-Haute-Provence",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "04"
+   ],
+   "digits": 9,
+   "note": "department 04 Alpes-de-Haute-Provence (capital Digne-les-Bains); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "admin2": "Hautes-Alpes",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "05"
+   ],
+   "digits": 9,
+   "note": "department 05 Hautes-Alpes (capital Gap); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "admin2": "Alpes-Maritimes",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "06"
+   ],
+   "digits": 9,
+   "note": "department 06 Alpes-Maritimes (capital Nice); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Ardèche",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "07"
+   ],
+   "digits": 9,
+   "note": "department 07 Ardèche (capital Privas); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Ardennes",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "08"
+   ],
+   "digits": 9,
+   "note": "department 08 Ardennes (capital Charleville-Mézières); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Ariège",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "09"
+   ],
+   "digits": 9,
+   "note": "department 09 Ariège (capital Foix); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Aube",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "10"
+   ],
+   "digits": 9,
+   "note": "department 10 Aube (capital Troyes); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Aude",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "11"
+   ],
+   "digits": 9,
+   "note": "department 11 Aude (capital Carcassonne); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Aveyron",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "12"
+   ],
+   "digits": 9,
+   "note": "department 12 Aveyron (capital Rodez); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "admin2": "Bouches-du-Rhône",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "13"
+   ],
+   "digits": 9,
+   "note": "department 13 Bouches-du-Rhône (capital Marseille); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Normandy",
+   "admin2": "Calvados",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "14"
+   ],
+   "digits": 9,
+   "note": "department 14 Calvados (capital Caen); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Cantal",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "15"
+   ],
+   "digits": 9,
+   "note": "department 15 Cantal (capital Aurillac); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Charente",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "16"
+   ],
+   "digits": 9,
+   "note": "department 16 Charente (capital Angoulême); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Charente-Maritime",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "17"
+   ],
+   "digits": 9,
+   "note": "department 17 Charente-Maritime (capital La Rochelle); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Centre-Val de Loire",
+   "admin2": "Cher",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "18"
+   ],
+   "digits": 9,
+   "note": "department 18 Cher (capital Bourges); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Corrèze",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "19"
+   ],
+   "digits": 9,
+   "note": "department 19 Corrèze (capital Tulle); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Corsica",
+   "admin2": "Corse-du-Sud",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "2A"
+   ],
+   "digits": 9,
+   "note": "department 2A Corse-du-Sud (capital Ajaccio); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Corsica",
+   "admin2": "Haute-Corse",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "2B"
+   ],
+   "digits": 9,
+   "note": "department 2B Haute-Corse (capital Bastia); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Bourgogne-Franche-Comté",
+   "admin2": "Côte-d'Or",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "21"
+   ],
+   "digits": 9,
+   "note": "department 21 Côte-d'Or (capital Dijon); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Brittany",
+   "admin2": "Côtes-d'Armor",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "22"
+   ],
+   "digits": 9,
+   "note": "department 22 Côtes-d'Armor (capital Saint-Brieuc); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Creuse",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "23"
+   ],
+   "digits": 9,
+   "note": "department 23 Creuse (capital Guéret); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Dordogne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "24"
+   ],
+   "digits": 9,
+   "note": "department 24 Dordogne (capital Périgueux); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Bourgogne-Franche-Comté",
+   "admin2": "Doubs",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "25"
+   ],
+   "digits": 9,
+   "note": "department 25 Doubs (capital Besançon); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Drôme",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "26"
+   ],
+   "digits": 9,
+   "note": "department 26 Drôme (capital Valence); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Normandy",
+   "admin2": "Eure",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "27"
+   ],
+   "digits": 9,
+   "note": "department 27 Eure (capital Évreux); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Centre-Val de Loire",
+   "admin2": "Eure-et-Loir",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "28"
+   ],
+   "digits": 9,
+   "note": "department 28 Eure-et-Loir (capital Chartres); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Brittany",
+   "admin2": "Finistère",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "29"
+   ],
+   "digits": 9,
+   "note": "department 29 Finistère (capital Quimper); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Gard",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "30"
+   ],
+   "digits": 9,
+   "note": "department 30 Gard (capital Nîmes); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Haute-Garonne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "31"
+   ],
+   "digits": 9,
+   "note": "department 31 Haute-Garonne (capital Toulouse); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Gers",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "32"
+   ],
+   "digits": 9,
+   "note": "department 32 Gers (capital Auch); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Gironde",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "33"
+   ],
+   "digits": 9,
+   "note": "department 33 Gironde (capital Bordeaux); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Hérault",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "34"
+   ],
+   "digits": 9,
+   "note": "department 34 Hérault (capital Montpellier); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Brittany",
+   "admin2": "Ille-et-Vilaine",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "35"
+   ],
+   "digits": 9,
+   "note": "department 35 Ille-et-Vilaine (capital Rennes); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Centre-Val de Loire",
+   "admin2": "Indre",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "36"
+   ],
+   "digits": 9,
+   "note": "department 36 Indre (capital Châteauroux); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Centre-Val de Loire",
+   "admin2": "Indre-et-Loire",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "37"
+   ],
+   "digits": 9,
+   "note": "department 37 Indre-et-Loire (capital Tours); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Isère",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "38"
+   ],
+   "digits": 9,
+   "note": "department 38 Isère (capital Grenoble); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Bourgogne-Franche-Comté",
+   "admin2": "Jura",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "39"
+   ],
+   "digits": 9,
+   "note": "department 39 Jura (capital Lons-le-Saunier); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Landes",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "40"
+   ],
+   "digits": 9,
+   "note": "department 40 Landes (capital Mont-de-Marsan); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Centre-Val de Loire",
+   "admin2": "Loir-et-Cher",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "41"
+   ],
+   "digits": 9,
+   "note": "department 41 Loir-et-Cher (capital Blois); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Loire",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "42"
+   ],
+   "digits": 9,
+   "note": "department 42 Loire (capital Saint-Étienne); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Haute-Loire",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "43"
+   ],
+   "digits": 9,
+   "note": "department 43 Haute-Loire (capital Le Puy-en-Velay); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Pays de la Loire",
+   "admin2": "Loire-Atlantique",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "44"
+   ],
+   "digits": 9,
+   "note": "department 44 Loire-Atlantique (capital Nantes); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Centre-Val de Loire",
+   "admin2": "Loiret",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "45"
+   ],
+   "digits": 9,
+   "note": "department 45 Loiret (capital Orléans); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Lot",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "46"
+   ],
+   "digits": 9,
+   "note": "department 46 Lot (capital Cahors); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Lot-et-Garonne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "47"
+   ],
+   "digits": 9,
+   "note": "department 47 Lot-et-Garonne (capital Agen); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Lozère",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "48"
+   ],
+   "digits": 9,
+   "note": "department 48 Lozère (capital Mende); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Pays de la Loire",
+   "admin2": "Maine-et-Loire",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "49"
+   ],
+   "digits": 9,
+   "note": "department 49 Maine-et-Loire (capital Angers); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Normandy",
+   "admin2": "Manche",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "50"
+   ],
+   "digits": 9,
+   "note": "department 50 Manche (capital Saint-Lô); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Marne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "51"
+   ],
+   "digits": 9,
+   "note": "department 51 Marne (capital Châlons-en-Champagne); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Haute-Marne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "52"
+   ],
+   "digits": 9,
+   "note": "department 52 Haute-Marne (capital Chaumont); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Pays de la Loire",
+   "admin2": "Mayenne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "53"
+   ],
+   "digits": 9,
+   "note": "department 53 Mayenne (capital Laval); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Meurthe-et-Moselle",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "54"
+   ],
+   "digits": 9,
+   "note": "department 54 Meurthe-et-Moselle (capital Nancy); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Meuse",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "55"
+   ],
+   "digits": 9,
+   "note": "department 55 Meuse (capital Bar-le-Duc); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Brittany",
+   "admin2": "Morbihan",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "56"
+   ],
+   "digits": 9,
+   "note": "department 56 Morbihan (capital Vannes); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Moselle",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "57"
+   ],
+   "digits": 9,
+   "note": "department 57 Moselle (capital Metz); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Bourgogne-Franche-Comté",
+   "admin2": "Nièvre",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "58"
+   ],
+   "digits": 9,
+   "note": "department 58 Nièvre (capital Nevers); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Hauts-de-France",
+   "admin2": "Nord",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "59"
+   ],
+   "digits": 9,
+   "note": "department 59 Nord (capital Lille); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Hauts-de-France",
+   "admin2": "Oise",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "60"
+   ],
+   "digits": 9,
+   "note": "department 60 Oise (capital Beauvais); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Normandy",
+   "admin2": "Orne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "61"
+   ],
+   "digits": 9,
+   "note": "department 61 Orne (capital Alençon); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Hauts-de-France",
+   "admin2": "Pas-de-Calais",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "62"
+   ],
+   "digits": 9,
+   "note": "department 62 Pas-de-Calais (capital Arras); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Puy-de-Dôme",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "63"
+   ],
+   "digits": 9,
+   "note": "department 63 Puy-de-Dôme (capital Clermont-Ferrand); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Pyrénées-Atlantiques",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "64"
+   ],
+   "digits": 9,
+   "note": "department 64 Pyrénées-Atlantiques (capital Pau); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Hautes-Pyrénées",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "65"
+   ],
+   "digits": 9,
+   "note": "department 65 Hautes-Pyrénées (capital Tarbes); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Pyrénées-Orientales",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "66"
+   ],
+   "digits": 9,
+   "note": "department 66 Pyrénées-Orientales (capital Perpignan); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Bas-Rhin",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "67"
+   ],
+   "digits": 9,
+   "note": "department 67 Bas-Rhin (capital Strasbourg); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Haut-Rhin",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "68"
+   ],
+   "digits": 9,
+   "note": "department 68 Haut-Rhin (capital Colmar); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Rhône",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "69D"
+   ],
+   "digits": 9,
+   "note": "department 69D Rhône (capital Lyon (provisional)); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Lyon Metropolis",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "69M"
+   ],
+   "digits": 9,
+   "note": "department 69M Lyon Metropolis (capital Lyon); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Bourgogne-Franche-Comté",
+   "admin2": "Haute-Saône",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "70"
+   ],
+   "digits": 9,
+   "note": "department 70 Haute-Saône (capital Vesoul); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Bourgogne-Franche-Comté",
+   "admin2": "Saône-et-Loire",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "71"
+   ],
+   "digits": 9,
+   "note": "department 71 Saône-et-Loire (capital Mâcon); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Pays de la Loire",
+   "admin2": "Sarthe",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "72"
+   ],
+   "digits": 9,
+   "note": "department 72 Sarthe (capital Le Mans); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Savoie",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "73"
+   ],
+   "digits": 9,
+   "note": "department 73 Savoie (capital Chambéry); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Auvergne-Rhône-Alpes",
+   "admin2": "Haute-Savoie",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "74"
+   ],
+   "digits": 9,
+   "note": "department 74 Haute-Savoie (capital Annecy); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Île-de-France",
+   "admin2": "Paris",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "75"
+   ],
+   "digits": 9,
+   "note": "department 75 Paris (capital Paris); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Normandy",
+   "admin2": "Seine-Maritime",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "76"
+   ],
+   "digits": 9,
+   "note": "department 76 Seine-Maritime (capital Rouen); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Île-de-France",
+   "admin2": "Seine-et-Marne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "77"
+   ],
+   "digits": 9,
+   "note": "department 77 Seine-et-Marne (capital Melun); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Île-de-France",
+   "admin2": "Yvelines",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "78"
+   ],
+   "digits": 9,
+   "note": "department 78 Yvelines (capital Versailles); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Deux-Sèvres",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "79"
+   ],
+   "digits": 9,
+   "note": "department 79 Deux-Sèvres (capital Niort); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Hauts-de-France",
+   "admin2": "Somme",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "80"
+   ],
+   "digits": 9,
+   "note": "department 80 Somme (capital Amiens); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Tarn",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "81"
+   ],
+   "digits": 9,
+   "note": "department 81 Tarn (capital Albi); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Occitanie",
+   "admin2": "Tarn-et-Garonne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "82"
+   ],
+   "digits": 9,
+   "note": "department 82 Tarn-et-Garonne (capital Montauban); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "admin2": "Var",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "83"
+   ],
+   "digits": 9,
+   "note": "department 83 Var (capital Toulon); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Provence-Alpes-Côte d'Azur",
+   "admin2": "Vaucluse",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "84"
+   ],
+   "digits": 9,
+   "note": "department 84 Vaucluse (capital Avignon); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Pays de la Loire",
+   "admin2": "Vendée",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "85"
+   ],
+   "digits": 9,
+   "note": "department 85 Vendée (capital La Roche-sur-Yon); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Vienne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "86"
+   ],
+   "digits": 9,
+   "note": "department 86 Vienne (capital Poitiers); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Nouvelle-Aquitaine",
+   "admin2": "Haute-Vienne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "87"
+   ],
+   "digits": 9,
+   "note": "department 87 Haute-Vienne (capital Limoges); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Grand Est",
+   "admin2": "Vosges",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "88"
+   ],
+   "digits": 9,
+   "note": "department 88 Vosges (capital Épinal); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Bourgogne-Franche-Comté",
+   "admin2": "Yonne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "89"
+   ],
+   "digits": 9,
+   "note": "department 89 Yonne (capital Auxerre); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Bourgogne-Franche-Comté",
+   "admin2": "Territoire de Belfort",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "90"
+   ],
+   "digits": 9,
+   "note": "department 90 Territoire de Belfort (capital Belfort); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Île-de-France",
+   "admin2": "Essonne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "91"
+   ],
+   "digits": 9,
+   "note": "department 91 Essonne (capital Évry-Courcouronnes); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Île-de-France",
+   "admin2": "Hauts-de-Seine",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "92"
+   ],
+   "digits": 9,
+   "note": "department 92 Hauts-de-Seine (capital Nanterre); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Île-de-France",
+   "admin2": "Seine-Saint-Denis",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "93"
+   ],
+   "digits": 9,
+   "note": "department 93 Seine-Saint-Denis (capital Bobigny); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Île-de-France",
+   "admin2": "Val-de-Marne",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "94"
+   ],
+   "digits": 9,
+   "note": "department 94 Val-de-Marne (capital Créteil); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Île-de-France",
+   "admin2": "Val-d'Oise",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "95"
+   ],
+   "digits": 9,
+   "note": "department 95 Val-d'Oise (capital Pontoise); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Guadeloupe",
+   "admin2": "Guadeloupe",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "971"
+   ],
+   "digits": 9,
+   "note": "department 971 Guadeloupe (capital Basse-Terre); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Martinique",
+   "admin2": "Martinique",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "972"
+   ],
+   "digits": 9,
+   "note": "department 972 Martinique (capital Fort-de-France); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "French Guiana",
+   "admin2": "Guyane",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "973"
+   ],
+   "digits": 9,
+   "note": "department 973 Guyane (capital Cayenne); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Réunion",
+   "admin2": "La Réunion",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "974"
+   ],
+   "digits": 9,
+   "note": "department 974 La Réunion (capital Saint-Denis); the number on French plates is chosen by the owner"
+  },
+  {
+   "admin1": "Mayotte",
+   "admin2": "Mayotte",
+   "markers": [],
+   "code_kind": "department",
+   "codes": [
+    "976"
+   ],
+   "digits": 9,
+   "note": "department 976 Mayotte (capital Mamoudzou); the number on French plates is chosen by the owner"
+  }
+ ],
+ "phone": {
+  "calling_code": "33",
+  "trunk": "0",
+  "area": [
+   {
+    "prefix": "01",
+    "admin1": [
+     "Île-de-France"
+    ],
+    "place": "Paris and Île-de-France"
+   },
+   {
+    "prefix": "02",
+    "admin1": [
+     "Normandy",
+     "Brittany",
+     "Pays de la Loire",
+     "Centre-Val de Loire",
+     "Réunion",
+     "Mayotte"
+    ],
+    "place": "north-west France (and Réunion, Mayotte); region list approximate, zone edges do not follow regions"
+   },
+   {
+    "prefix": "03",
+    "admin1": [
+     "Hauts-de-France",
+     "Grand Est",
+     "Bourgogne-Franche-Comté"
+    ],
+    "place": "north-east France; region list approximate, zone edges do not follow regions"
+   },
+   {
+    "prefix": "04",
+    "admin1": [
+     "Auvergne-Rhône-Alpes",
+     "Provence-Alpes-Côte d'Azur",
+     "Occitanie",
+     "Corsica"
+    ],
+    "place": "south-east France and Corsica; region list approximate, zone edges do not follow regions"
+   },
+   {
+    "prefix": "05",
+    "admin1": [
+     "Nouvelle-Aquitaine",
+     "Occitanie",
+     "Guadeloupe",
+     "Martinique",
+     "French Guiana"
+    ],
+    "place": "south-west France (and the Antilles, Guiana); region list approximate, zone edges do not follow regions"
+   }
+  ],
+  "mobile": [
+   {
+    "prefix": "06",
+    "note": "mobile"
+   },
+   {
+    "prefix": "07",
+    "note": "mobile"
+   }
+  ],
+  "special": [
+   {
+    "prefix": "08",
+    "note": "special-rate, nationwide"
+   },
+   {
+    "prefix": "09",
+    "note": "VoIP/box, nationwide"
+   }
+  ]
+ }
+}

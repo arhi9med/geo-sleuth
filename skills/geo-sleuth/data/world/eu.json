@@ -1,0 +1,3123 @@
+{
+ "_meta": {
+  "source": [
+   "https://en.wikipedia.org/wiki/International_vehicle_registration_code"
+  ],
+  "fetched": "2026-10-08",
+  "count": 182,
+  "license": "derived from Wikipedia, CC BY-SA 4.0",
+  "by_kind": {
+   "plate": "https://en.wikipedia.org/wiki/International_vehicle_registration_code",
+   "area": "https://en.wikipedia.org/wiki/International_vehicle_registration_code",
+   "admin": "https://en.wikipedia.org/wiki/International_vehicle_registration_code"
+  }
+ },
+ "country": "Europe (distinguishing signs)",
+ "iso": "EU",
+ "driving_side": "",
+ "admin1": [
+  {
+   "name": "Austria",
+   "name_local": "",
+   "iso": "A",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Afghanistan",
+   "name_local": "",
+   "iso": "AFG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Albania",
+   "name_local": "",
+   "iso": "AL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Armenia",
+   "name_local": "",
+   "iso": "AM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Andorra",
+   "name_local": "",
+   "iso": "AND",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Australia",
+   "name_local": "",
+   "iso": "AUS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Anguilla",
+   "name_local": "",
+   "iso": "AXA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Azerbaijan",
+   "name_local": "",
+   "iso": "AZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Belgium",
+   "name_local": "",
+   "iso": "B",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bangladesh",
+   "name_local": "",
+   "iso": "BD",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Barbados",
+   "name_local": "",
+   "iso": "BDS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Burkina Faso",
+   "name_local": "",
+   "iso": "BF",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bulgaria",
+   "name_local": "",
+   "iso": "BG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Belize",
+   "name_local": "",
+   "iso": "BH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bosnia and Herzegovina",
+   "name_local": "",
+   "iso": "BIH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bolivia, Plurinational State of",
+   "name_local": "",
+   "iso": "BOL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Brazil",
+   "name_local": "",
+   "iso": "BR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bahrain",
+   "name_local": "",
+   "iso": "BRN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Brunei Darussalam",
+   "name_local": "",
+   "iso": "BRU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bahamas",
+   "name_local": "",
+   "iso": "BS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Virgin Islands (British)",
+   "name_local": "",
+   "iso": "BVI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Botswana",
+   "name_local": "",
+   "iso": "BW",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Belarus",
+   "name_local": "",
+   "iso": "BY",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Cameroon",
+   "name_local": "",
+   "iso": "CAM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Canada",
+   "name_local": "",
+   "iso": "CDN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Congo, Democratic Republic of the",
+   "name_local": "",
+   "iso": "CGO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Switzerland",
+   "name_local": "",
+   "iso": "CH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Côte d'Ivoire",
+   "name_local": "",
+   "iso": "CI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Sri Lanka",
+   "name_local": "",
+   "iso": "CL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Colombia",
+   "name_local": "",
+   "iso": "CO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Costa Rica",
+   "name_local": "",
+   "iso": "CR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Cuba",
+   "name_local": "",
+   "iso": "CU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Cyprus",
+   "name_local": "",
+   "iso": "CY",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Czechia",
+   "name_local": "",
+   "iso": "CZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Germany",
+   "name_local": "",
+   "iso": "D",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Denmark",
+   "name_local": "",
+   "iso": "DK",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Dominican Republic",
+   "name_local": "",
+   "iso": "DOM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Benin",
+   "name_local": "",
+   "iso": "DY",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Algeria",
+   "name_local": "",
+   "iso": "DZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Spain",
+   "name_local": "",
+   "iso": "E",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Kenya",
+   "name_local": "",
+   "iso": "EAK",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Tanzania, United Republic of",
+   "name_local": "",
+   "iso": "EAT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Uganda",
+   "name_local": "",
+   "iso": "EAU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Zanzibar",
+   "name_local": "",
+   "iso": "EAZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ecuador",
+   "name_local": "",
+   "iso": "EC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Egypt",
+   "name_local": "",
+   "iso": "EG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Eritrea",
+   "name_local": "",
+   "iso": "ER",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "El Salvador",
+   "name_local": "",
+   "iso": "ES",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Estonia",
+   "name_local": "",
+   "iso": "EST",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ethiopia",
+   "name_local": "",
+   "iso": "ETH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "France",
+   "name_local": "",
+   "iso": "F",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Finland",
+   "name_local": "",
+   "iso": "FIN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Fiji",
+   "name_local": "",
+   "iso": "FJI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Liechtenstein",
+   "name_local": "",
+   "iso": "FL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Faroe Islands",
+   "name_local": "",
+   "iso": "FO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Gabon",
+   "name_local": "",
+   "iso": "G",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Alderney",
+   "name_local": "",
+   "iso": "GBA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Guernsey",
+   "name_local": "",
+   "iso": "GBG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Jersey",
+   "name_local": "",
+   "iso": "GBJ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Isle of Man",
+   "name_local": "",
+   "iso": "GBM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Gibraltar",
+   "name_local": "",
+   "iso": "GBZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Guatemala",
+   "name_local": "",
+   "iso": "GCA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Georgia",
+   "name_local": "",
+   "iso": "GE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ghana",
+   "name_local": "",
+   "iso": "GH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Greece",
+   "name_local": "",
+   "iso": "GR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Guyana",
+   "name_local": "",
+   "iso": "GUY",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Hungary",
+   "name_local": "",
+   "iso": "H",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Hong Kong",
+   "name_local": "",
+   "iso": "HK",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Jordan",
+   "name_local": "",
+   "iso": "HKJ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Croatia",
+   "name_local": "",
+   "iso": "HR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Italy",
+   "name_local": "",
+   "iso": "I",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Israel",
+   "name_local": "",
+   "iso": "IL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "India",
+   "name_local": "",
+   "iso": "IND",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Iran, Islamic Republic of",
+   "name_local": "",
+   "iso": "IR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ireland",
+   "name_local": "",
+   "iso": "IRL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Iraq",
+   "name_local": "",
+   "iso": "IRQ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Iceland",
+   "name_local": "",
+   "iso": "IS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Japan",
+   "name_local": "",
+   "iso": "J",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Jamaica",
+   "name_local": "",
+   "iso": "JA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Kyrgyzstan",
+   "name_local": "",
+   "iso": "KG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Cambodia",
+   "name_local": "",
+   "iso": "KH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Saudi Arabia",
+   "name_local": "",
+   "iso": "KSA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Kuwait",
+   "name_local": "",
+   "iso": "KWT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Kazakhstan",
+   "name_local": "",
+   "iso": "KZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Luxembourg",
+   "name_local": "",
+   "iso": "L",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Lao People's Democratic Republic",
+   "name_local": "",
+   "iso": "LAO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Libya",
+   "name_local": "",
+   "iso": "LAR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Liberia",
+   "name_local": "",
+   "iso": "LB",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Lesotho",
+   "name_local": "",
+   "iso": "LS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Lithuania",
+   "name_local": "",
+   "iso": "LT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Latvia",
+   "name_local": "",
+   "iso": "LV",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Malta",
+   "name_local": "",
+   "iso": "M",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Morocco",
+   "name_local": "",
+   "iso": "MA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Malaysia",
+   "name_local": "",
+   "iso": "MAL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Monaco",
+   "name_local": "",
+   "iso": "MC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Moldova, Republic of",
+   "name_local": "",
+   "iso": "MD",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Mexico",
+   "name_local": "",
+   "iso": "MEX",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Montenegro",
+   "name_local": "",
+   "iso": "MNE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Mozambique",
+   "name_local": "",
+   "iso": "MOC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Mauritius",
+   "name_local": "",
+   "iso": "MS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Maldives",
+   "name_local": "",
+   "iso": "MV",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Malawi",
+   "name_local": "",
+   "iso": "MW",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Myanmar",
+   "name_local": "",
+   "iso": "MYA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Norway",
+   "name_local": "",
+   "iso": "N",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Namibia",
+   "name_local": "",
+   "iso": "NAM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Naoero",
+   "name_local": "",
+   "iso": "NAU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Nepal",
+   "name_local": "",
+   "iso": "NEP",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Nicaragua",
+   "name_local": "",
+   "iso": "NIC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Netherlands, Kingdom of the",
+   "name_local": "",
+   "iso": "NL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "North Macedonia",
+   "name_local": "",
+   "iso": "NMK",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "New Zealand",
+   "name_local": "",
+   "iso": "NZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Oman",
+   "name_local": "",
+   "iso": "OM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Portugal",
+   "name_local": "",
+   "iso": "P",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Panama",
+   "name_local": "",
+   "iso": "PA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Peru",
+   "name_local": "",
+   "iso": "PE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Pakistan",
+   "name_local": "",
+   "iso": "PK",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Poland",
+   "name_local": "",
+   "iso": "PL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Papua New Guinea",
+   "name_local": "",
+   "iso": "PNG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Paraguay",
+   "name_local": "",
+   "iso": "PY",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Qatar",
+   "name_local": "",
+   "iso": "Q",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Argentina",
+   "name_local": "",
+   "iso": "RA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Taiwan",
+   "name_local": "",
+   "iso": "RC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Central African Republic",
+   "name_local": "",
+   "iso": "RCA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Congo",
+   "name_local": "",
+   "iso": "RCB",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Chile",
+   "name_local": "",
+   "iso": "RCH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Guinea",
+   "name_local": "",
+   "iso": "RG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Haiti",
+   "name_local": "",
+   "iso": "RH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Indonesia",
+   "name_local": "",
+   "iso": "RI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Mauritania",
+   "name_local": "",
+   "iso": "RIM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "20px Kosovo",
+   "name_local": "",
+   "iso": "RKS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Lebanon",
+   "name_local": "",
+   "iso": "RL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Madagascar",
+   "name_local": "",
+   "iso": "RM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Mali",
+   "name_local": "",
+   "iso": "RMM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Niger",
+   "name_local": "",
+   "iso": "RN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Uruguay",
+   "name_local": "",
+   "iso": "RO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Korea, Republic of",
+   "name_local": "",
+   "iso": "ROK",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Uruguay",
+   "name_local": "",
+   "iso": "ROU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Philippines",
+   "name_local": "",
+   "iso": "RP",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "San Marino",
+   "name_local": "",
+   "iso": "RSM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Burundi",
+   "name_local": "",
+   "iso": "RU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Russian Federation",
+   "name_local": "",
+   "iso": "RUS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Rwanda",
+   "name_local": "",
+   "iso": "RWA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Sweden",
+   "name_local": "",
+   "iso": "S",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Eswatini",
+   "name_local": "",
+   "iso": "SD",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Singapore",
+   "name_local": "",
+   "iso": "SGP",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Slovakia",
+   "name_local": "",
+   "iso": "SK",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Slovenia",
+   "name_local": "",
+   "iso": "SLO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Suriname",
+   "name_local": "",
+   "iso": "SME",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Senegal",
+   "name_local": "",
+   "iso": "SN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Somalia",
+   "name_local": "",
+   "iso": "SO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Serbia",
+   "name_local": "",
+   "iso": "SRB",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Sudan",
+   "name_local": "",
+   "iso": "SUD",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Seychelles",
+   "name_local": "",
+   "iso": "SY",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Syria",
+   "name_local": "",
+   "iso": "SYR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Thailand",
+   "name_local": "",
+   "iso": "T",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Chad",
+   "name_local": "",
+   "iso": "TCH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Togo",
+   "name_local": "",
+   "iso": "TG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Tajikistan",
+   "name_local": "",
+   "iso": "TJ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Turkmenistan",
+   "name_local": "",
+   "iso": "TM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Tunisia",
+   "name_local": "",
+   "iso": "TN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Tonga",
+   "name_local": "",
+   "iso": "TO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Türkiye",
+   "name_local": "",
+   "iso": "TR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Trinidad and Tobago",
+   "name_local": "",
+   "iso": "TT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ukraine",
+   "name_local": "",
+   "iso": "UA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "United Arab Emirates",
+   "name_local": "",
+   "iso": "UAE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "United States of America",
+   "name_local": "",
+   "iso": "USA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Uzbekistan",
+   "name_local": "",
+   "iso": "UZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Holy See",
+   "name_local": "",
+   "iso": "V",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "<!--DO NOT CHANGE-->Viet Nam<!--\"Viet Nam\" is the country name used in ISO 3166: https://www.iso.org/obp/ui/#iso:code:3166:VN -->",
+   "name_local": "",
+   "iso": "VN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Gambia",
+   "name_local": "",
+   "iso": "WAG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Sierra Leone",
+   "name_local": "",
+   "iso": "WAL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Nigeria",
+   "name_local": "",
+   "iso": "WAN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Dominica",
+   "name_local": "",
+   "iso": "WD",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Grenada",
+   "name_local": "",
+   "iso": "WG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Saint Lucia",
+   "name_local": "",
+   "iso": "WL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Samoa",
+   "name_local": "",
+   "iso": "WS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Saint Vincent and the Grenadines",
+   "name_local": "",
+   "iso": "WV",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Yemen",
+   "name_local": "",
+   "iso": "YAR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Venezuela, Bolivarian Republic of",
+   "name_local": "",
+   "iso": "YV",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Zambia",
+   "name_local": "",
+   "iso": "Z",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "South Africa",
+   "name_local": "",
+   "iso": "ZA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Zimbabwe",
+   "name_local": "",
+   "iso": "ZW",
+   "capital": "",
+   "aliases": []
+  }
+ ],
+ "admin2": [],
+ "admin2_level": "district",
+ "plates": [
+  {
+   "admin1": "Austria",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "A"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Afghanistan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "AFG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Albania",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "AL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Armenia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "AM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Andorra",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "AND"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Australia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "AUS"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Anguilla",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "AXA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Azerbaijan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "AZ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Belgium",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "B"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Bangladesh",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BD"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Barbados",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BDS"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Burkina Faso",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BF"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Bulgaria",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Belize",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BH"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Bosnia and Herzegovina",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BIH"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Bolivia, Plurinational State of",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BOL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Brazil",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BR"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Bahrain",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BRN"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Brunei Darussalam",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BRU"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Bahamas",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BS"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Virgin Islands (British)",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BVI"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Botswana",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BW"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Belarus",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "BY"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Cameroon",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CAM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Canada",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CDN"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Congo, Democratic Republic of the",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CGO"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Switzerland",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CH"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Côte d'Ivoire",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CI"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Sri Lanka",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Colombia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CO"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Costa Rica",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CR"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Cuba",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CU"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Cyprus",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CY"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Czechia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "CZ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Germany",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "D"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Denmark",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "DK"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Dominican Republic",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "DOM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Benin",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "DY"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Algeria",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "DZ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Spain",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "E"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Kenya",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "EAK"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Tanzania, United Republic of",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "EAT"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Uganda",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "EAU"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Zanzibar",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "EAZ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Ecuador",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "EC"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Egypt",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "EG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Eritrea",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "ER"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "El Salvador",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "ES"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Estonia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "EST"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Ethiopia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "ETH"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "France",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "F"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Finland",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "FIN"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Fiji",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "FJI"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Liechtenstein",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "FL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Faroe Islands",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "FO"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Gabon",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "G"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Alderney",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GBA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Guernsey",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GBG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Jersey",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GBJ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Isle of Man",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GBM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Gibraltar",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GBZ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Guatemala",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GCA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Georgia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GE"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Ghana",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GH"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Greece",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GR"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Guyana",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "GUY"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Hungary",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "H"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Hong Kong",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "HK"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Jordan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "HKJ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Croatia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "HR"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Italy",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "I"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Israel",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "IL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "India",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "IND"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Iran, Islamic Republic of",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "IR"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Ireland",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "IRL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Iraq",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "IRQ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Iceland",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "IS"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Japan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "J"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Jamaica",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "JA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Kyrgyzstan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "KG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Cambodia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "KH"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Saudi Arabia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "KSA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Kuwait",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "KWT"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Kazakhstan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "KZ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Luxembourg",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "L"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Lao People's Democratic Republic",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "LAO"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Libya",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "LAR"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Liberia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "LB"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Lesotho",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "LS"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Lithuania",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "LT"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Latvia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "LV"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Malta",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "M"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Morocco",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Malaysia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MAL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Monaco",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MC"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Moldova, Republic of",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MD"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Mexico",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MEX"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Montenegro",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MNE"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Mozambique",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MOC"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Mauritius",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MS"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Maldives",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MV"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Malawi",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MW"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Myanmar",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "MYA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Norway",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "N"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Namibia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "NAM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Naoero",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "NAU"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Nepal",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "NEP"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Nicaragua",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "NIC"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Netherlands, Kingdom of the",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "NL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "North Macedonia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "NMK"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "New Zealand",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "NZ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Oman",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "OM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Portugal",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "P"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Panama",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "PA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Peru",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "PE"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Pakistan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "PK"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Poland",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "PL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Papua New Guinea",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "PNG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Paraguay",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "PY"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Qatar",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "Q"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Argentina",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Taiwan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RC"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Central African Republic",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RCA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Congo",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RCB"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Chile",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RCH"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Guinea",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Haiti",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RH"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Indonesia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RI"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Mauritania",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RIM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "20px Kosovo",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RKS"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Lebanon",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Madagascar",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Mali",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RMM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Niger",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RN"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Uruguay",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RO"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Korea, Republic of",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "ROK"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Uruguay",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "ROU"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Philippines",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RP"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "San Marino",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RSM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Burundi",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RU"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Russian Federation",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RUS"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Rwanda",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "RWA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Sweden",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "S"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Eswatini",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SD"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Singapore",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SGP"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Slovakia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SK"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Slovenia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SLO"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Suriname",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SME"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Senegal",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SN"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Somalia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SO"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Serbia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SRB"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Sudan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SUD"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Seychelles",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SY"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Syria",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "SYR"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Thailand",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "T"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Chad",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "TCH"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Togo",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "TG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Tajikistan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "TJ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Turkmenistan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "TM"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Tunisia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "TN"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Tonga",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "TO"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Türkiye",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "TR"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Trinidad and Tobago",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "TT"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Ukraine",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "UA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "United Arab Emirates",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "UAE"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "United States of America",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "USA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Uzbekistan",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "UZ"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Holy See",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "V"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "<!--DO NOT CHANGE-->Viet Nam<!--\"Viet Nam\" is the country name used in ISO 3166: https://www.iso.org/obp/ui/#iso:code:3166:VN -->",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "VN"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Gambia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "WAG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Sierra Leone",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "WAL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Nigeria",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "WAN"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Dominica",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "WD"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Grenada",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "WG"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Saint Lucia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "WL"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Samoa",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "WS"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Saint Vincent and the Grenadines",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "WV"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Yemen",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "YAR"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Venezuela, Bolivarian Republic of",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "YV"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Zambia",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "Z"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "South Africa",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "ZA"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  },
+  {
+   "admin1": "Zimbabwe",
+   "markers": [],
+   "code_kind": "band",
+   "codes": [
+    "ZW"
+   ],
+   "digits": 9,
+   "note": "distinguishing sign"
+  }
+ ],
+ "phone": {
+  "calling_code": "",
+  "trunk": "",
+  "area": []
+ }
+}

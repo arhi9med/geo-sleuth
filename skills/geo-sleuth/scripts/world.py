@@ -16,10 +16,15 @@ DATA = Path(__file__).parent.parent / "data" / "world"
 ALIASES = {
     "ae": ["ae", "are", "uae", "u.a.e", "united arab emirates", "emirates", "阿联酋", "阿拉伯联合酋长国", "оаэ", "эмираты"],
     "ru": ["ru", "rus", "russia", "russian federation", "россия", "рф", "俄罗斯"],
+    "eu": ["eu", "europe", "eu band", "ec", "европа", "欧洲"],
+    "de": ["de", "deu", "ger", "germany", "deutschland", "германия", "德国"],
+    "fr": ["fr", "fra", "france", "франция", "法国"],
+    "gb": ["gb", "uk", "gbr", "united kingdom", "great britain", "britain", "england", "scotland", "wales", "великобритания", "англия", "英国"],
+    "it": ["it", "ita", "italy", "italia", "италия", "意大利"],
     "us": ["us", "usa", "u.s.", "u.s.a.", "united states", "united states of america", "america", "美国", "сша"],
 }
 # international calling code -> table, for auto-detecting "+971 4 ..." without --country
-CALLING = {"971": "ae", "7": "ru", "1": "us"}
+CALLING = {"971": "ae", "7": "ru", "33": "fr", "1": "us"}
 
 
 def table_for(country: str | None) -> str | None:
@@ -64,6 +69,45 @@ def lookup_plate(cc: str, value: str) -> dict:
     if named:
         ms = [{"country": d["country"], "admin1": r["admin1"], "admin2": "", "note": "region printed on plate; " + r["note"]} for r in named]
         return _res("plate", value, ms, d)
+    # 2c) code tables keyed by a token on the plate (EU band, German district, French department, UK memory tag, Italian province)
+    kinds = {r.get("code_kind") for r in d["plates"]}
+    if kinds & {"band", "district", "department", "memory", "province"}:
+        kind = next(iter(kinds & {"band", "district", "department", "memory", "province"}))
+        index: dict[str, list] = {}
+        for r in d["plates"]:
+            for c in r["codes"]:
+                index.setdefault(c, []).append(r)
+        toks = re.findall(r"[A-ZÄÖÜ]+|\d+[AB]?|\d+[DM]?", raw)
+        cand: list[str] = []
+        if kind == "band":
+            cand = [x for x in toks if x.isalpha()][:1]
+        elif kind == "district":  # M-AB 123 / M AB 123 / MAB123 (no separator: every prefix is a candidate)
+            first = toks[0] if toks and toks[0].isalpha() else ""
+            cand = [first] if re.search(r"[-\s]", value.strip()) else [first[:i] for i in range(1, min(3, len(first)) + 1)]
+        elif kind == "department":
+            cand = [x for x in toks if re.fullmatch(r"\d{2,3}|2[AB]|69[DM]", x)][-1:]
+            if cand == ["69"]:
+                cand = ["69D", "69M"]
+        elif kind == "memory":
+            cand = [re.sub(r"[^A-Z]", "", raw)[:2]]
+        elif kind == "province":
+            cand = [x for x in toks if x == "ROMA" or (x.isalpha() and len(x) == 2)][-1:]
+        hits = [(c, r) for c in cand for r in index.get(c, [])]
+        ms = []
+        for c, r in hits:
+            if kind == "band":
+                ms.append({"country": r["admin1"], "note": f"distinguishing sign {c}"})
+            elif kind == "district":
+                ms += [{"country": d["country"], "admin1": r["admin1"], "admin2": dd, "admin2_level": "district", "code": c, "note": "district of registration"}
+                       for dd in (r.get("admin2_list") or [""])]
+            elif kind == "department":
+                ms.append({"country": d["country"], "admin1": r["admin1"], "admin2": r.get("admin2", ""), "admin2_level": "district", "code": c, "note": r["note"]})
+            else:
+                ms.append({"country": d["country"], "admin1": r["admin1"], "admin2": "", "code": c, "note": r["note"]})
+        note = "" if ms else f"no {kind} code found in '{value}'"
+        if kind == "district" and len({m['code'] for m in ms}) > 1:
+            note = "no separator after the district code: every prefix is a candidate; look for the gap or hyphen"
+        return _res("plate", value, ms, d, note)
     # 2a) region-number tables (Russia: A123BC 77 / 177 / 777): the trailing 2-3 digits are the region
     if any(r.get("code_kind") == "region" for r in d["plates"]):
         lat = raw.translate(str.maketrans("АВЕКМНОРСТУХ", "ABEKMHOPCTYX"))
@@ -185,7 +229,7 @@ def lookup_admin(cc: str, value: str | None, children: str | None) -> dict:
     if e:
         return _res("admin", name, [{"country": d["country"], "admin1": e["name"], "admin2": "", "chain": [d["country"], e["name"]]}], d)
     f = _fold(name)
-    exact = [k for k in d["admin2"] if f in (_fold(k["name"]), _fold(k.get("name_local", "")), k.get("code", ""))]
+    exact = [k for k in d["admin2"] if f in (_fold(k["name"]), _fold(k.get("name_local", "")), _fold(k.get("code", "")))]
     hits = exact or [k for k in d["admin2"] if f and f in _fold(k["name"])]
     ms = [{"country": d["country"], "admin1": k["admin1"], "admin2": k["name"], "admin2_level": lvl2, "code": k.get("code", ""),
            "chain": [d["country"], k["admin1"], k.get("sector", ""), k["name"]], "note": "" if k in exact else "partial name match"} for k in hits]

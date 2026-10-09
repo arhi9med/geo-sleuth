@@ -1,0 +1,4302 @@
+{
+ "_meta": {
+  "source": [
+   "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Kingdom"
+  ],
+  "fetched": "2026-10-08",
+  "count": 414,
+  "license": "derived from Wikipedia, CC BY-SA 4.0",
+  "by_kind": {
+   "plate": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Kingdom",
+   "area": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Kingdom",
+   "admin": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Kingdom"
+  }
+ },
+ "country": "United Kingdom",
+ "iso": "GB",
+ "driving_side": "left",
+ "admin1": [
+  {
+   "name": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "name_local": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Birmingham",
+   "name_local": "Birmingham",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Cymru (Wales)",
+   "name_local": "Cymru (Wales)",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Deeside to Shrewsbury",
+   "name_local": "Deeside to Shrewsbury",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Essex",
+   "name_local": "Essex",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Forest and Fens",
+   "name_local": "Forest and Fens",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Garden of England",
+   "name_local": "Garden of England",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Hampshire and Dorset",
+   "name_local": "Hampshire and Dorset",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "London",
+   "name_local": "London",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Manchester and Merseyside",
+   "name_local": "Manchester and Merseyside",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "North",
+   "name_local": "North",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Oxford",
+   "name_local": "Oxford",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "name_local": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Reading",
+   "name_local": "Reading",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Scotland",
+   "name_local": "Scotland",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "name_local": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "West of England",
+   "name_local": "West of England",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Yorkshire",
+   "name_local": "Yorkshire",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "–",
+   "name_local": "–",
+   "iso": "",
+   "capital": "",
+   "aliases": []
+  }
+ ],
+ "admin2": [],
+ "admin2_level": "district",
+ "plates": [
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Peterborough (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Norwich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Norwich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Norwich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Norwich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Norwich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Norwich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Ipswich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Ipswich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Ipswich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Anglia<!-- see DVLA and BBC references for confirmation that the official name is Anglia not East Anglia -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "AY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Ipswich (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Birmingham",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "BX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Birmingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Cardiff (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Swansea (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Swansea (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Swansea (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Swansea (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Swansea (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Swansea (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bangor (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bangor (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Cymru (Wales)",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "CY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bangor (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Deeside to Shrewsbury",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "DY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Shrewsbury (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "ER"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "ES"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "ET"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Essex",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "EY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Chelmsford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Nottingham (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Only issued with approval (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Only issued with approval (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Lincoln (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Lincoln (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Lincoln (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Lincoln (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Lincoln (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Lincoln (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Forest and Fens",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "FY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Lincoln (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Maidstone (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Brighton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Brighton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Brighton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Brighton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Brighton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Brighton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Brighton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Brighton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Garden of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "GY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Brighton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bournemouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bournemouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bournemouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bournemouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bournemouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bournemouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bournemouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bournemouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bournemouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Hampshire and Dorset",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "HY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Portsmouth (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Luton) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "–",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "KY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Northampton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Wimbledon (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Wimbledon (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Wimbledon (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Wimbledon (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Wimbledon (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Wimbledon (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Wimbledon (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Wimbledon (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Wimbledon (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Stanmore) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Stanmore) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Stanmore) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Stanmore) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Stanmore) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Stanmore) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Stanmore) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Stanmore) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Borehamwood (formerly Stanmore) (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sidcup (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sidcup (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sidcup (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sidcup (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "London",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "LY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sidcup (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "ME"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "ML"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Manchester and Merseyside",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "MX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Manchester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "ND"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Newcastle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Stockton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Stockton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Stockton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Stockton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Stockton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Stockton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Stockton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Stockton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Stockton (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "North",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "NF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Issued with approval (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Oxford",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "OY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Oxford (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Preston (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Carlisle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Carlisle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Carlisle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Carlisle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Preston <!-- note \"Preston\" in official DVLA lists and BBC report, NOT \"Pennine\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "PY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Carlisle (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Reading",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "RY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Reading (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Glasgow (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Glasgow (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Glasgow (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Glasgow (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Glasgow (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Glasgow (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Glasgow (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Glasgow (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Glasgow (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Edinburgh (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Edinburgh (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Edinburgh (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Edinburgh (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Edinburgh (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Dundee (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Dundee (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Dundee (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "ST"
+   ],
+   "digits": 9,
+   "note": "DVLA office Dundee (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Aberdeen (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Aberdeen (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Inverness (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Scotland",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "SY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Inverness (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Severn Valley<!-- note \"Severn Valley\" in official DVLA lists and BBC report, NOT \"Severn Vale\" -->",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "VY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Worcester (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Exeter (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Exeter (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Exeter (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Exeter (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Exeter (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Exeter (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Exeter (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Exeter (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Truro (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Truro (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "West of England",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "WY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Bristol (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YA"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YB"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YC"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YD"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YE"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YF"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YG"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YH"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YJ"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YK"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YL"
+   ],
+   "digits": 9,
+   "note": "DVLA office Leeds (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YM"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sheffield (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YN"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sheffield (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YO"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sheffield (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YP"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sheffield (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YR"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sheffield (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YS"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sheffield (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YT"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sheffield (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YU"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sheffield (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YV"
+   ],
+   "digits": 9,
+   "note": "DVLA office Sheffield (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YW"
+   ],
+   "digits": 9,
+   "note": "DVLA office Beverley (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YX"
+   ],
+   "digits": 9,
+   "note": "DVLA office Beverley (registration office, not necessarily where the car is)"
+  },
+  {
+   "admin1": "Yorkshire",
+   "markers": [],
+   "code_kind": "memory",
+   "codes": [
+    "YY"
+   ],
+   "digits": 9,
+   "note": "DVLA office Beverley (registration office, not necessarily where the car is)"
+  }
+ ],
+ "phone": {
+  "calling_code": "44",
+  "trunk": "0",
+  "area": []
+ }
+}

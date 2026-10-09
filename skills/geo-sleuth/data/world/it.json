@@ -1,0 +1,1848 @@
+{
+ "_meta": {
+  "source": [
+   "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Italy"
+  ],
+  "fetched": "2026-10-08",
+  "count": 107,
+  "license": "derived from Wikipedia, CC BY-SA 4.0",
+  "by_kind": {
+   "plate": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Italy",
+   "area": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Italy",
+   "admin": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Italy"
+  }
+ },
+ "country": "Italy",
+ "iso": "IT",
+ "driving_side": "right",
+ "admin1": [
+  {
+   "name": "Agrigento",
+   "name_local": "Agrigento",
+   "iso": "AG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Alessandria",
+   "name_local": "Alessandria",
+   "iso": "AL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ancona",
+   "name_local": "Ancona",
+   "iso": "AN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Aosta",
+   "name_local": "Aosta",
+   "iso": "AO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ascoli Piceno",
+   "name_local": "Ascoli Piceno",
+   "iso": "AP",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "L'Aquila",
+   "name_local": "L'Aquila",
+   "iso": "AQ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Arezzo",
+   "name_local": "Arezzo",
+   "iso": "AR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Asti",
+   "name_local": "Asti",
+   "iso": "AT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Avellino",
+   "name_local": "Avellino",
+   "iso": "AV",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bari",
+   "name_local": "Bari",
+   "iso": "BA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bergamo",
+   "name_local": "Bergamo",
+   "iso": "BG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Biella",
+   "name_local": "Biella",
+   "iso": "BI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Belluno",
+   "name_local": "Belluno",
+   "iso": "BL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Benevento",
+   "name_local": "Benevento",
+   "iso": "BN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bologna",
+   "name_local": "Bologna",
+   "iso": "BO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Brindisi",
+   "name_local": "Brindisi",
+   "iso": "BR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Brescia",
+   "name_local": "Brescia",
+   "iso": "BS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Barletta-Andria-Trani",
+   "name_local": "Barletta-Andria-Trani",
+   "iso": "BT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Bolzano",
+   "name_local": "Bolzano",
+   "iso": "BZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Cagliari",
+   "name_local": "Cagliari",
+   "iso": "CA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Campobasso",
+   "name_local": "Campobasso",
+   "iso": "CB",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Caserta",
+   "name_local": "Caserta",
+   "iso": "CE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Chieti",
+   "name_local": "Chieti",
+   "iso": "CH",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Caltanissetta",
+   "name_local": "Caltanissetta",
+   "iso": "CL",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Cuneo",
+   "name_local": "Cuneo",
+   "iso": "CN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Como",
+   "name_local": "Como",
+   "iso": "CO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Cremona",
+   "name_local": "Cremona",
+   "iso": "CR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Cosenza",
+   "name_local": "Cosenza",
+   "iso": "CS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Catania",
+   "name_local": "Catania",
+   "iso": "CT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Catanzaro",
+   "name_local": "Catanzaro",
+   "iso": "CZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Enna",
+   "name_local": "Enna",
+   "iso": "EN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Forlì-Cesena",
+   "name_local": "Forlì-Cesena",
+   "iso": "FC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ferrara",
+   "name_local": "Ferrara",
+   "iso": "FE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Foggia",
+   "name_local": "Foggia",
+   "iso": "FG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Florence (Firenze)",
+   "name_local": "Florence (Firenze)",
+   "iso": "FI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Fermo",
+   "name_local": "Fermo",
+   "iso": "FM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Frosinone",
+   "name_local": "Frosinone",
+   "iso": "FR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Genoa (Genova)",
+   "name_local": "Genoa (Genova)",
+   "iso": "GE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Gorizia",
+   "name_local": "Gorizia",
+   "iso": "GO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Grosseto",
+   "name_local": "Grosseto",
+   "iso": "GR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Imperia",
+   "name_local": "Imperia",
+   "iso": "IM",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Isernia",
+   "name_local": "Isernia",
+   "iso": "IS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Crotone",
+   "name_local": "Crotone",
+   "iso": "KR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Lecco",
+   "name_local": "Lecco",
+   "iso": "LC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Lecce",
+   "name_local": "Lecce",
+   "iso": "LE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Leghorn (Livorno)",
+   "name_local": "Leghorn (Livorno)",
+   "iso": "LI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Lodi",
+   "name_local": "Lodi",
+   "iso": "LO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Latina",
+   "name_local": "Latina",
+   "iso": "LT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Lucca",
+   "name_local": "Lucca",
+   "iso": "LU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Monza and Brianza",
+   "name_local": "Monza and Brianza",
+   "iso": "MB",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Macerata",
+   "name_local": "Macerata",
+   "iso": "MC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Messina",
+   "name_local": "Messina",
+   "iso": "ME",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Milan",
+   "name_local": "Milan",
+   "iso": "MI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Mantua",
+   "name_local": "Mantua",
+   "iso": "MN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Modena",
+   "name_local": "Modena",
+   "iso": "MO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Massa-Carrara",
+   "name_local": "Massa-Carrara",
+   "iso": "MS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Matera",
+   "name_local": "Matera",
+   "iso": "MT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Naples",
+   "name_local": "Naples",
+   "iso": "NA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Novara",
+   "name_local": "Novara",
+   "iso": "NO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Nuoro",
+   "name_local": "Nuoro",
+   "iso": "NU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Oristano",
+   "name_local": "Oristano",
+   "iso": "OR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Palermo",
+   "name_local": "Palermo",
+   "iso": "PA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Piacenza",
+   "name_local": "Piacenza",
+   "iso": "PC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Padua",
+   "name_local": "Padua",
+   "iso": "PD",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Pescara",
+   "name_local": "Pescara",
+   "iso": "PE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Perugia",
+   "name_local": "Perugia",
+   "iso": "PG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Pisa",
+   "name_local": "Pisa",
+   "iso": "PI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Pordenone",
+   "name_local": "Pordenone",
+   "iso": "PN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Prato",
+   "name_local": "Prato",
+   "iso": "PO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Parma",
+   "name_local": "Parma",
+   "iso": "PR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Pistoia",
+   "name_local": "Pistoia",
+   "iso": "PT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Pesaro and Urbino",
+   "name_local": "Pesaro and Urbino",
+   "iso": "PU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Pavia",
+   "name_local": "Pavia",
+   "iso": "PV",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Potenza",
+   "name_local": "Potenza",
+   "iso": "PZ",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ravenna",
+   "name_local": "Ravenna",
+   "iso": "RA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Reggio Calabria",
+   "name_local": "Reggio Calabria",
+   "iso": "RC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Reggio Emilia",
+   "name_local": "Reggio Emilia",
+   "iso": "RE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Ragusa",
+   "name_local": "Ragusa",
+   "iso": "RG",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Rieti",
+   "name_local": "Rieti",
+   "iso": "RI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Rimini",
+   "name_local": "Rimini",
+   "iso": "RN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Rovigo",
+   "name_local": "Rovigo",
+   "iso": "RO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Salerno",
+   "name_local": "Salerno",
+   "iso": "SA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Siena",
+   "name_local": "Siena",
+   "iso": "SI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Sondrio",
+   "name_local": "Sondrio",
+   "iso": "SO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "La Spezia",
+   "name_local": "La Spezia",
+   "iso": "SP",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Syracuse",
+   "name_local": "Syracuse",
+   "iso": "SR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Sassari",
+   "name_local": "Sassari",
+   "iso": "SS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "South Sardinia",
+   "name_local": "South Sardinia",
+   "iso": "SU",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Savona",
+   "name_local": "Savona",
+   "iso": "SV",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Taranto",
+   "name_local": "Taranto",
+   "iso": "TA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Teramo",
+   "name_local": "Teramo",
+   "iso": "TE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Trent",
+   "name_local": "Trent",
+   "iso": "TN",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Turin",
+   "name_local": "Turin",
+   "iso": "TO",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Trapani",
+   "name_local": "Trapani",
+   "iso": "TP",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Terni",
+   "name_local": "Terni",
+   "iso": "TR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Trieste",
+   "name_local": "Trieste",
+   "iso": "TS",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Treviso",
+   "name_local": "Treviso",
+   "iso": "TV",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Udine",
+   "name_local": "Udine",
+   "iso": "UD",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Varese",
+   "name_local": "Varese",
+   "iso": "VA",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Verbania",
+   "name_local": "Verbania",
+   "iso": "VB",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Vercelli",
+   "name_local": "Vercelli",
+   "iso": "VC",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Venice",
+   "name_local": "Venice",
+   "iso": "VE",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Vicenza",
+   "name_local": "Vicenza",
+   "iso": "VI",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Verona",
+   "name_local": "Verona",
+   "iso": "VR",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Viterbo",
+   "name_local": "Viterbo",
+   "iso": "VT",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Vibo Valentia",
+   "name_local": "Vibo Valentia",
+   "iso": "VV",
+   "capital": "",
+   "aliases": []
+  },
+  {
+   "name": "Rome",
+   "name_local": "Rome",
+   "iso": "ROMA",
+   "capital": "",
+   "aliases": []
+  }
+ ],
+ "admin2": [],
+ "admin2_level": "district",
+ "plates": [
+  {
+   "admin1": "Agrigento",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "AG"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Alessandria",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "AL"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Ancona",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "AN"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Aosta",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "AO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Ascoli Piceno",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "AP"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "L'Aquila",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "AQ"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Arezzo",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "AR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Asti",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "AT"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Avellino",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "AV"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Bari",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BA"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Bergamo",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BG"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Biella",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BI"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Belluno",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BL"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Benevento",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BN"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Bologna",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Brindisi",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Brescia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BS"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Barletta-Andria-Trani",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BT"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Bolzano",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "BZ"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Cagliari",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CA"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Campobasso",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CB"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Caserta",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CE"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Chieti",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CH"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Caltanissetta",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CL"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Cuneo",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CN"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Como",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Cremona",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Cosenza",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CS"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Catania",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CT"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Catanzaro",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "CZ"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Enna",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "EN"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Forlì-Cesena",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "FC"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Ferrara",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "FE"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Foggia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "FG"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Florence (Firenze)",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "FI"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Fermo",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "FM"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Frosinone",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "FR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Genoa (Genova)",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "GE"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Gorizia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "GO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Grosseto",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "GR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Imperia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "IM"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Isernia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "IS"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Crotone",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "KR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Lecco",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "LC"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Lecce",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "LE"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Leghorn (Livorno)",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "LI"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Lodi",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "LO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Latina",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "LT"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Lucca",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "LU"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Monza and Brianza",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "MB"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Macerata",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "MC"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Messina",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "ME"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Milan",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "MI"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Mantua",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "MN"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Modena",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "MO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Massa-Carrara",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "MS"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Matera",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "MT"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Naples",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "NA"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Novara",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "NO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Nuoro",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "NU"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Oristano",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "OR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Palermo",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PA"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Piacenza",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PC"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Padua",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PD"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Pescara",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PE"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Perugia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PG"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Pisa",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PI"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Pordenone",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PN"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Prato",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Parma",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Pistoia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PT"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Pesaro and Urbino",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PU"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Pavia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PV"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Potenza",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "PZ"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Ravenna",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "RA"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Reggio Calabria",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "RC"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Reggio Emilia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "RE"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Ragusa",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "RG"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Rieti",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "RI"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Rimini",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "RN"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Rovigo",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "RO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Salerno",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "SA"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Siena",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "SI"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Sondrio",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "SO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "La Spezia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "SP"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Syracuse",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "SR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Sassari",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "SS"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "South Sardinia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "SU"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Savona",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "SV"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Taranto",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "TA"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Teramo",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "TE"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Trent",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "TN"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Turin",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "TO"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Trapani",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "TP"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Terni",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "TR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Trieste",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "TS"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Treviso",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "TV"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Udine",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "UD"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Varese",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "VA"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Verbania",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "VB"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Vercelli",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "VC"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Venice",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "VE"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Vicenza",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "VI"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Verona",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "VR"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Viterbo",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "VT"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Vibo Valentia",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "VV"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  },
+  {
+   "admin1": "Rome",
+   "markers": [],
+   "code_kind": "province",
+   "codes": [
+    "ROMA"
+   ],
+   "digits": 9,
+   "note": "province sticker on the right blue band (optional since 1999; older plates show it on the plate)"
+  }
+ ],
+ "phone": {
+  "calling_code": "39",
+  "trunk": "0",
+  "area": []
+ }
+}
