@@ -16,6 +16,7 @@
 示例：
   poi.py "<小区名>" --city <城市>                 # 城市里所有同名点，出 {名字: [lat, lon]}
   poi.py "<区县> <路名> 学校" --city <直辖市或地级市>   # --city 只认地级市，区县写进关键词
+  poi.py "Address Downtown" --city Dubai --country ae      # outside China: Photon + Nominatim by default
   poi.py "<门牌地址或地名>" --sources osm --country mx --proxy socks5h://127.0.0.1:10808（示例）   # 国外
   poi.py "<小区名>"                                # 不给城市：列出全国哪些城市有同名点
   poi.py "<酒店名>" --city <城市> --out pois.json && tiles.py sheet --points pois.json --zoom 18 --out pois_sheet.jpg
@@ -73,7 +74,8 @@ def search_so(kw: str, city: str | None, n: int) -> tuple[list[dict], list[dict]
 
 
 def search_osm(kw: str, city: str | None, n: int, proxy: str | None, country: str) -> list[dict]:
-    q = {"q": f"{kw} {city}" if city else kw, "format": "jsonv2", "limit": n, "accept-language": "zh-CN"}
+    q = {"q": f"{kw} {city}" if city else kw, "format": "jsonv2", "limit": n,
+         "accept-language": "zh-CN" if country in ("cn", "") else "en"}
     if country:
         q["countrycodes"] = country
     raw = _curl("https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode(q), proxy=proxy,
@@ -86,6 +88,28 @@ def search_osm(kw: str, city: str | None, n: int, proxy: str | None, country: st
     return [{"src": "osm", "name": p.get("name") or p.get("display_name", "").split(",")[0],
              "city": "", "area": "", "address": p.get("display_name", ""), "type": f"{p.get('category')}/{p.get('type')}",
              "wgs": [round(float(p["lat"]), 6), round(float(p["lon"]), 6)]} for p in d]
+
+
+def search_photon(kw: str, city: str | None, n: int, proxy: str | None, country: str) -> list[dict]:
+    """Photon (komoot, OSM-based, no key): good at hotels, towers, malls and business names outside China."""
+    q = {"q": f"{kw} {city}" if city else kw, "limit": n * 3 if country else n, "lang": "en"}
+    raw = _curl("https://photon.komoot.io/api/?" + urllib.parse.urlencode(q), proxy=proxy,
+                ua="geo-sleuth/1.0 (photo geolocation research)")
+    try:
+        d = json.loads(raw)
+    except json.JSONDecodeError:
+        print(f"Photon returned no JSON: {raw[:120]}", file=sys.stderr)
+        return []
+    out = []
+    for f in d.get("features") or []:
+        pr = f.get("properties") or {}
+        if country and (pr.get("countrycode") or "").lower() not in country.lower().split(","):
+            continue
+        lon, lat = f["geometry"]["coordinates"][:2]
+        addr = ", ".join(x for x in (pr.get("street"), pr.get("district"), pr.get("city"), pr.get("state"), pr.get("country")) if x)
+        out.append({"src": "photon", "name": pr.get("name", ""), "city": pr.get("city", ""), "area": pr.get("district", ""),
+                    "address": addr, "type": f"{pr.get('osm_key')}/{pr.get('osm_value')}", "wgs": [round(lat, 6), round(lon, 6)]})
+    return out[:n]
 
 
 def search_sug(kw: str) -> list[dict]:
@@ -112,14 +136,14 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("keyword", help="地名、小区名、楼盘名、店名")
     ap.add_argument("--city", help="城市名，如 某某市 或 某某（不给就全国查）")
-    ap.add_argument("--sources", default="so,osm,sug", help="so,osm,sug 任选，逗号分隔")
+    ap.add_argument("--sources", help="so,osm,sug,photon 任选，逗号分隔；默认 cn → so,osm,sug，其他国家 → photon,osm")
     ap.add_argument("--limit", type=int, default=10, help="每个来源最多几条")
     ap.add_argument("--country", default="cn", help="Nominatim 的国家代码，国外地名改成对应代码或留空")
     ap.add_argument("--proxy", default=os.environ.get("GEO_PROXY"), help="Nominatim 用；360 和百度联想始终直连")
     ap.add_argument("--out", type=Path, help="写出 {名字: [lat, lon]}（WGS84），给 tiles.py mark / sheet")
     args = ap.parse_args(_neg_coords(sys.argv[1:]))
 
-    src = set(args.sources.split(","))
+    src = set((args.sources or ("so,osm,sug" if args.country in ("cn", "") else "photon,osm")).split(","))
     rows: list[dict] = []
     if "so" in src:
         so_rows, cities = search_so(args.keyword, args.city, args.limit)
@@ -130,6 +154,8 @@ def main() -> None:
         if cities and not args.city:
             print("360 地图：全国有同名结果的城市（结果数）")
             print("  " + "、".join(f"{c['city']}({c['count']})" for c in cities[:30]))
+    if "photon" in src:
+        rows += search_photon(args.keyword, args.city, args.limit, args.proxy, args.country)
     if "osm" in src:
         rows += search_osm(args.keyword, args.city, args.limit, args.proxy, args.country)
     if "sug" in src:

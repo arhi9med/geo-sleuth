@@ -1,0 +1,2410 @@
+{
+ "_meta": {
+  "source": [
+   "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Arab_Emirates",
+   "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Arab_Emirates",
+   "https://en.wikipedia.org/wiki/Emirates_of_the_United_Arab_Emirates",
+   "https://en.wikipedia.org/wiki/List_of_communities_in_Dubai"
+  ],
+  "fetched": "2026-10-08",
+  "count": 231,
+  "license": "derived from Wikipedia, CC BY-SA 4.0",
+  "by_kind": {
+   "plate": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Arab_Emirates",
+   "area": "https://en.wikipedia.org/wiki/Telephone_numbers_in_the_United_Arab_Emirates",
+   "admin": "https://en.wikipedia.org/wiki/List_of_communities_in_Dubai"
+  }
+ },
+ "country": "United Arab Emirates",
+ "iso": "AE",
+ "driving_side": "right",
+ "admin1": [
+  {
+   "name": "Abu Dhabi",
+   "name_local": "أبو ظبي",
+   "iso": "AE-AZ",
+   "capital": "Abu Dhabi",
+   "aliases": [
+    "AD",
+    "Abudhabi",
+    "أبوظبي"
+   ]
+  },
+  {
+   "name": "Ajman",
+   "name_local": "عجمان",
+   "iso": "AE-AJ",
+   "capital": "Ajman",
+   "aliases": [
+    "عجمان"
+   ]
+  },
+  {
+   "name": "Dubai",
+   "name_local": "دبي",
+   "iso": "AE-DU",
+   "capital": "Dubai",
+   "aliases": [
+    "DXB",
+    "دبي"
+   ]
+  },
+  {
+   "name": "Fujairah",
+   "name_local": "الفجيرة",
+   "iso": "AE-FU",
+   "capital": "Fujairah",
+   "aliases": [
+    "الفجيرة"
+   ]
+  },
+  {
+   "name": "Ras Al Khaimah",
+   "name_local": "رأس الخيمة",
+   "iso": "AE-RK",
+   "capital": "Ras Al Khaimah",
+   "aliases": [
+    "RAK",
+    "Ras al-Khaimah",
+    "رأس الخيمة"
+   ]
+  },
+  {
+   "name": "Sharjah",
+   "name_local": "الشارقة",
+   "iso": "AE-SH",
+   "capital": "Sharjah",
+   "aliases": [
+    "SHJ",
+    "الشارقة"
+   ]
+  },
+  {
+   "name": "Umm Al Quwain",
+   "name_local": "أم القيوين",
+   "iso": "AE-UQ",
+   "capital": "Umm Al Quwain",
+   "aliases": [
+    "UAQ",
+    "Umm al-Quwain",
+    "أم القيوين"
+   ]
+  }
+ ],
+ "admin2": [
+  {
+   "name": "Nakhlat Deira",
+   "name_local": "نخلة ديرة",
+   "admin1": "Dubai",
+   "code": "101",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 99.6,
+   "population": 2
+  },
+  {
+   "name": "Al Corniche",
+   "name_local": "الكورنيش",
+   "admin1": "Dubai",
+   "code": "111",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.6,
+   "population": 2670
+  },
+  {
+   "name": "Al Ras",
+   "name_local": "الراس",
+   "admin1": "Dubai",
+   "code": "112",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.3,
+   "population": 8143
+  },
+  {
+   "name": "Al Dhagaya",
+   "name_local": "الضغاية",
+   "admin1": "Dubai",
+   "code": "113",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.2,
+   "population": 16873
+  },
+  {
+   "name": "Al Buteen",
+   "name_local": "البطين",
+   "admin1": "Dubai",
+   "code": "114",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.1,
+   "population": 3081
+  },
+  {
+   "name": "Al Sabkha",
+   "name_local": "السبخة",
+   "admin1": "Dubai",
+   "code": "115",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.1,
+   "population": 4291
+  },
+  {
+   "name": "Ayal Nasir",
+   "name_local": "عيال ناصر",
+   "admin1": "Dubai",
+   "code": "116",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.2,
+   "population": 20139
+  },
+  {
+   "name": "Al Murar",
+   "name_local": "المرر",
+   "admin1": "Dubai",
+   "code": "117",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.4,
+   "population": 40456
+  },
+  {
+   "name": "Naif",
+   "name_local": "نايف",
+   "admin1": "Dubai",
+   "code": "118",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.7,
+   "population": 53403
+  },
+  {
+   "name": "Al Rega",
+   "name_local": "الرقة",
+   "admin1": "Dubai",
+   "code": "119",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.7,
+   "population": 11318
+  },
+  {
+   "name": "Corniche Deira",
+   "name_local": "كورنيش ديرة",
+   "admin1": "Dubai",
+   "code": "121",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.9,
+   "population": 15
+  },
+  {
+   "name": "Al Baraha",
+   "name_local": "البراحة",
+   "admin1": "Dubai",
+   "code": "122",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 1.0,
+   "population": 26115
+  },
+  {
+   "name": "Al Muteena",
+   "name_local": "المطينة",
+   "admin1": "Dubai",
+   "code": "123",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 1.1,
+   "population": 49276
+  },
+  {
+   "name": "Al Murqabat",
+   "name_local": "المرقبات",
+   "admin1": "Dubai",
+   "code": "124",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 1.5,
+   "population": 73879
+  },
+  {
+   "name": "Riggat Al Buteen",
+   "name_local": "رقة البطين",
+   "admin1": "Dubai",
+   "code": "125",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 0.8,
+   "population": 7687
+  },
+  {
+   "name": "Abu Hail",
+   "name_local": "أبو هيل",
+   "admin1": "Dubai",
+   "code": "126",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 1.3,
+   "population": 18116
+  },
+  {
+   "name": "Hor Al Anz",
+   "name_local": "هورالعنز",
+   "admin1": "Dubai",
+   "code": "127",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 1.8,
+   "population": 85080
+  },
+  {
+   "name": "Al Khabisi",
+   "name_local": "الخبيصي",
+   "admin1": "Dubai",
+   "code": "128",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 1.2,
+   "population": 2042
+  },
+  {
+   "name": "Port Saeed",
+   "name_local": "بور سعيد",
+   "admin1": "Dubai",
+   "code": "129",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 2.7,
+   "population": 14425
+  },
+  {
+   "name": "Al Hamriya Port",
+   "name_local": "ميناء الحمرية",
+   "admin1": "Dubai",
+   "code": "131",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 1.2,
+   "population": 507
+  },
+  {
+   "name": "Al Waheda",
+   "name_local": "الوحيدة",
+   "admin1": "Dubai",
+   "code": "132",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 1.4,
+   "population": 21686
+  },
+  {
+   "name": "Hor Al Anz East",
+   "name_local": "هور العنز شرق",
+   "admin1": "Dubai",
+   "code": "133",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 1.4,
+   "population": 22143
+  },
+  {
+   "name": "Al Mamzar",
+   "name_local": "الممزر",
+   "admin1": "Dubai",
+   "code": "134",
+   "sector": "Northwest - Sector 1",
+   "area_km2": 5.8,
+   "population": 16901
+  },
+  {
+   "name": "Nad Shamma",
+   "name_local": "ند شما",
+   "admin1": "Dubai",
+   "code": "213",
+   "sector": "North - Sector 2",
+   "area_km2": 1.1,
+   "population": 3378
+  },
+  {
+   "name": "Al Garhoud",
+   "name_local": "القرهود",
+   "admin1": "Dubai",
+   "code": "214",
+   "sector": "North - Sector 2",
+   "area_km2": 4.0,
+   "population": 20168
+  },
+  {
+   "name": "Umm Ramool",
+   "name_local": "أم رمول",
+   "admin1": "Dubai",
+   "code": "215",
+   "sector": "North - Sector 2",
+   "area_km2": 3.6,
+   "population": 3119
+  },
+  {
+   "name": "Al Rashidiya",
+   "name_local": "الراشدية",
+   "admin1": "Dubai",
+   "code": "216",
+   "sector": "North - Sector 2",
+   "area_km2": 4.8,
+   "population": 38408
+  },
+  {
+   "name": "Dubai Airport",
+   "name_local": "مطار دبي الدولي",
+   "admin1": "Dubai",
+   "code": "221",
+   "sector": "North - Sector 2",
+   "area_km2": 14.2,
+   "population": 121
+  },
+  {
+   "name": "Al Twar First",
+   "name_local": "الطوار الأولى",
+   "admin1": "Dubai",
+   "code": "226",
+   "sector": "North - Sector 2",
+   "area_km2": 2.6,
+   "population": 14403
+  },
+  {
+   "name": "Al Twar Second",
+   "name_local": "الطوار الثانية",
+   "admin1": "Dubai",
+   "code": "227",
+   "sector": "North - Sector 2",
+   "area_km2": 1.1,
+   "population": 5184
+  },
+  {
+   "name": "Al Twar Third",
+   "name_local": "الطوار الثالثة",
+   "admin1": "Dubai",
+   "code": "228",
+   "sector": "North - Sector 2",
+   "area_km2": 3.0,
+   "population": 11185
+  },
+  {
+   "name": "Al Nahda First",
+   "name_local": "النهدة الأولى",
+   "admin1": "Dubai",
+   "code": "231",
+   "sector": "North - Sector 2",
+   "area_km2": 1.7,
+   "population": 32757
+  },
+  {
+   "name": "Al Qusais",
+   "name_local": "القصيص",
+   "admin1": "Dubai",
+   "code": "232",
+   "sector": "North - Sector 2",
+   "area_km2": 2.7,
+   "population": 48378
+  },
+  {
+   "name": "Al Twar Fifth",
+   "name_local": "الطوار الخامسة",
+   "admin1": "Dubai",
+   "code": "233",
+   "sector": "North - Sector 2",
+   "area_km2": 1.8,
+   "population": 12851
+  },
+  {
+   "name": "Al Twar Fourth",
+   "name_local": "الطوار الرابعة",
+   "admin1": "Dubai",
+   "code": "234",
+   "sector": "North - Sector 2",
+   "area_km2": 2.3,
+   "population": 7513
+  },
+  {
+   "name": "Al Nahda Second",
+   "name_local": "النهدة الثانية",
+   "admin1": "Dubai",
+   "code": "241",
+   "sector": "North - Sector 2",
+   "area_km2": 2.2,
+   "population": 64458
+  },
+  {
+   "name": "Al Qusais Industrial First",
+   "name_local": "القصيص الصناعية الأولى",
+   "admin1": "Dubai",
+   "code": "242",
+   "sector": "North - Sector 2",
+   "area_km2": 1.4,
+   "population": 10813
+  },
+  {
+   "name": "Al Qusais Industrial Second",
+   "name_local": "القصيص الصناعية الثانية",
+   "admin1": "Dubai",
+   "code": "243",
+   "sector": "North - Sector 2",
+   "area_km2": 1.7,
+   "population": 9410
+  },
+  {
+   "name": "Muhaisnah Third",
+   "name_local": "محيصنة الثالثة",
+   "admin1": "Dubai",
+   "code": "244",
+   "sector": "North - Sector 2",
+   "area_km2": 1.8,
+   "population": 6865
+  },
+  {
+   "name": "Muhaisnah Fourth",
+   "name_local": "محيصنة الرابعة",
+   "admin1": "Dubai",
+   "code": "245",
+   "sector": "North - Sector 2",
+   "area_km2": 2.3,
+   "population": 35861
+  },
+  {
+   "name": "Al Qusais Industrial Third",
+   "name_local": "القصيص الصناعية الثالثة",
+   "admin1": "Dubai",
+   "code": "246",
+   "sector": "North - Sector 2",
+   "area_km2": 0.9,
+   "population": 2802
+  },
+  {
+   "name": "Al Qusais Industrial Fourth",
+   "name_local": "القصيص الصناعية الرابعة",
+   "admin1": "Dubai",
+   "code": "247",
+   "sector": "North - Sector 2",
+   "area_km2": 0.7,
+   "population": 2865
+  },
+  {
+   "name": "Al Qusais Industrial Fifth",
+   "name_local": "القصيص الصناعية الخامسة",
+   "admin1": "Dubai",
+   "code": "248",
+   "sector": "North - Sector 2",
+   "area_km2": 2.4,
+   "population": 2722
+  },
+  {
+   "name": "Mirdif",
+   "name_local": "مردف",
+   "admin1": "Dubai",
+   "code": "251",
+   "sector": "North - Sector 2",
+   "area_km2": 9.4,
+   "population": 66736
+  },
+  {
+   "name": "Mushrif",
+   "name_local": "مشرف",
+   "admin1": "Dubai",
+   "code": "252",
+   "sector": "North - Sector 2",
+   "area_km2": 10.5,
+   "population": 70
+  },
+  {
+   "name": "Muhaisnah First",
+   "name_local": "محيصنة الأولى",
+   "admin1": "Dubai",
+   "code": "261",
+   "sector": "North - Sector 2",
+   "area_km2": 5.0,
+   "population": 8616
+  },
+  {
+   "name": "Al Mizhar First",
+   "name_local": "المزهر الأولى",
+   "admin1": "Dubai",
+   "code": "262",
+   "sector": "North - Sector 2",
+   "area_km2": 6.9,
+   "population": 17498
+  },
+  {
+   "name": "Al Mizhar Second",
+   "name_local": "المزهر الثانية",
+   "admin1": "Dubai",
+   "code": "263",
+   "sector": "North - Sector 2",
+   "area_km2": 4.3,
+   "population": 11967
+  },
+  {
+   "name": "Muhaisnah Second",
+   "name_local": "محيصنة الثانية",
+   "admin1": "Dubai",
+   "code": "264",
+   "sector": "North - Sector 2",
+   "area_km2": 5.6,
+   "population": 148832
+  },
+  {
+   "name": "Al Mizhar Fourth",
+   "name_local": "المزهر الرابعة",
+   "admin1": "Dubai",
+   "code": "265",
+   "sector": "North - Sector 2",
+   "area_km2": 3.6,
+   "population": 15514
+  },
+  {
+   "name": "Al Mizhar Third",
+   "name_local": "المزهر الثالثة",
+   "admin1": "Dubai",
+   "code": "266",
+   "sector": "North - Sector 2",
+   "area_km2": 2.4,
+   "population": 5820
+  },
+  {
+   "name": "Muhaisnah Fifth",
+   "name_local": "محصينة الخامسة",
+   "admin1": "Dubai",
+   "code": "267",
+   "sector": "North - Sector 2",
+   "area_km2": 2.7,
+   "population": 2
+  },
+  {
+   "name": "Oud Al Muteena",
+   "name_local": "عود المطينة",
+   "admin1": "Dubai",
+   "code": "268",
+   "sector": "North - Sector 2",
+   "area_km2": 1.4,
+   "population": 7061
+  },
+  {
+   "name": "Wadi Alamardi",
+   "name_local": "وادي العمردي",
+   "admin1": "Dubai",
+   "code": "271",
+   "sector": "North - Sector 2",
+   "area_km2": 24.2,
+   "population": 3565
+  },
+  {
+   "name": "Al Khawaneej One",
+   "name_local": "الخوانيج الأولى",
+   "admin1": "Dubai",
+   "code": "281",
+   "sector": "North - Sector 2",
+   "area_km2": 16.4,
+   "population": 13634
+  },
+  {
+   "name": "Al Khawaneej Two",
+   "name_local": "الخوانيج الثانية",
+   "admin1": "Dubai",
+   "code": "282",
+   "sector": "North - Sector 2",
+   "area_km2": 12.7,
+   "population": 5507
+  },
+  {
+   "name": "Al Ayas",
+   "name_local": "العياص",
+   "admin1": "Dubai",
+   "code": "283",
+   "sector": "North - Sector 2",
+   "area_km2": 10.5,
+   "population": 1843
+  },
+  {
+   "name": "Al Ttay",
+   "name_local": "الطي",
+   "admin1": "Dubai",
+   "code": "284",
+   "sector": "North - Sector 2",
+   "area_km2": 3.3,
+   "population": 10659
+  },
+  {
+   "name": "Jumeirah Bay",
+   "name_local": "شاطئ جميرا",
+   "admin1": "Dubai",
+   "code": "302",
+   "sector": "West - Sector 3",
+   "area_km2": 1.0,
+   "population": 41
+  },
+  {
+   "name": "World Islands",
+   "name_local": "جزر العالم",
+   "admin1": "Dubai",
+   "code": "303",
+   "sector": "West - Sector 3",
+   "area_km2": 74.1,
+   "population": 7
+  },
+  {
+   "name": "Jumeirah Island 2",
+   "name_local": "جزيرة جميرا 2",
+   "admin1": "Dubai",
+   "code": "304",
+   "sector": "West - Sector 3",
+   "area_km2": 0.1,
+   "population": 3
+  },
+  {
+   "name": "Al Shindagha",
+   "name_local": "الشندغة",
+   "admin1": "Dubai",
+   "code": "311",
+   "sector": "West - Sector 3",
+   "area_km2": 0.3,
+   "population": 7
+  },
+  {
+   "name": "Al Souk Al Kabir",
+   "name_local": "السوق الكبير",
+   "admin1": "Dubai",
+   "code": "312",
+   "sector": "West - Sector 3",
+   "area_km2": 0.9,
+   "population": 52439
+  },
+  {
+   "name": "Al Hamriya",
+   "name_local": "الحمرية",
+   "admin1": "Dubai",
+   "code": "313",
+   "sector": "West - Sector 3",
+   "area_km2": 0.8,
+   "population": 38215
+  },
+  {
+   "name": "Umm Hurair First",
+   "name_local": "أم هرير الأولى",
+   "admin1": "Dubai",
+   "code": "314",
+   "sector": "West - Sector 3",
+   "area_km2": 1.0,
+   "population": 6482
+  },
+  {
+   "name": "Umm Hurair Second",
+   "name_local": "أم هرير الأولى",
+   "admin1": "Dubai",
+   "code": "315",
+   "sector": "West - Sector 3",
+   "area_km2": 3.4,
+   "population": 5633
+  },
+  {
+   "name": "Al Rifa",
+   "name_local": "الرفاعة",
+   "admin1": "Dubai",
+   "code": "316",
+   "sector": "West - Sector 3",
+   "area_km2": 1.2,
+   "population": 48546
+  },
+  {
+   "name": "Al Mankhool",
+   "name_local": "المنخول",
+   "admin1": "Dubai",
+   "code": "317",
+   "sector": "West - Sector 3",
+   "area_km2": 2.0,
+   "population": 41244
+  },
+  {
+   "name": "Al Karama",
+   "name_local": "الكرامة",
+   "admin1": "Dubai",
+   "code": "318",
+   "sector": "West - Sector 3",
+   "area_km2": 2.1,
+   "population": 76591
+  },
+  {
+   "name": "Oud Metha",
+   "name_local": "عود ميثاء",
+   "admin1": "Dubai",
+   "code": "319",
+   "sector": "West - Sector 3",
+   "area_km2": 1.5,
+   "population": 15568
+  },
+  {
+   "name": "Dubai Maritime City (Al Mina)",
+   "name_local": "مدينة دبي المالحية",
+   "admin1": "Dubai",
+   "code": "321",
+   "sector": "West - Sector 3",
+   "area_km2": 22.1,
+   "population": 8391
+  },
+  {
+   "name": "Al Hudaiba",
+   "name_local": "الحضيبة",
+   "admin1": "Dubai",
+   "code": "322",
+   "sector": "West - Sector 3",
+   "area_km2": 0.9,
+   "population": 14504
+  },
+  {
+   "name": "Al Jafiliya",
+   "name_local": "الجافلية",
+   "admin1": "Dubai",
+   "code": "323",
+   "sector": "West - Sector 3",
+   "area_km2": 1.7,
+   "population": 25033
+  },
+  {
+   "name": "Al Kifaf",
+   "name_local": "الكفاف",
+   "admin1": "Dubai",
+   "code": "324",
+   "sector": "West - Sector 3",
+   "area_km2": 0.8,
+   "population": 602
+  },
+  {
+   "name": "Zabeel First",
+   "name_local": "زعبيل الأولى",
+   "admin1": "Dubai",
+   "code": "325",
+   "sector": "West - Sector 3",
+   "area_km2": 4.1,
+   "population": 3449
+  },
+  {
+   "name": "Al Jaddaf",
+   "name_local": "الجداف",
+   "admin1": "Dubai",
+   "code": "326",
+   "sector": "West - Sector 3",
+   "area_km2": 7.2,
+   "population": 6947
+  },
+  {
+   "name": "Jumeirah First",
+   "name_local": "جميرا الأولى",
+   "admin1": "Dubai",
+   "code": "332",
+   "sector": "West - Sector 3",
+   "area_km2": 10.0,
+   "population": 21496
+  },
+  {
+   "name": "Al Bada",
+   "name_local": "البدع",
+   "admin1": "Dubai",
+   "code": "333",
+   "sector": "West - Sector 3",
+   "area_km2": 2.0,
+   "population": 58437
+  },
+  {
+   "name": "Al Satwa",
+   "name_local": "السطوة",
+   "admin1": "Dubai",
+   "code": "334",
+   "sector": "West - Sector 3",
+   "area_km2": 2.7,
+   "population": 40997
+  },
+  {
+   "name": "Trade Centre 1",
+   "name_local": "المركز التجاري الأولى",
+   "admin1": "Dubai",
+   "code": "335",
+   "sector": "West - Sector 3",
+   "area_km2": 0.8,
+   "population": 17676
+  },
+  {
+   "name": "Trade Centre 2",
+   "name_local": "المركز التجاري الثانية",
+   "admin1": "Dubai",
+   "code": "336",
+   "sector": "West - Sector 3",
+   "area_km2": 1.4,
+   "population": 13515
+  },
+  {
+   "name": "Zabeel Second",
+   "name_local": "زعبيل الثانية",
+   "admin1": "Dubai",
+   "code": "337",
+   "sector": "West - Sector 3",
+   "area_km2": 10.8,
+   "population": 8568
+  },
+  {
+   "name": "Jumeirah Second",
+   "name_local": "جميرا الثانية",
+   "admin1": "Dubai",
+   "code": "342",
+   "sector": "West - Sector 3",
+   "area_km2": 3.3,
+   "population": 10660
+  },
+  {
+   "name": "Al Wasl",
+   "name_local": "الوصل",
+   "admin1": "Dubai",
+   "code": "343",
+   "sector": "West - Sector 3",
+   "area_km2": 4.9,
+   "population": 12185
+  },
+  {
+   "name": "Downtown Dubai",
+   "name_local": "برج خليفة",
+   "admin1": "Dubai",
+   "code": "345",
+   "sector": "West - Sector 3",
+   "area_km2": 2.7,
+   "population": 21862
+  },
+  {
+   "name": "Al Kalij Al Tejari (Business Bay)",
+   "name_local": "الخليج التجاري",
+   "admin1": "Dubai",
+   "code": "346",
+   "sector": "West - Sector 3",
+   "area_km2": 6.6,
+   "population": 23943
+  },
+  {
+   "name": "Al Markada",
+   "name_local": "المركاض",
+   "admin1": "Dubai",
+   "code": "347",
+   "sector": "West - Sector 3",
+   "area_km2": 10.4,
+   "population": 1817
+  },
+  {
+   "name": "Jumeirah Third",
+   "name_local": "جميرا الثالثة",
+   "admin1": "Dubai",
+   "code": "352",
+   "sector": "West - Sector 3",
+   "area_km2": 3.4,
+   "population": 14188
+  },
+  {
+   "name": "Al Safa First",
+   "name_local": "الصفا الأولى",
+   "admin1": "Dubai",
+   "code": "353",
+   "sector": "West - Sector 3",
+   "area_km2": 2.4,
+   "population": 9043
+  },
+  {
+   "name": "Al Quoz First",
+   "name_local": "القوز الاولى",
+   "admin1": "Dubai",
+   "code": "354",
+   "sector": "West - Sector 3",
+   "area_km2": 3.6,
+   "population": 21322
+  },
+  {
+   "name": "Ghadeer Al Tair",
+   "name_local": "غدير الطير",
+   "admin1": "Dubai",
+   "code": "355",
+   "sector": "West - Sector 3",
+   "area_km2": 5.3,
+   "population": 5543
+  },
+  {
+   "name": "Umm Suqeim First",
+   "name_local": "أم سقيم الأولى",
+   "admin1": "Dubai",
+   "code": "356",
+   "sector": "West - Sector 3",
+   "area_km2": 2.8,
+   "population": 12468
+  },
+  {
+   "name": "Al Safa Second",
+   "name_local": "الصفا الثانية",
+   "admin1": "Dubai",
+   "code": "357",
+   "sector": "West - Sector 3",
+   "area_km2": 1.9,
+   "population": 7062
+  },
+  {
+   "name": "Al Quoz Third",
+   "name_local": "القوز الثالثة",
+   "admin1": "Dubai",
+   "code": "358",
+   "sector": "West - Sector 3",
+   "area_km2": 2.4,
+   "population": 50190
+  },
+  {
+   "name": "Al Quoz Fourth",
+   "name_local": "القوز الرابعة",
+   "admin1": "Dubai",
+   "code": "359",
+   "sector": "West - Sector 3",
+   "area_km2": 2.2,
+   "population": 21691
+  },
+  {
+   "name": "Umm Suqeim Second",
+   "name_local": "أم سقيم الثانية",
+   "admin1": "Dubai",
+   "code": "362",
+   "sector": "West - Sector 3",
+   "area_km2": 3.2,
+   "population": 13236
+  },
+  {
+   "name": "Al Manara",
+   "name_local": "المنارة",
+   "admin1": "Dubai",
+   "code": "363",
+   "sector": "West - Sector 3",
+   "area_km2": 2.2,
+   "population": 8745
+  },
+  {
+   "name": "Al Quoz Industrial First",
+   "name_local": "القوز الصناعية الأولى",
+   "admin1": "Dubai",
+   "code": "364",
+   "sector": "West - Sector 3",
+   "area_km2": 4.8,
+   "population": 28060
+  },
+  {
+   "name": "Al Quoz Industrial Second",
+   "name_local": "القوز الصناعية الثانية",
+   "admin1": "Dubai",
+   "code": "365",
+   "sector": "West - Sector 3",
+   "area_km2": 5.1,
+   "population": 128867
+  },
+  {
+   "name": "Umm Suqeim Third",
+   "name_local": "أم سقيم الثالثة",
+   "admin1": "Dubai",
+   "code": "366",
+   "sector": "West - Sector 3",
+   "area_km2": 2.6,
+   "population": 7777
+  },
+  {
+   "name": "Umm Al Sheif",
+   "name_local": "أم الشيف",
+   "admin1": "Dubai",
+   "code": "367",
+   "sector": "West - Sector 3",
+   "area_km2": 1.8,
+   "population": 4618
+  },
+  {
+   "name": "Al Quoz Industrial Third",
+   "name_local": "القوز الصناعية الثالثة",
+   "admin1": "Dubai",
+   "code": "368",
+   "sector": "West - Sector 3",
+   "area_km2": 4.4,
+   "population": 17306
+  },
+  {
+   "name": "Al Quoz Industrial Fourth",
+   "name_local": "القوز الصناعية الرابعة",
+   "admin1": "Dubai",
+   "code": "369",
+   "sector": "West - Sector 3",
+   "area_km2": 4.7,
+   "population": 38761
+  },
+  {
+   "name": "Al Sufouh First",
+   "name_local": "الصفوح الأولى",
+   "admin1": "Dubai",
+   "code": "372",
+   "sector": "West - Sector 3",
+   "area_km2": 5.9,
+   "population": 4686
+  },
+  {
+   "name": "Al Barsha First",
+   "name_local": "البرشاء الأولى",
+   "admin1": "Dubai",
+   "code": "373",
+   "sector": "West - Sector 3",
+   "area_km2": 4.0,
+   "population": 41532
+  },
+  {
+   "name": "Al Barsha Third",
+   "name_local": "البرشاء الثالثة",
+   "admin1": "Dubai",
+   "code": "375",
+   "sector": "West - Sector 3",
+   "area_km2": 4.9,
+   "population": 15401
+  },
+  {
+   "name": "Al Barsha Second",
+   "name_local": "البرشاء الثانية",
+   "admin1": "Dubai",
+   "code": "376",
+   "sector": "West - Sector 3",
+   "area_km2": 6.4,
+   "population": 16417
+  },
+  {
+   "name": "Palm Jumeirah",
+   "name_local": "نخلة جميرا",
+   "admin1": "Dubai",
+   "code": "381",
+   "sector": "West - Sector 3",
+   "area_km2": 26.7,
+   "population": 25050
+  },
+  {
+   "name": "Al Sufouh Second",
+   "name_local": "الصفوح الثانية",
+   "admin1": "Dubai",
+   "code": "382",
+   "sector": "West - Sector 3",
+   "area_km2": 4.3,
+   "population": 6478
+  },
+  {
+   "name": "Al Thanyah First",
+   "name_local": "الثنيه الأولى (قرية ربيع الصحراء)",
+   "admin1": "Dubai",
+   "code": "383",
+   "sector": "West - Sector 3",
+   "area_km2": 1.1,
+   "population": 25778
+  },
+  {
+   "name": "Al Thanyah Second",
+   "name_local": "الثنيه الثانية (مضمار جبل علي)",
+   "admin1": "Dubai",
+   "code": "384",
+   "sector": "West - Sector 3",
+   "area_km2": 6.2,
+   "population": 0
+  },
+  {
+   "name": "Al Thanyah Third",
+   "name_local": "الثنيه الثالثة (تلال الامارات الثانية)",
+   "admin1": "Dubai",
+   "code": "388",
+   "sector": "West - Sector 3",
+   "area_km2": 3.8,
+   "population": 22394
+  },
+  {
+   "name": "Dubai Marina",
+   "name_local": "مرسى دبي",
+   "admin1": "Dubai",
+   "code": "392",
+   "sector": "West - Sector 3",
+   "area_km2": 8.9,
+   "population": 62570
+  },
+  {
+   "name": "Al Thanyah Fifth",
+   "name_local": "الثنيه الخامسة (تلال الامارات الاولى)",
+   "admin1": "Dubai",
+   "code": "393",
+   "sector": "West - Sector 3",
+   "area_km2": 9.7,
+   "population": 40957
+  },
+  {
+   "name": "Al Thanyah Fourth",
+   "name_local": "الثنيه الرابعة (تلال الامارات الثالثة)",
+   "admin1": "Dubai",
+   "code": "394",
+   "sector": "West - Sector 3",
+   "area_km2": 11.1,
+   "population": 28424
+  },
+  {
+   "name": "Al Kheeran",
+   "name_local": "الخيران",
+   "admin1": "Dubai",
+   "code": "412",
+   "sector": "North Central - Sector 4",
+   "area_km2": 6.3,
+   "population": 5270
+  },
+  {
+   "name": "Ras Al Khor",
+   "name_local": "رأس الخور",
+   "admin1": "Dubai",
+   "code": "413",
+   "sector": "North Central - Sector 4",
+   "area_km2": 7.8,
+   "population": 2
+  },
+  {
+   "name": "Al Khairan First",
+   "name_local": "الخيران الأولى",
+   "admin1": "Dubai",
+   "code": "415",
+   "sector": "North Central - Sector 4",
+   "area_km2": 7.3,
+   "population": 2086
+  },
+  {
+   "name": "Nad Al Hammar",
+   "name_local": "ند الحمر",
+   "admin1": "Dubai",
+   "code": "416",
+   "sector": "North Central - Sector 4",
+   "area_km2": 8.3,
+   "population": 16930
+  },
+  {
+   "name": "Al Warqaa First",
+   "name_local": "الورقاء الأولى",
+   "admin1": "Dubai",
+   "code": "421",
+   "sector": "North Central - Sector 4",
+   "area_km2": 2.4,
+   "population": 26405
+  },
+  {
+   "name": "Al Warqaa Second",
+   "name_local": "الورقاء الثانية",
+   "admin1": "Dubai",
+   "code": "422",
+   "sector": "North Central - Sector 4",
+   "area_km2": 3.6,
+   "population": 11323
+  },
+  {
+   "name": "Al Warqaa Third",
+   "name_local": "الورقاء الثالثة",
+   "admin1": "Dubai",
+   "code": "423",
+   "sector": "North Central - Sector 4",
+   "area_km2": 6.2,
+   "population": 15613
+  },
+  {
+   "name": "Al Warqaa Fourth",
+   "name_local": "الورقاء الرابعة",
+   "admin1": "Dubai",
+   "code": "424",
+   "sector": "North Central - Sector 4",
+   "area_km2": 5.1,
+   "population": 14308
+  },
+  {
+   "name": "Al Warqaa Fifth",
+   "name_local": "الورقاء الخامسة",
+   "admin1": "Dubai",
+   "code": "425",
+   "sector": "North Central - Sector 4",
+   "area_km2": 4.3,
+   "population": 0
+  },
+  {
+   "name": "Al Athbah",
+   "name_local": "العذبة",
+   "admin1": "Dubai",
+   "code": "431",
+   "sector": "North Central - Sector 4",
+   "area_km2": 10.5,
+   "population": 3
+  },
+  {
+   "name": "Palm Jebel Ali",
+   "name_local": "نخلة جبل علي",
+   "admin1": "Dubai",
+   "code": "501",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 58.1,
+   "population": 5
+  },
+  {
+   "name": "Al Wajeha Al Bahriah",
+   "name_local": "الواجهة البحرية",
+   "admin1": "Dubai",
+   "code": "502",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 124.7,
+   "population": 4
+  },
+  {
+   "name": "Hessyan First",
+   "name_local": "حصيان الاولى",
+   "admin1": "Dubai",
+   "code": "511",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 23.8,
+   "population": 3341
+  },
+  {
+   "name": "Hessyan Second",
+   "name_local": "حصيان الثانية",
+   "admin1": "Dubai",
+   "code": "512",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 51.9,
+   "population": 10381
+  },
+  {
+   "name": "Saih Shuaib 1",
+   "name_local": "سيح شعيب 1",
+   "admin1": "Dubai",
+   "code": "513",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 41.6,
+   "population": 16
+  },
+  {
+   "name": "Jebel Ali Industrial Third",
+   "name_local": "جبل علي الصناعية الثالثة",
+   "admin1": "Dubai",
+   "code": "516",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 30.0,
+   "population": 0
+  },
+  {
+   "name": "Jebel Ali Industrial Second",
+   "name_local": "جبل علي الصناعية الثانية",
+   "admin1": "Dubai",
+   "code": "518",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 32.6,
+   "population": 28000
+  },
+  {
+   "name": "Madinat Al Mataar",
+   "name_local": "مدينة المطار",
+   "admin1": "Dubai",
+   "code": "521",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 141.8,
+   "population": 4150
+  },
+  {
+   "name": "Saih Shuaib 2",
+   "name_local": "سيح شعيب 2",
+   "admin1": "Dubai",
+   "code": "531",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 22.3,
+   "population": 12629
+  },
+  {
+   "name": "Saih Shuaib 3",
+   "name_local": "سيح شعيب 3",
+   "admin1": "Dubai",
+   "code": "532",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 16.0,
+   "population": 4684
+  },
+  {
+   "name": "Saih Shuaib 4",
+   "name_local": "سيح شعيب 4",
+   "admin1": "Dubai",
+   "code": "533",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 19.4,
+   "population": 10766
+  },
+  {
+   "name": "Jebel Ali First",
+   "name_local": "جبل علي الأولى",
+   "admin1": "Dubai",
+   "code": "591",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 21.3,
+   "population": 77363
+  },
+  {
+   "name": "Jebel Ali Second",
+   "name_local": "جبل علي الثانية",
+   "admin1": "Dubai",
+   "code": "592",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 5.1,
+   "population": 1008
+  },
+  {
+   "name": "Jebel Ali Third",
+   "name_local": "جبل علي الثالثة",
+   "admin1": "Dubai",
+   "code": "593",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 365.0,
+   "population": 218
+  },
+  {
+   "name": "Mena Jebel Ali",
+   "name_local": "ميناء جبل علي",
+   "admin1": "Dubai",
+   "code": "594",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 34.8,
+   "population": 9467
+  },
+  {
+   "name": "Dubai Investment Park Second",
+   "name_local": "مجمع دبي للاستثمار الثاني",
+   "admin1": "Dubai",
+   "code": "597",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 18.8,
+   "population": 80118
+  },
+  {
+   "name": "Dubai Investment Park First",
+   "name_local": "مجمع دبي للاستثمار الأول",
+   "admin1": "Dubai",
+   "code": "598",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 17.2,
+   "population": 63094
+  },
+  {
+   "name": "Jebel Ali Industrial First",
+   "name_local": "جبل علي الصناعية الأولى",
+   "admin1": "Dubai",
+   "code": "599",
+   "sector": "Southwest - Sector 5",
+   "area_km2": 22.1,
+   "population": 198228
+  },
+  {
+   "name": "Bu Kadra",
+   "name_local": "بو كدرة",
+   "admin1": "Dubai",
+   "code": "611",
+   "sector": "Central - Sector 6",
+   "area_km2": 1.7,
+   "population": 112
+  },
+  {
+   "name": "Ras Al Khor Industrial First",
+   "name_local": "رأس الخور الصناعية الأولى",
+   "admin1": "Dubai",
+   "code": "612",
+   "sector": "Central - Sector 6",
+   "area_km2": 2.6,
+   "population": 2160
+  },
+  {
+   "name": "Ras Al Khor Industrial Second",
+   "name_local": "رأس الخور الصناعية الثانية",
+   "admin1": "Dubai",
+   "code": "613",
+   "sector": "Central - Sector 6",
+   "area_km2": 4.2,
+   "population": 1833
+  },
+  {
+   "name": "Ras Al Khor Industrial Third",
+   "name_local": "رأس الخور الصناعية الثالثة",
+   "admin1": "Dubai",
+   "code": "614",
+   "sector": "Central - Sector 6",
+   "area_km2": 5.4,
+   "population": 22247
+  },
+  {
+   "name": "Nad Al Sheba Second",
+   "name_local": "ند الشبا الثانية",
+   "admin1": "Dubai",
+   "code": "615",
+   "sector": "Central - Sector 6",
+   "area_km2": 7.5,
+   "population": 2569
+  },
+  {
+   "name": "Nad Al Sheba Third",
+   "name_local": "ند الشبا الثالثة",
+   "admin1": "Dubai",
+   "code": "616",
+   "sector": "Central - Sector 6",
+   "area_km2": 6.3,
+   "population": 1137
+  },
+  {
+   "name": "Nad Al Sheba Fourth",
+   "name_local": "ند الشبا الرابعة",
+   "admin1": "Dubai",
+   "code": "617",
+   "sector": "Central - Sector 6",
+   "area_km2": 6.2,
+   "population": 3898
+  },
+  {
+   "name": "Nad Al Sheba First",
+   "name_local": "ند الشبا الأولى",
+   "admin1": "Dubai",
+   "code": "618",
+   "sector": "Central - Sector 6",
+   "area_km2": 21.7,
+   "population": 6589
+  },
+  {
+   "name": "Warsan First",
+   "name_local": "ورسان الاولى",
+   "admin1": "Dubai",
+   "code": "621",
+   "sector": "Central - Sector 6",
+   "area_km2": 8.4,
+   "population": 108176
+  },
+  {
+   "name": "Warsan Second",
+   "name_local": "ورسان الثانية",
+   "admin1": "Dubai",
+   "code": "622",
+   "sector": "Central - Sector 6",
+   "area_km2": 8.6,
+   "population": 1409
+  },
+  {
+   "name": "Warsan Fourth",
+   "name_local": "ورسان الرابعة",
+   "admin1": "Dubai",
+   "code": "624",
+   "sector": "Central - Sector 6",
+   "area_km2": 7.9,
+   "population": 10104
+  },
+  {
+   "name": "Nad Hessa",
+   "name_local": "ند حصة",
+   "admin1": "Dubai",
+   "code": "626",
+   "sector": "Central - Sector 6",
+   "area_km2": 9.8,
+   "population": 40819
+  },
+  {
+   "name": "Hadaeq Sheikh Mohammed Bin Rashid",
+   "name_local": "حدائق الشيخ محمد بن راشد",
+   "admin1": "Dubai",
+   "code": "631",
+   "sector": "Central - Sector 6",
+   "area_km2": 38.7,
+   "population": 3356
+  },
+  {
+   "name": "Wadi Al Safa 2",
+   "name_local": "وادي الصفا 2",
+   "admin1": "Dubai",
+   "code": "643",
+   "sector": "Central - Sector 6",
+   "area_km2": 10.5,
+   "population": 10890
+  },
+  {
+   "name": "Wadi Al Safa 3",
+   "name_local": "وادي الصفا 3",
+   "admin1": "Dubai",
+   "code": "645",
+   "sector": "Central - Sector 6",
+   "area_km2": 30.2,
+   "population": 10270
+  },
+  {
+   "name": "Wadi Al Safa 4",
+   "name_local": "وادي الصفا 4",
+   "admin1": "Dubai",
+   "code": "646",
+   "sector": "Central - Sector 6",
+   "area_km2": 6.9,
+   "population": 167
+  },
+  {
+   "name": "Wadi Al Safa 5",
+   "name_local": "وادي الصفا 5",
+   "admin1": "Dubai",
+   "code": "648",
+   "sector": "Central - Sector 6",
+   "area_km2": 16.3,
+   "population": 20479
+  },
+  {
+   "name": "Wadi Al Safa 6",
+   "name_local": "وادي الصفا 6",
+   "admin1": "Dubai",
+   "code": "664",
+   "sector": "Central - Sector 6",
+   "area_km2": 7.8,
+   "population": 18856
+  },
+  {
+   "name": "Wadi Al Safa 7",
+   "name_local": "وادي الصفا 7",
+   "admin1": "Dubai",
+   "code": "665",
+   "sector": "Central - Sector 6",
+   "area_km2": 8.4,
+   "population": 8957
+  },
+  {
+   "name": "Al Barsha South First",
+   "name_local": "البرشاء جنوب الاولى",
+   "admin1": "Dubai",
+   "code": "671",
+   "sector": "Central - Sector 6",
+   "area_km2": 5.9,
+   "population": 14500
+  },
+  {
+   "name": "Al Barsha South Second",
+   "name_local": "البرشاء جنوب الثانية",
+   "admin1": "Dubai",
+   "code": "672",
+   "sector": "Central - Sector 6",
+   "area_km2": 4.8,
+   "population": 7239
+  },
+  {
+   "name": "Al Barsha South Third",
+   "name_local": "البرشاء جنوب الثالثة",
+   "admin1": "Dubai",
+   "code": "673",
+   "sector": "Central - Sector 6",
+   "area_km2": 3.7,
+   "population": 8573
+  },
+  {
+   "name": "Al Hebiah First",
+   "name_local": "الحبيه الاول",
+   "admin1": "Dubai",
+   "code": "674",
+   "sector": "Central - Sector 6",
+   "area_km2": 4.2,
+   "population": 11155
+  },
+  {
+   "name": "Al Hebiah Second",
+   "name_local": "الحبيه الثانية",
+   "admin1": "Dubai",
+   "code": "675",
+   "sector": "Central - Sector 6",
+   "area_km2": 3.3,
+   "population": 781
+  },
+  {
+   "name": "Al Hebiah Third",
+   "name_local": "الحبيه الثالثة",
+   "admin1": "Dubai",
+   "code": "676",
+   "sector": "Central - Sector 6",
+   "area_km2": 4.3,
+   "population": 7238
+  },
+  {
+   "name": "Al Hebiah Sixth",
+   "name_local": "الحبيه السادسة",
+   "admin1": "Dubai",
+   "code": "677",
+   "sector": "Central - Sector 6",
+   "area_km2": 3.3,
+   "population": 2455
+  },
+  {
+   "name": "Al Barsha South Fourth",
+   "name_local": "البرشاء جنوب الرابعة",
+   "admin1": "Dubai",
+   "code": "681",
+   "sector": "Central - Sector 6",
+   "area_km2": 6.8,
+   "population": 29087
+  },
+  {
+   "name": "Al Hebiah Fourth",
+   "name_local": "الحبيه الرابعة",
+   "admin1": "Dubai",
+   "code": "682",
+   "sector": "Central - Sector 6",
+   "area_km2": 9.1,
+   "population": 21609
+  },
+  {
+   "name": "Al Hebiah Fifth",
+   "name_local": "الحبيه الخامسة",
+   "admin1": "Dubai",
+   "code": "683",
+   "sector": "Central - Sector 6",
+   "area_km2": 8.1,
+   "population": 10302
+  },
+  {
+   "name": "Al Barsha South Fifth",
+   "name_local": "البرشاء جنوب الخامسة",
+   "admin1": "Dubai",
+   "code": "684",
+   "sector": "Central - Sector 6",
+   "area_km2": 3.0,
+   "population": 7809
+  },
+  {
+   "name": "Me'aisem First",
+   "name_local": "معيصم الأول",
+   "admin1": "Dubai",
+   "code": "685",
+   "sector": "Central - Sector 6",
+   "area_km2": 16.4,
+   "population": 18484
+  },
+  {
+   "name": "Me'aisem Second",
+   "name_local": "معيصم الثانية",
+   "admin1": "Dubai",
+   "code": "686",
+   "sector": "Central - Sector 6",
+   "area_km2": 10.4,
+   "population": 13
+  },
+  {
+   "name": "Al Awir First",
+   "name_local": "العوير الأولى",
+   "admin1": "Dubai",
+   "code": "711",
+   "sector": "Northeast - Sector 7",
+   "area_km2": 39.7,
+   "population": 4488
+  },
+  {
+   "name": "Al Awir Second",
+   "name_local": "العوير الثانية",
+   "admin1": "Dubai",
+   "code": "721",
+   "sector": "Northeast - Sector 7",
+   "area_km2": 52.4,
+   "population": 5874
+  },
+  {
+   "name": "Enkhali",
+   "name_local": "نخلي",
+   "admin1": "Dubai",
+   "code": "724",
+   "sector": "Northeast - Sector 7",
+   "area_km2": 49.0,
+   "population": 2
+  },
+  {
+   "name": "Al Wohoosh",
+   "name_local": "الوحوش",
+   "admin1": "Dubai",
+   "code": "727",
+   "sector": "Northeast - Sector 7",
+   "area_km2": 25.4,
+   "population": 48
+  },
+  {
+   "name": "Lehbab First",
+   "name_local": "لهباب الأولى",
+   "admin1": "Dubai",
+   "code": "731",
+   "sector": "Northeast - Sector 7",
+   "area_km2": 33.8,
+   "population": 3389
+  },
+  {
+   "name": "Al Meryal",
+   "name_local": "المريال",
+   "admin1": "Dubai",
+   "code": "735",
+   "sector": "Northeast - Sector 7",
+   "area_km2": 15.5,
+   "population": 769
+  },
+  {
+   "name": "Nazwah",
+   "name_local": "نزوه",
+   "admin1": "Dubai",
+   "code": "736",
+   "sector": "Northeast - Sector 7",
+   "area_km2": 13.1,
+   "population": 575
+  },
+  {
+   "name": "Warsan 3",
+   "name_local": "ورسان الثالثة",
+   "admin1": "Dubai",
+   "code": "811",
+   "sector": "East - Sector 8",
+   "area_km2": 10.4,
+   "population": 12613
+  },
+  {
+   "name": "Al Rowaiyah First",
+   "name_local": "الرويه الأولى",
+   "admin1": "Dubai",
+   "code": "812",
+   "sector": "East - Sector 8",
+   "area_km2": 11.5,
+   "population": 3263
+  },
+  {
+   "name": "Al Rowaiyah Second",
+   "name_local": "الرويه الثانية",
+   "admin1": "Dubai",
+   "code": "813",
+   "sector": "East - Sector 8",
+   "area_km2": 7.5,
+   "population": 0
+  },
+  {
+   "name": "Al Rowaiyah Third",
+   "name_local": "الرويه الثالثة",
+   "admin1": "Dubai",
+   "code": "814",
+   "sector": "East - Sector 8",
+   "area_km2": 60.0,
+   "population": 4897
+  },
+  {
+   "name": "Mereiyeel",
+   "name_local": "مرييل",
+   "admin1": "Dubai",
+   "code": "821",
+   "sector": "East - Sector 8",
+   "area_km2": 30.7,
+   "population": 424
+  },
+  {
+   "name": "Umm Al Daman",
+   "name_local": "أم الدمن",
+   "admin1": "Dubai",
+   "code": "824",
+   "sector": "East - Sector 8",
+   "area_km2": 35.2,
+   "population": 299
+  },
+  {
+   "name": "Le Hemaira",
+   "name_local": "الحميرا",
+   "admin1": "Dubai",
+   "code": "826",
+   "sector": "East - Sector 8",
+   "area_km2": 36.4,
+   "population": 56
+  },
+  {
+   "name": "Lehbab Second",
+   "name_local": "لهباب الثانية",
+   "admin1": "Dubai",
+   "code": "831",
+   "sector": "East - Sector 8",
+   "area_km2": 63.2,
+   "population": 1601
+  },
+  {
+   "name": "Umm Al Mo'meneen",
+   "name_local": "أم المؤمنين",
+   "admin1": "Dubai",
+   "code": "835",
+   "sector": "East - Sector 8",
+   "area_km2": 32.7,
+   "population": 169
+  },
+  {
+   "name": "Margham",
+   "name_local": "مرغم",
+   "admin1": "Dubai",
+   "code": "841",
+   "sector": "East - Sector 8",
+   "area_km2": 152.6,
+   "population": 1217
+  },
+  {
+   "name": "Al Maha",
+   "name_local": "المها",
+   "admin1": "Dubai",
+   "code": "845",
+   "sector": "East - Sector 8",
+   "area_km2": 41.7,
+   "population": 205
+  },
+  {
+   "name": "Umm Eselay",
+   "name_local": "أم السلي",
+   "admin1": "Dubai",
+   "code": "847",
+   "sector": "East - Sector 8",
+   "area_km2": 35.2,
+   "population": 216
+  },
+  {
+   "name": "Remah",
+   "name_local": "رماح",
+   "admin1": "Dubai",
+   "code": "851",
+   "sector": "East - Sector 8",
+   "area_km2": 82.9,
+   "population": 195
+  },
+  {
+   "name": "Margab",
+   "name_local": "مرقب",
+   "admin1": "Dubai",
+   "code": "857",
+   "sector": "East - Sector 8",
+   "area_km2": 34.6,
+   "population": 666
+  },
+  {
+   "name": "Yaraah",
+   "name_local": "يراح",
+   "admin1": "Dubai",
+   "code": "861",
+   "sector": "East - Sector 8",
+   "area_km2": 76.5,
+   "population": 100
+  },
+  {
+   "name": "Hatta",
+   "name_local": "حتا",
+   "admin1": "Dubai",
+   "code": "891",
+   "sector": "East - Sector 8",
+   "area_km2": 128.8,
+   "population": 14985
+  },
+  {
+   "name": "Madinat Hind 1",
+   "name_local": "مدينة هند 1",
+   "admin1": "Dubai",
+   "code": "911",
+   "sector": "South - Sector 9",
+   "area_km2": 14.1,
+   "population": 8
+  },
+  {
+   "name": "Madinat Hind 2",
+   "name_local": "مدينة هند 2",
+   "admin1": "Dubai",
+   "code": "912",
+   "sector": "South - Sector 9",
+   "area_km2": 8.5,
+   "population": 2
+  },
+  {
+   "name": "Madinat Hind 3",
+   "name_local": "مدينة هند 3",
+   "admin1": "Dubai",
+   "code": "913",
+   "sector": "South - Sector 9",
+   "area_km2": 15.3,
+   "population": 3623
+  },
+  {
+   "name": "Madinat Hind 4",
+   "name_local": "مدينة هند 4",
+   "admin1": "Dubai",
+   "code": "914",
+   "sector": "South - Sector 9",
+   "area_km2": 60.4,
+   "population": 3136
+  },
+  {
+   "name": "Al Yufrah 1",
+   "name_local": "اليفره 1",
+   "admin1": "Dubai",
+   "code": "915",
+   "sector": "South - Sector 9",
+   "area_km2": 17.5,
+   "population": 403
+  },
+  {
+   "name": "Al Marmoom",
+   "name_local": "المرموم",
+   "admin1": "Dubai",
+   "code": "917",
+   "sector": "South - Sector 9",
+   "area_km2": 27.3,
+   "population": 141
+  },
+  {
+   "name": "Al Yufrah 2",
+   "name_local": "اليفره 2",
+   "admin1": "Dubai",
+   "code": "919",
+   "sector": "South - Sector 9",
+   "area_km2": 11.8,
+   "population": 3
+  },
+  {
+   "name": "Al Yalayis 1",
+   "name_local": "الياليس 1",
+   "admin1": "Dubai",
+   "code": "921",
+   "sector": "South - Sector 9",
+   "area_km2": 17.8,
+   "population": 1679
+  },
+  {
+   "name": "Al Yalayis 2",
+   "name_local": "الياليس 2",
+   "admin1": "Dubai",
+   "code": "922",
+   "sector": "South - Sector 9",
+   "area_km2": 14.3,
+   "population": 3685
+  },
+  {
+   "name": "Al Yalayis 3",
+   "name_local": "الياليس 3",
+   "admin1": "Dubai",
+   "code": "923",
+   "sector": "South - Sector 9",
+   "area_km2": 12.3,
+   "population": 4
+  },
+  {
+   "name": "Al Yalayis 4",
+   "name_local": "الياليس 4",
+   "admin1": "Dubai",
+   "code": "924",
+   "sector": "South - Sector 9",
+   "area_km2": 13.2,
+   "population": 8
+  },
+  {
+   "name": "Al Yalayis 5",
+   "name_local": "الياليس 5",
+   "admin1": "Dubai",
+   "code": "925",
+   "sector": "South - Sector 9",
+   "area_km2": 25.2,
+   "population": 88
+  },
+  {
+   "name": "Al Lesaily",
+   "name_local": "الليسيلي",
+   "admin1": "Dubai",
+   "code": "931",
+   "sector": "South - Sector 9",
+   "area_km2": 112.7,
+   "population": 2950
+  },
+  {
+   "name": "Grayteesah",
+   "name_local": "قريطيسه",
+   "admin1": "Dubai",
+   "code": "941",
+   "sector": "South - Sector 9",
+   "area_km2": 91.8,
+   "population": 58
+  },
+  {
+   "name": "Al Fagaa",
+   "name_local": "الفقع",
+   "admin1": "Dubai",
+   "code": "945",
+   "sector": "South - Sector 9",
+   "area_km2": 140.5,
+   "population": 442
+  },
+  {
+   "name": "Saih Al Salam",
+   "name_local": "سيح السلم",
+   "admin1": "Dubai",
+   "code": "951",
+   "sector": "South - Sector 9",
+   "area_km2": 88.7,
+   "population": 615
+  },
+  {
+   "name": "Al Hathmah",
+   "name_local": "الحثمة",
+   "admin1": "Dubai",
+   "code": "956",
+   "sector": "South - Sector 9",
+   "area_km2": 82.3,
+   "population": 37
+  },
+  {
+   "name": "Madinat Latifa",
+   "name_local": "مدينة لطيفة",
+   "admin1": "Dubai",
+   "code": "961",
+   "sector": "South - Sector 9",
+   "area_km2": 170.7,
+   "population": 684
+  },
+  {
+   "name": "Ghadeer Barashy",
+   "name_local": "غدير براشي",
+   "admin1": "Dubai",
+   "code": "967",
+   "sector": "South - Sector 9",
+   "area_km2": 70.9,
+   "population": 33
+  },
+  {
+   "name": "Saih Al Dahal",
+   "name_local": "سيح الدحل",
+   "admin1": "Dubai",
+   "code": "971",
+   "sector": "South - Sector 9",
+   "area_km2": 190.2,
+   "population": 3
+  },
+  {
+   "name": "Al O'shoosh",
+   "name_local": "العشوش",
+   "admin1": "Dubai",
+   "code": "975",
+   "sector": "South - Sector 9",
+   "area_km2": 58.9,
+   "population": 3
+  },
+  {
+   "name": "Saih Shua'alah",
+   "name_local": "سيح شعيله",
+   "admin1": "Dubai",
+   "code": "978",
+   "sector": "South - Sector 9",
+   "area_km2": 69.5,
+   "population": 3
+  },
+  {
+   "name": "Mugatrah",
+   "name_local": "مقطره",
+   "admin1": "Dubai",
+   "code": "981",
+   "sector": "South - Sector 9",
+   "area_km2": 139.9,
+   "population": 347
+  },
+  {
+   "name": "Al Layan 1",
+   "name_local": "الليان 1",
+   "admin1": "Dubai",
+   "code": "987",
+   "sector": "South - Sector 9",
+   "area_km2": 28.3,
+   "population": 0
+  },
+  {
+   "name": "Al Layan 2",
+   "name_local": "الليان 2",
+   "admin1": "Dubai",
+   "code": "988",
+   "sector": "South - Sector 9",
+   "area_km2": 37.0,
+   "population": 0
+  },
+  {
+   "name": "Hefair",
+   "name_local": "حفير",
+   "admin1": "Dubai",
+   "code": "991",
+   "sector": "South - Sector 9",
+   "area_km2": 143.6,
+   "population": 0
+  }
+ ],
+ "admin2_level": "district",
+ "admin2_note": "only Dubai communities (with official community codes, as used in Dubai addresses); other emirates via OSM",
+ "plates": [
+  {
+   "admin1": "Abu Dhabi",
+   "markers": [
+    "ABU DHABI",
+    "A.D",
+    "AD",
+    "أبوظبي",
+    "أبو ظبي"
+   ],
+   "code_kind": "number",
+   "codes": [
+    "1",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "50"
+   ],
+   "digits": 5,
+   "note": "code is a number, usually in a red box on the left (1, 4-22, 50)"
+  },
+  {
+   "admin1": "Dubai",
+   "markers": [
+    "DUBAI",
+    "دبي"
+   ],
+   "code_kind": "letter",
+   "codes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z",
+    "AA",
+    "BB",
+    "CC",
+    "DD",
+    "EE"
+   ],
+   "digits": 5,
+   "note": "letter code (doubled letters AA-EE also used); taxis yellow, export blue, transit green, police dark green"
+  },
+  {
+   "admin1": "Sharjah",
+   "markers": [
+    "SHARJAH",
+    "SHJ",
+    "الشارقة"
+   ],
+   "code_kind": "number",
+   "codes": [
+    "",
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "digits": 5,
+   "note": "optional category number 1-4; orange or white plate"
+  },
+  {
+   "admin1": "Ajman",
+   "markers": [
+    "AJMAN",
+    "عجمان"
+   ],
+   "code_kind": "letter",
+   "codes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "H"
+   ],
+   "digits": 5,
+   "note": "first letter only A, B, C, D, E or H"
+  },
+  {
+   "admin1": "Umm Al Quwain",
+   "markers": [
+    "UMM AL QUWAIN",
+    "U.A.Q",
+    "UAQ",
+    "أم القيوين"
+   ],
+   "code_kind": "letter",
+   "codes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "X"
+   ],
+   "digits": 5,
+   "note": "letters A-I or X"
+  },
+  {
+   "admin1": "Ras Al Khaimah",
+   "markers": [
+    "RAS AL KHAIMAH",
+    "R.A.K",
+    "RAK",
+    "رأس الخيمة"
+   ],
+   "code_kind": "letter",
+   "codes": [
+    "A",
+    "C",
+    "D",
+    "I",
+    "K",
+    "M",
+    "N",
+    "S",
+    "V",
+    "Y"
+   ],
+   "digits": 5,
+   "note": "letters A, C, D, I, K, M, N, S, V, Y; some plates show a fort"
+  },
+  {
+   "admin1": "Fujairah",
+   "markers": [
+    "FUJAIRAH",
+    "FUJ",
+    "الفجيرة"
+   ],
+   "code_kind": "letter",
+   "codes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "K",
+    "M",
+    "P",
+    "R",
+    "S",
+    "T"
+   ],
+   "digits": 5,
+   "note": "letters A-G, K, M, P, R, S, T"
+  }
+ ],
+ "phone": {
+  "calling_code": "971",
+  "trunk": "0",
+  "area": [
+   {
+    "prefix": "02",
+    "admin1": [
+     "Abu Dhabi"
+    ],
+    "place": "Abu Dhabi city and region"
+   },
+   {
+    "prefix": "03",
+    "admin1": [
+     "Abu Dhabi"
+    ],
+    "place": "Al Ain"
+   },
+   {
+    "prefix": "04",
+    "admin1": [
+     "Dubai"
+    ],
+    "place": "Dubai"
+   },
+   {
+    "prefix": "06",
+    "admin1": [
+     "Sharjah",
+     "Ajman",
+     "Umm Al Quwain"
+    ],
+    "place": "Sharjah, Ajman, Umm Al Quwain"
+   },
+   {
+    "prefix": "07",
+    "admin1": [
+     "Ras Al Khaimah"
+    ],
+    "place": "Ras Al Khaimah"
+   },
+   {
+    "prefix": "08",
+    "admin1": [
+     "Abu Dhabi"
+    ],
+    "place": "Al Dhafra (Western Region, Liwa)"
+   },
+   {
+    "prefix": "09",
+    "admin1": [
+     "Fujairah"
+    ],
+    "place": "Fujairah"
+   }
+  ],
+  "mobile": [
+   {
+    "prefix": "050",
+    "note": "Etisalat (e&)"
+   },
+   {
+    "prefix": "052",
+    "note": "du"
+   },
+   {
+    "prefix": "053",
+    "note": "Virgin Mobile"
+   },
+   {
+    "prefix": "054",
+    "note": "Etisalat (e&)"
+   },
+   {
+    "prefix": "055",
+    "note": "du"
+   },
+   {
+    "prefix": "056",
+    "note": "Etisalat (e&)"
+   },
+   {
+    "prefix": "057",
+    "note": "DOMC"
+   },
+   {
+    "prefix": "058",
+    "note": "du / Virgin Mobile"
+   }
+  ],
+  "special": [
+   {
+    "prefix": "800",
+    "note": "toll-free, nationwide"
+   },
+   {
+    "prefix": "600",
+    "note": "shared cost, nationwide"
+   },
+   {
+    "prefix": "200",
+    "note": "shared cost, nationwide"
+   }
+  ]
+ }
+}

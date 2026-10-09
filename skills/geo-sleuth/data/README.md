@@ -10,6 +10,7 @@
 | `driving_side.json` | 各国行驶方向 | [en.wikipedia.org/wiki/Left-_and_right-hand_traffic](https://en.wikipedia.org/wiki/Left-_and_right-hand_traffic) | 2026-09-14 | 236 | 派生自维基百科，CC BY-SA 4.0 |
 | `territories.json` | 海外领地和属地 | [en.wikipedia.org/wiki/List_of_dependent_territories](https://en.wikipedia.org/wiki/List_of_dependent_territories) | 2026-09-14 | 60 | 派生自维基百科，CC BY-SA 4.0 |
 | `cn_admin.json` | 中国省市县三级行政区代码 | [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) `dist/pca-code.json` | 2026-09-14 | 3420 | WTFPL |
+| `world/ae.json` | UAE: 7 emirates, 224 Dubai communities with official codes, plate rules per emirate, phone prefixes | en.wikipedia.org: Vehicle registration plates of the UAE; Telephone numbers in the UAE; Emirates of the UAE; List of communities in Dubai | 2026-10-08 | 231 | derived from Wikipedia, CC BY-SA 4.0 |
 | `country_names.json` | 中英文国家和地区名对照及别名 | 手工整理 | 2026-09-14 | 300 | MIT（随本仓库） |
 
 说明：
@@ -18,3 +19,5 @@
 - `cn_plates.json` 里 `渝` 条目下的 `letter_notes_unverified` 块（直辖市车牌字母分区）不来自维基百科，来自常识表，未核实。`clues.py` 输出时会标 unverified。
 - `country_names.json` 是手工整理的对照表，`en2zh` 的键与其他各表里的英文写法一致，`aliases` 把简称、繁体、旧名、英文缩写映射到 `en2zh` 的键。
 - 这个目录不包含 OpenStreetMap 数据；`gazetteer.py`、`osm.py` 现查 Overpass。
+
+- `world/<cc>.json` is built by `scripts/build_world.py <cc>`: tables parsed from Wikipedia wikitext plus rule constants (plate code ranges, phone prefixes) transcribed from the same pages and kept in the builder so they stay reviewable.

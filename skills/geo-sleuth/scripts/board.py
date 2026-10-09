@@ -702,7 +702,7 @@ def cmd_apply(args, p: Path) -> None:
     cl = HERE / "clues.py"
     if not cl.exists():
         sys.exit("clues.py 还没就位：先手工 `board.py clue` + `evidence`")
-    r = _run([UV, "run", str(cl), "lookup", args.kind, args.value, "--json"])
+    r = _run([UV, "run", str(cl), "lookup", args.kind, args.value, "--json"] + (["--country", args.country] if args.country else []))
     if r.returncode != 0:
         sys.exit(f"clues.py 失败：{r.stderr.strip()[-400:]}")
     try:
@@ -726,6 +726,8 @@ def cmd_apply(args, p: Path) -> None:
             return "country"
         if key == "admin1":
             return "admin1"
+        if m.get("admin2_level"):  # world tables say what their second level is
+            return m["admin2_level"]
         name = m.get("admin2", "")
         if m.get("admin1") in MUNICIPALITIES or name.endswith(("区", "县", "旗")):
             return "district"
@@ -854,6 +856,7 @@ def main() -> None:
     ap_.add_argument("--clue", help="已登记的线索 id；不给就新建一条 read 线索")
     ap_.add_argument("--file", help="读出这个字的放大图")
     ap_.add_argument("--lr", type=float, default=20.0)
+    ap_.add_argument("--country", help="non-China table, e.g. AE (see clues.py list)")
 
     lg = sub.add_parser("log")
     lg.add_argument("-n", type=int, default=40)

@@ -1,6 +1,6 @@
 ---
 name: geo-sleuth
-description: 照片拍摄地点定位（看图找地点 / 网络迷踪 / 图寻 / 推拍摄时间）。给一张或几张照片，先一条命令做完元数据、OCR、以图搜图（intake.py），把线索和候选记到候选盘（board.py）上由脚本排名、给下一步；查表线索用 clues.py；卫星图和街景都是"机器先排序、人只看前几名"（sat_scan.py、match.py）；每个结论都用真实数据核对，输出坐标 + 误差半径、证据图和分档置信度。Geolocate or chronolocate a photo with tool-verified reasoning — EXIF, OCR, reverse image search (Baidu/Yandex), lookup tables (plates, area codes, calling codes, driving side, territories), candidate board with likelihood ranking, sun and shadow math, OSM Overpass, CLIP-ranked satellite scan, DINOv2+SIFT-ranked street view matching, DEM skyline rendering. Use when the user shares a photo and asks 这是哪 / 在哪拍的 / 帮我定位这张照片 / 网络迷踪 / 几点拍的 / where was this taken / geolocate this.
+description: 照片拍摄地点定位（看图找地点 / 网络迷踪 / 图寻 / 推拍摄时间）。给一张或几张照片，先一条命令做完元数据、OCR、以图搜图（intake.py），把线索和候选记到候选盘（board.py）上由脚本排名、给下一步；查表线索用 clues.py；卫星图和街景都是"机器先排序、人只看前几名"（sat_scan.py、match.py）；每个结论都用真实数据核对，输出坐标 + 误差半径、证据图和分档置信度。Geolocate or chronolocate a photo with tool-verified reasoning — EXIF, OCR, reverse image search (Baidu/Yandex; Google Lens outside China), lookup tables (plates, area codes, calling codes, driving side, territories; per-country tables for the UAE and more), candidate board with likelihood ranking, sun and shadow math, OSM Overpass, CLIP-ranked satellite scan, DINOv2+SIFT-ranked street view matching, DEM skyline rendering. Use when the user shares a photo and asks 这是哪 / 在哪拍的 / 帮我定位这张照片 / 网络迷踪 / 几点拍的 / where was this taken / geolocate this.
 ---
 
 # 迷踪 · geo-sleuth（v2）
@@ -18,6 +18,17 @@ description: 照片拍摄地点定位（看图找地点 / 网络迷踪 / 图寻 
 | 判断：从画面里提线索、查表没有时提假设、在机器排好的前几名里裁定 | **你** | — |
 
 方法来自 14 个网络迷踪博主视频、22 道题的拆解和多轮盲测对照；拆解笔记不随仓库发布。v1 的教训：规则写成散文不会被执行，同一版 skill 两次跑结果差很大；所以 v2 把能写成代码的规则都放进了 `board.py`。
+
+## Outside China (read this first when the photo is not from mainland China)
+
+The workflow, hard rules and board below apply unchanged. What changes is the search and lookup layer:
+
+- **Reverse image search**: Google Lens first (in the user's browser via Claude in Chrome, see `references/search.md`), then Yandex. Baidu and Sogou rarely help outside China; skip them unless the photo is from a Chinese-language source.
+- **Names → coordinates**: `poi.py "<hotel / tower / mall>" --city <city> --country <cc>`. For a non-`cn` country it defaults to Photon + Nominatim; the 360/Baidu sources are China-only.
+- **Lookup tables**: `clues.py lookup plate|area-code|admin <value> --country <CC>` and `board.py apply ... --country <CC>` read `data/world/<cc>.json` (`clues.py list` shows what is available; `build_world.py <cc>` rebuilds a table). International numbers like `+971 …` select the right table automatically.
+- **Admin children**: `board.py children <country or region>` already works worldwide through OSM; country tables add finer official units (e.g. Dubai's 224 communities with their codes).
+- **Region clue sheets**: `references/regions/<region>.md` lists what identifies places there (plates, utilities, transit, address systems) and which clues are weak. Available: `uae.md`.
+- Coordinates outside China are WGS84 everywhere; no GCJ-02 conversion.
 
 ## 硬规则（全程有效；标 ★ 的由 board.py 强制，你照做就行）
 

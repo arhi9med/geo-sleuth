@@ -13,6 +13,12 @@
   lookup territories 法国       海外领地/属地列表；`--continent 南美洲` 只列该洲
   lookup admin 渝北区            上级链；`admin --children 重庆市` 下级列表
   list                          各表条数、来源、抓取日期
+
+Outside China (tables in data/world/, add --country):
+  lookup plate "DUBAI A 12345" --country AE      region from plate text or code
+  lookup area-code "+971 4 123 4567"             +971 auto-selects the UAE table; mobile prefixes give the country only
+  lookup admin --children Dubai --country AE     Dubai communities with official codes
+  lookup admin "Al Barsha 1" --country AE        chain: country > emirate > sector > community
   update [表名|all]             重新抓取（走 --proxy）；`--from-dir` 用已下载的 HTML
 
 --json 输出统一契约（给 board.py apply 用）：
@@ -515,9 +521,34 @@ def lookup_admin(value: str | None, children: str | None, level: str | None) -> 
     return _result("admin", name, ms, src, fetched, "" if ms else "没有这个行政区名（写全名，如“渝北区”）")
 
 
+def _world_lookup(args) -> dict | None:
+    """Non-China tables (data/world/): `--country AE`, or a +971-style number for area-code."""
+    sys.path.insert(0, str(Path(__file__).parent))
+    import world  # noqa: PLC0415
+    k = args.kind
+    cc = world.table_for(args.country)
+    if not cc and k == "area-code":
+        digits = re.sub(r"\D", "", args.value or "")
+        digits = digits[2:] if digits.startswith("00") else digits
+        if (args.value or "").strip().startswith(("+", "00")):
+            cc = next((t for code, t in world.CALLING.items() if digits.startswith(code) and t in world.available()), None)
+    if not cc:
+        return None
+    if k in ("plate", "plate-prefix"):
+        return world.lookup_plate(cc, args.value or "")
+    if k == "area-code":
+        return world.lookup_phone(cc, args.value or "")
+    if k == "admin":
+        return world.lookup_admin(cc, args.value, args.children)
+    return None
+
+
 def cmd_lookup(args) -> None:
     k = args.kind
-    if k in ("plate", "plate-prefix"):
+    res = _world_lookup(args) if k in ("plate", "plate-prefix", "area-code", "admin") else None
+    if res is not None:
+        pass
+    elif k in ("plate", "plate-prefix"):
         res = lookup_plate(args.value or "")
     elif k == "area-code":
         res = lookup_area_code(args.value or "")
@@ -537,7 +568,8 @@ def cmd_lookup(args) -> None:
     print(f"[{res['kind']}] {res['value']} → {len(res['matches'])} 条" + (f"（{res['note']}）" if res["note"] else ""))
     for m in res["matches"][: args.limit]:
         if "country" in m:
-            print("  " + " / ".join(str(m.get(x)) for x in ("country", "side", "continent", "subregion", "utc") if m.get(x)) + (f"  {m['note']}" if m.get("note") else ""))
+            print("  " + " / ".join(str(m.get(x)) for x in ("country", "admin1", "admin2", "code", "side", "continent", "subregion", "utc") if m.get(x))
+                  + (f"  {m['note']}" if m.get("note") else "") + (f"  chain:{'>'.join(c for c in m['chain'] if c)}" if m.get("chain") else ""))
         else:
             print("  " + " / ".join(str(m.get(x)) for x in ("admin1", "admin2") if m.get(x)) + (f"  {m['note']}" if m.get("note") else "")
                   + (f"  链:{'>'.join(m['chain'])}" if m.get("chain") else ""))
@@ -554,6 +586,10 @@ def cmd_list(args) -> None:
             continue
         m = json.loads(f.read_text(encoding="utf-8"))["_meta"]
         print(f"{name}: {m.get('count')} 条，{f.stat().st_size // 1024} KB，抓取 {m.get('fetched')}，来源 {m['source'][0]}")
+    for f in sorted((DATA / "world").glob("*.json")):
+        m = json.loads(f.read_text(encoding="utf-8"))["_meta"]
+        print(f"world/{f.stem}: {m.get('count')} rows, {f.stat().st_size // 1024} KB, fetched {m.get('fetched')}, "
+              f"use --country {f.stem.upper()} (rebuild: build_world.py {f.stem})")
 
 
 def main() -> None:
