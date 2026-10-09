@@ -299,7 +299,71 @@ def build_us(from_dir: str | None, proxy: str | None) -> dict:
     }
 
 
-BUILDERS = {"ae": build_ae, "us": build_us}
+# ---------------------------------------------------------------- Russia
+
+RU_SRC = {
+    "plates": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Russia",
+    "phone": "https://en.wikipedia.org/wiki/Telephone_numbers_in_Russia",
+}
+BOLD_CODE = re.compile("'''" + r"\(?(\d{2,3})")
+# names differ between the plates page and the phone page; map phone-page names to plate-page names
+RU_NAME_FIX = {"Moscow City": "Moscow", "St. Petersburg": "Saint Petersburg", "Khanty–Mansi Autonomous Okrug": "Khanty-Mansi Autonomous Okrug",
+               "Republic of Chechnya": "Chechen Republic", "Republic of Chuvashia": "Chuvash Republic",
+               "Republic of Kabardino-Balkaria": "Kabardino-Balkar Republic", "Republic of Karachay–Cherkessia": "Karachay-Cherkess Republic",
+               "Republic of Mari El": "Mari El Republic", "Republic of Tyva (Tuva)": "Tuva Republic", "Republic of Udmurtia": "Udmurt Republic",
+               "Sakha Republic (Yakutia)": "Sakha Republic"}
+
+
+def _ru_name(cell: str) -> str:
+    v = _clean(cell).replace("&nbsp;", " ").strip("'* ")
+    v = re.sub(r"\s+", " ", v)
+    return RU_NAME_FIX.get(v, v)
+
+
+def build_ru(from_dir: str | None, proxy: str | None) -> dict:
+    pt = wiki("Vehicle_registration_plates_of_Russia", from_dir, proxy)
+    sec = pt.split("==Regional codes==")[1].split("==Codes of diplomatic")[0]
+    region_codes: dict[str, list[str]] = {}
+    for row in re.split(r"\n\|-", sec):
+        cells = [c for c in re.split(r"\n\|", "\n" + row.strip()) if c.strip()]
+        if len(cells) < 2 or "colspan" in cells[0]:
+            continue
+        codes = BOLD_CODE.findall(cells[0])
+        name = _ru_name(cells[1])
+        if not codes or not name or name.lower().startswith(("initially", "internationally")):
+            continue
+        region_codes.setdefault(name, []).extend(codes)
+    ph = wiki("Telephone_numbers_in_Russia", from_dir, proxy)
+    geo = ph.split("=== Geographic area codes ===")[1].split("===Russian mobile")[0]
+    area = []
+    for row in re.split(r"\n\s*\|-", geo):
+        cells = [c.strip() for c in re.split(r"\|\|", row.strip().lstrip("|"))]
+        if len(cells) < 2:
+            continue
+        codes = re.findall(r"\b(\d{3,4})\b", _clean(cells[1].split("|")[-1]))
+        if not codes:
+            continue
+        names = [_ru_name(n.split("|")[-1]) for n in re.findall(r"\[\[([^\]]+)\]\]", cells[0])] or [_ru_name(cells[0])]
+        for c in codes:
+            area.append({"prefix": c, "admin1": names, "place": ", ".join(names)})
+    plates = [{"admin1": n, "markers": [], "code_kind": "region", "codes": c, "digits": 3, "note": "region codes " + ", ".join(c)}
+              for n, c in region_codes.items()]
+    admin1 = [{"name": n, "name_local": "", "iso": "", "capital": "", "aliases": []} for n in region_codes]
+    return {
+        "_meta": {"source": [RU_SRC["plates"], RU_SRC["phone"]], "fetched": date.today().isoformat(),
+                  "count": len(plates) + len(area), "license": "derived from Wikipedia, CC BY-SA 4.0",
+                  "by_kind": {"plate": RU_SRC["plates"], "area": RU_SRC["phone"], "admin": RU_SRC["plates"]}},
+        "country": "Russia", "iso": "RU", "driving_side": "right",
+        "admin1": admin1, "admin2": [], "admin2_level": "district",
+        "admin2_note": "districts not tabled; use board.py children <subject> (OSM)",
+        "plates": plates,
+        "phone": {"calling_code": "7", "trunk": "8", "scheme": "ru", "area": area,
+                  "mobile": [{"prefix": "9", "note": "mobile (9xx), not tied to a place"}],
+                  "special": [{"prefix": "800", "note": "toll-free, nationwide"}, {"prefix": "809", "note": "premium rate"}]},
+    }
+
+
+BUILDERS = {"ae": build_ae, "us": build_us, "ru": build_ru}
 
 
 def main() -> None:

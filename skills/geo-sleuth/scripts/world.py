@@ -15,10 +15,11 @@ DATA = Path(__file__).parent.parent / "data" / "world"
 # country names / codes that select a table
 ALIASES = {
     "ae": ["ae", "are", "uae", "u.a.e", "united arab emirates", "emirates", "阿联酋", "阿拉伯联合酋长国", "оаэ", "эмираты"],
+    "ru": ["ru", "rus", "russia", "russian federation", "россия", "рф", "俄罗斯"],
     "us": ["us", "usa", "u.s.", "u.s.a.", "united states", "united states of america", "america", "美国", "сша"],
 }
 # international calling code -> table, for auto-detecting "+971 4 ..." without --country
-CALLING = {"971": "ae", "1": "us"}
+CALLING = {"971": "ae", "7": "ru", "1": "us"}
 
 
 def table_for(country: str | None) -> str | None:
@@ -63,6 +64,18 @@ def lookup_plate(cc: str, value: str) -> dict:
     if named:
         ms = [{"country": d["country"], "admin1": r["admin1"], "admin2": "", "note": "region printed on plate; " + r["note"]} for r in named]
         return _res("plate", value, ms, d)
+    # 2a) region-number tables (Russia: A123BC 77 / 177 / 777): the trailing 2-3 digits are the region
+    if any(r.get("code_kind") == "region" for r in d["plates"]):
+        lat = raw.translate(str.maketrans("АВЕКМНОРСТУХ", "ABEKMHOPCTYX"))
+        lat = re.sub(r"\bRUS\b", "", lat)
+        m = re.fullmatch(r"\s*(\d{2,3})\s*", lat) or re.search(r"[A-Z]\s*\d{3}\s*[A-Z]{2}\s*(\d{2,3})\b", lat) \
+            or re.search(r"[A-Z]{2}\s*\d{3,4}\s*(\d{2,3})\b", lat) or re.search(r"(\d{2,3})\s*$", lat.strip())
+        code = m.group(1) if m else ""
+        ms = [r for r in d["plates"] if code and code in r["codes"]]
+        note = "" if ms else "region code not found (read the small number on the right, next to RUS)"
+        if len(ms) > 1:
+            note = "code reassigned over time: an old plate may belong to the second region"
+        return _res("plate", value, [{"country": d["country"], "admin1": r["admin1"], "admin2": "", "note": r["note"]} for r in ms], d, note)
     # 2a) format-based tables (US states): match the serial against each region's issued formats
     if any(r.get("code_kind") == "format" for r in d["plates"]):
         serial = re.sub(r"[^A-Z0-9]", "", raw)
@@ -97,6 +110,21 @@ def lookup_phone(cc: str, value: str) -> dict:
     d = load(cc)
     p = d["phone"]
     digits = re.sub(r"\D", "", value)
+    if p.get("scheme") == "ru":
+        digits = digits[2:] if digits.startswith("00") else digits
+        if len(digits) == 11 and digits[0] in "78":
+            digits = digits[1:]
+        for s in p.get("special", []):
+            if digits.startswith(s["prefix"]):
+                return _res("area-code", value, [{"country": d["country"], "note": s["note"]}], d, "nationwide number, no area")
+        if digits.startswith("9"):
+            return _res("area-code", value, [{"country": d["country"], "note": "mobile (9xx), not tied to a place"}], d, "mobile prefix: tells the country only")
+        if digits[:1] in ("6", "7"):
+            return _res("area-code", value, [{"country": "Kazakhstan", "note": "+7 6xx / 7xx belongs to Kazakhstan"}], d, "not a Russian number")
+        for a in sorted(p["area"], key=lambda x: -len(x["prefix"])):
+            if digits.startswith(a["prefix"]):
+                return _res("area-code", value, [{"country": d["country"], "admin1": s, "admin2": "", "note": a["place"]} for s in a["admin1"]], d)
+        return _res("area-code", value, [], d, "code not in table (or a 4-5 digit local town code: check the subject's code first)")
     if p.get("scheme") == "nanp":
         digits = digits[2:] if digits.startswith("00") else digits
         digits = digits[1:] if len(digits) == 11 and digits.startswith("1") else digits
